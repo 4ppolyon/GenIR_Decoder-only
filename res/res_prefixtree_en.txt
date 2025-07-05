@@ -1,0 +1,32 @@
+Obtaining file:///lustre/fswork/projects/rech/dsv/ufy16sp/Stage_M2/llama3
+Installing collected packages: llama3
+  Attempting uninstall: llama3
+    Found existing installation: llama3 0.0.1
+    Uninstalling llama3-0.0.1:
+      Successfully uninstalled llama3-0.0.1
+  Running setup.py develop for llama3
+Successfully installed llama3-0.0.1
+-----------------------------------------
+Mémoire RAM disponible avant exécution :
+               total        used        free      shared  buff/cache   available
+Mem:           502Gi        51Gi       411Gi       183Mi        59Gi       450Gi
+Swap:             0B          0B          0B
+-----------------------------------------
+Exécution de ./Test_Generation.py sans argument d'entrée avec torchrun...
+ModelArgs with use_scaled_rope loaded!
+Chargement du Trie depuis Llama-3.2-3B/original/tokenized_trie.json
+Loading Tokenized_Trie from file
+Tokenized_Trie loaded successfully
+Trie chargé en 249.24s.
+Total GPUs available: 1
+> initializing model parallel with size 1
+> initializing ddp with size 1
+> initializing pipeline with size 1
+Modèle chargé en 12.01s.
+Starting generation: 1 prompt, max_gen_len=77
+min_prompt_len=97, total_len=174
+	Input: System: L'assistant est un expert dans le(s) domaine(s) evoqué(s) l'utilisateur. Il doit répondre de manière précise, concise et utile, en fournissant des informations pertinentes et en respectant les instructions données.Il n'y a qu'une seule demande de l'utilisateur et l'assistant doit répondre à cette demande sans poser de questions supplémentaires.
+	User: Give me information about the Eiffel Tower.
+	Assistant:
+	The Eiffel Tower and Other Mythologies
+{'generation': 'The Eiffel Tower and Other Mythologies'}

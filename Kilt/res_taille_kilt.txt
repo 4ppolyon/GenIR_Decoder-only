@@ -1,0 +1,93 @@
+Exemples de titres :
+- Ilemodes isogyna
+- Saint-Genès-Champanelle
+- Austin 8
+- Miss Philippines Earth 2012
+- Gujba Forest Reserve
+- Cedar Creek (Missouri River tributary)
+- James R. Thompson (statistician)
+- Gloeocapsa
+- Marian Hemar
+- Bagh-e Soltaniyeh
+
+il y a 5903530 articles
+Longueur maximale des passages: 76 tokens
+Longueur moyenne des passages: 6.59 tokens
+
+Distribution des longueurs des passages :
+1 tokens : 0 passages
+2 tokens : 5987 passages
+3 tokens : 337350 passages
+4 tokens : 902815 passages
+5 tokens : 1086989 passages
+6 tokens : 1013333 passages
+7 tokens : 816519 passages
+8 tokens : 598086 passages
+9 tokens : 424572 passages
+10 tokens : 268047 passages
+11 tokens : 162458 passages
+12 tokens : 107453 passages
+13 tokens : 65927 passages
+14 tokens : 41010 passages
+15 tokens : 24915 passages
+16 tokens : 16502 passages
+17 tokens : 9970 passages
+18 tokens : 6828 passages
+19 tokens : 4976 passages
+20 tokens : 3376 passages
+21 tokens : 2289 passages
+22 tokens : 1348 passages
+23 tokens : 1257 passages
+24 tokens : 673 passages
+25 tokens : 229 passages
+26 tokens : 138 passages
+27 tokens : 130 passages
+28 tokens : 91 passages
+29 tokens : 68 passages
+30 tokens : 42 passages
+31 tokens : 23 passages
+32 tokens : 24 passages
+33 tokens : 22 passages
+34 tokens : 13 passages
+35 tokens : 11 passages
+36 tokens : 11 passages
+37 tokens : 6 passages
+38 tokens : 3 passages
+39 tokens : 1 passages
+40 tokens : 8 passages
+41 tokens : 4 passages
+42 tokens : 9 passages
+43 tokens : 0 passages
+44 tokens : 2 passages
+45 tokens : 0 passages
+46 tokens : 2 passages
+47 tokens : 1 passages
+48 tokens : 1 passages
+49 tokens : 1 passages
+50 tokens : 0 passages
+51 tokens : 3 passages
+52 tokens : 0 passages
+53 tokens : 0 passages
+54 tokens : 0 passages
+55 tokens : 0 passages
+56 tokens : 0 passages
+57 tokens : 0 passages
+58 tokens : 1 passages
+59 tokens : 2 passages
+60 tokens : 1 passages
+61 tokens : 0 passages
+62 tokens : 0 passages
+63 tokens : 0 passages
+64 tokens : 2 passages
+65 tokens : 0 passages
+66 tokens : 0 passages
+67 tokens : 0 passages
+68 tokens : 0 passages
+69 tokens : 0 passages
+70 tokens : 0 passages
+71 tokens : 0 passages
+72 tokens : 0 passages
+73 tokens : 0 passages
+74 tokens : 0 passages
+75 tokens : 0 passages
+76 tokens : 1 passages

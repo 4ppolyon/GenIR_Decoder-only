@@ -193,13 +193,9 @@ cython_debug/
 # MS data files
 
 /MS/data/full/corrected/MS_short_titres_vllm_corrected.tsv
-/MS/data/full/corrected/MS_titres_vllm2_corrected.tsv
-/MS/data/full/corrected/MS_titres_vllm22_corrected.tsv
 /MS/data/full/corrected/MS_titres_vllm_corrected.tsv
 /MS/data/full/MS_short_titres_vllm.tsv
 /MS/data/full/MS_titres_vllm.tsv
-/MS/data/full/MS_titres_vllm2.tsv
-/MS/data/full/MS_titres_vllm22.tsv
 /MS/eval/*/
 /MS/splits/*/
 
@@ -209,14 +205,6 @@ cython_debug/
 /res/gen_titres/full/MS_short_titres_vllm_problem_gen.tsv
 /res/gen_titres/full/MS_short_titres_vllm_problem_inst.tsv
 /res/gen_titres/full/MS_short_titres_vllm_titres.tsv
-/res/gen_titres/full/MS_titres_vllm2_autres.tsv
-/res/gen_titres/full/MS_titres_vllm2_problem_gen.tsv
-/res/gen_titres/full/MS_titres_vllm2_problem_inst.tsv
-/res/gen_titres/full/MS_titres_vllm2_titres.tsv
-/res/gen_titres/full/MS_titres_vllm22_autres.tsv
-/res/gen_titres/full/MS_titres_vllm22_problem_gen.tsv
-/res/gen_titres/full/MS_titres_vllm22_problem_inst.tsv
-/res/gen_titres/full/MS_titres_vllm22_titres.tsv
 /res/gen_titres/full/MS_titres_vllm_autres.tsv
 /res/gen_titres/full/MS_titres_vllm_problem_gen.tsv
 /res/gen_titres/full/MS_titres_vllm_problem_inst.tsv
@@ -225,14 +213,6 @@ cython_debug/
 /res/gen_titres/full/corrected/MS_short_titres_vllm_corrected_problem_gen.tsv
 /res/gen_titres/full/corrected/MS_short_titres_vllm_corrected_problem_inst.tsv
 /res/gen_titres/full/corrected/MS_short_titres_vllm_corrected_titres.tsv
-/res/gen_titres/full/corrected/MS_titres_vllm2_corrected_autres.tsv
-/res/gen_titres/full/corrected/MS_titres_vllm2_corrected_problem_gen.tsv
-/res/gen_titres/full/corrected/MS_titres_vllm2_corrected_problem_inst.tsv
-/res/gen_titres/full/corrected/MS_titres_vllm2_corrected_titres.tsv
-/res/gen_titres/full/corrected/MS_titres_vllm22_corrected_autres.tsv
-/res/gen_titres/full/corrected/MS_titres_vllm22_corrected_problem_gen.tsv
-/res/gen_titres/full/corrected/MS_titres_vllm22_corrected_problem_inst.tsv
-/res/gen_titres/full/corrected/MS_titres_vllm22_corrected_titres.tsv
 /res/gen_titres/full/corrected/MS_titres_vllm_corrected_autres.tsv
 /res/gen_titres/full/corrected/MS_titres_vllm_corrected_problem_gen.tsv
 /res/gen_titres/full/corrected/MS_titres_vllm_corrected_problem_inst.tsv

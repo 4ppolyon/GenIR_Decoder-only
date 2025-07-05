@@ -1,0 +1,15 @@
+Metric	Value
+Total	8841823
+Max	153 (id: 2721643)
+Min	1 (id: 4082130)
+Average	12.59
+Variance	22.87
+Median	12
+NB ok	8600048
+PRC ok	97.27%
+NB autre	94957
+PRC autre	1.07%
+NB problèmes de génération	139697
+PRC problèmes de génération	1.58%
+NB problèmes instruction	7121
+PRC problèmes instruction	0.08%

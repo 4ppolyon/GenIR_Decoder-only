@@ -1,0 +1,1056 @@
+0	Scientific collaboration and intellect fueled the Manhattan Project's groundbreaking achievement.	[51665, 1104, 20632, 323, 17108, 59461, 279, 29890, 5907, 596, 64955, 26501, 13]	13	ok
+1	The Manhattan Project ended World War II with lasting scientific impact.	[791, 29890, 5907, 9670, 4435, 5111, 8105, 449, 29869, 12624, 5536, 13]	12	ok
+2	The Manhattan Project successfully created the world's first atomic bomb.	[791, 29890, 5907, 7946, 3549, 279, 1917, 596, 1176, 25524, 13054, 13]	12	ok
+3	The Manhattan Project was a secret US wartime atomic bomb initiative.	[791, 29890, 5907, 574, 264, 6367, 2326, 87952, 25524, 13054, 20770, 13]	12	ok
+4	The Manhattan Project history is available online at cfo.doe.gov.	[791, 29890, 5907, 3925, 374, 2561, 2930, 520, 272, 831, 962, 4748, 14489, 13]	14	ok
+5	Manhattan Project marks the dawn of nuclear age history.	[1692, 26405, 5907, 15785, 279, 39493, 315, 11499, 4325, 3925, 13]	11	ok
+6	The book provides a concise overview of atomic bombs briefly.	[791, 2363, 5825, 264, 64694, 24131, 315, 25524, 33606, 27851, 13]	11	ok
+7	"""Manhattan Project led to the development of nuclear weapons."""	[1, 1692, 26405, 5907, 6197, 311, 279, 4500, 315, 11499, 10094, 1210]	12	problèmes de génération
+8	The Manhattan Project initiated secret atomic bomb development efforts.	[791, 29890, 5907, 33230, 6367, 25524, 13054, 4500, 9045, 13]	10	ok
+9	Hanford's strategic location near the Columbia River facilitated nuclear research.	[74225, 8350, 596, 19092, 3813, 3221, 279, 19326, 11188, 72849, 11499, 3495, 13]	13	ok
+10	Expert facilitators guide sensitive discussions and support groups effectively.	[75392, 17028, 3046, 8641, 16614, 20954, 323, 1862, 5315, 13750, 13]	11	ok
+11	Restorative justice aims to repair harm caused by offenders.	[12698, 63465, 12437, 22262, 311, 13023, 11682, 9057, 555, 41702, 13]	11	ok
+12	Restorative justice focuses on repairing harm caused by criminal behavior.	[12698, 63465, 12437, 24400, 389, 68337, 11682, 9057, 555, 9337, 7865, 13]	12	ok
+13	Community-led panels facilitate offender accountability and victim support.	[34868, 35054, 21988, 28696, 47753, 39242, 323, 11996, 1862, 13]	10	ok
+14	Analyzing restorative justice principles in the US criminal justice system.	[74407, 20994, 2800, 63465, 12437, 16565, 304, 279, 2326, 9337, 12437, 1887, 13]	13	ok
+15	Crime affects communities in various ways and degrees always.	[92690, 22223, 10977, 304, 5370, 5627, 323, 12628, 2744, 13]	10	ok
+16	Restorative justice promotes victim satisfaction and offender accountability effectively.	[12698, 63465, 12437, 39990, 11996, 24617, 323, 47753, 39242, 13750, 13]	11	ok
+17	Criminal justice differs from civil disputes in its state-centric approach.	[34, 58140, 12437, 44642, 505, 8431, 42254, 304, 1202, 1614, 65524, 5603, 13]	13	ok
+18	Criminal justice is a state-offender relationship rather than victim-offender dispute.	[34, 58140, 12437, 374, 264, 1614, 12744, 1693, 5133, 4856, 1109, 11996, 12744, 1693, 26086, 13]	16	ok
+19	Circles involve diverse stakeholders in conflict resolution discussions.	[34, 75363, 21736, 17226, 39210, 304, 12324, 11175, 20954, 13]	10	ok
+20	Phloem transports photosynthetic products throughout the plant system.	[3438, 385, 336, 69169, 7397, 1910, 18015, 3956, 6957, 279, 6136, 1887, 13]	13	ok
+21	Plant vascular tissues facilitate food and water distribution efficiently always.	[55747, 64603, 39881, 28696, 3691, 323, 3090, 8141, 30820, 2744, 13]	11	ok
+22	Plant vascular tissues facilitate food and water transport efficiently always.	[55747, 64603, 39881, 28696, 3691, 323, 3090, 7710, 30820, 2744, 13]	11	ok
+23	Phloem transports plant products from leaves to other parts.	[3438, 385, 336, 69169, 6136, 3956, 505, 11141, 311, 1023, 5596, 13]	12	ok
+24	Phloem cells transport water-rich, sugar-rich sap throughout the plant.	[3438, 385, 336, 7917, 7710, 3090, 41947, 11, 13465, 41947, 35735, 6957, 279, 6136, 13]	15	ok
+25	Water moves through xylem and phloem via bulk flow mechanisms.	[29353, 11031, 1555, 865, 982, 76, 323, 1343, 385, 336, 4669, 20155, 6530, 24717, 13]	15	ok
+26	Sugar transport through phloem facilitated by active transport mechanisms.	[84514, 7710, 1555, 1343, 385, 336, 72849, 555, 4642, 7710, 24717, 13]	12	ok
+27	Phloem transports photosynthetic products, while xylem circulates water and minerals.	[3438, 385, 336, 69169, 7397, 1910, 18015, 3956, 11, 1418, 865, 982, 76, 4319, 24031, 3090, 323, 34072, 13]	19	ok
+28	Plant vascular system transports essential nutrients and water throughout the plant.	[55747, 64603, 1887, 69169, 7718, 37493, 323, 3090, 6957, 279, 6136, 13]	12	ok
+29	The Industrial Workers of the World had significant growth.	[791, 25563, 36798, 315, 279, 4435, 1047, 5199, 6650, 13]	10	ok
+30	Immigrants led the Industrial Workers of the World movement.	[51839, 71336, 6197, 279, 25563, 36798, 315, 279, 4435, 7351, 13]	11	ok
+31	Chinese workers arrived in the US for various economic opportunities.	[46023, 7487, 11721, 304, 279, 2326, 369, 5370, 7100, 10708, 13]	11	ok
+32	The Gilded Age of American industrialization and social disparity.	[791, 480, 91354, 13381, 315, 3778, 13076, 2065, 323, 3674, 66949, 13]	12	ok
+33	Economic and cultural tensions fueled anti-Chinese immigration in America.	[36, 32107, 323, 13042, 39510, 59461, 7294, 30653, 7496, 15443, 304, 5270, 13]	13	ok
+34	Rapid industrialization transformed America's economy and society dramatically overnight.	[49, 44221, 13076, 2065, 24411, 5270, 596, 8752, 323, 8396, 29057, 25402, 13]	13	ok
+35	The Angell Treaty allowed US to restrict Chinese immigration temporarily.	[791, 7568, 616, 52131, 5535, 2326, 311, 9067, 8620, 15443, 28191, 13]	12	ok
+36	The Industrial Workers of the World emerged in 1905.	[791, 25563, 36798, 315, 279, 4435, 22763, 304, 220, 7028, 20, 13]	12	ok
+37	Railroads drove the US industrial economy before 1890 significantly.	[95150, 43791, 23980, 279, 2326, 13076, 8752, 1603, 220, 9378, 15, 12207, 13]	13	ok
+38	US-China relations strained over immigration legislation proposal.	[2078, 98709, 4398, 73779, 927, 15443, 13543, 14050, 13]	9	ok
+39	Costa Rica offers a haven for eco-tourism and medical tourism.	[15289, 64, 53049, 6209, 264, 9167, 369, 42688, 2442, 414, 2191, 323, 6593, 32083, 13]	15	ok
+40	Costa Rica's premier medical tourism destination for quality care abroad.	[15289, 64, 53049, 596, 21134, 6593, 32083, 9284, 369, 4367, 2512, 22917, 13]	13	ok
+41	Medical tourism in Costa Rica offers diverse healthcare services abroad.	[53654, 32083, 304, 32380, 53049, 6209, 17226, 18985, 3600, 22917, 13]	11	ok
+42	Costa Rica offers affordable medical treatment options abroad.	[15289, 64, 53049, 6209, 17049, 6593, 6514, 2671, 22917, 13]	10	ok
+43	Costa Rica offers diverse medical services abroad.	[15289, 64, 53049, 6209, 17226, 6593, 3600, 22917, 13]	9	ok
+44	The Cook brothers successfully manage hospital insurance and patient services.	[791, 12797, 20820, 7946, 10299, 8952, 8276, 323, 8893, 3600, 13]	11	ok
+45	Medical Tourism pioneers in Costa Rica, innovating patient care abroad.	[53654, 52652, 83407, 304, 32380, 53049, 11, 9721, 1113, 8893, 2512, 22917, 13]	13	ok
+46	Health tourism surges in Costa Rica's plastic surgery market.	[14884, 32083, 1765, 4282, 304, 32380, 53049, 596, 12466, 15173, 3157, 13]	12	ok
+47	Costa Rica boasts highest life expectancy in Latin America overall.	[15289, 64, 53049, 38119, 8592, 2324, 66995, 304, 20023, 5270, 8244, 13]	12	ok
+48	Costa Rica attracts foreign patients seeking affordable quality healthcare services.	[15289, 64, 53049, 61191, 7362, 6978, 11125, 17049, 4367, 18985, 3600, 13]	12	ok
+49	Urine colors vary from pale to dark amber shades naturally.	[52, 40101, 8146, 13592, 505, 28639, 311, 6453, 68705, 37199, 18182, 13]	12	ok
+50	Caffeine consumption causes temporary urine color change in some individuals.	[34, 38880, 483, 15652, 11384, 13643, 40335, 1933, 2349, 304, 1063, 7931, 13]	13	ok
+51	Color and clarity of urine indicate potential substance presence.	[1668, 323, 32373, 315, 40335, 13519, 4754, 20278, 9546, 13]	10	ok
+52	Urine composition reveals body health through color and frequency.	[52, 40101, 18528, 21667, 2547, 2890, 1555, 1933, 323, 11900, 13]	11	ok
+53	Red or yellow-brown urine can indicate disease or damage.	[6161, 477, 14071, 1481, 4935, 40335, 649, 13519, 8624, 477, 5674, 13]	12	ok
+54	Dehydration affects urine color and fluid balance significantly always.	[1951, 81824, 22223, 40335, 1933, 323, 15962, 8335, 12207, 2744, 13]	11	ok
+55	Dark urine color indicates inadequate hydration levels and potential health issues.	[26915, 40335, 1933, 15151, 46579, 88000, 5990, 323, 4754, 2890, 4819, 13]	12	ok
+56	Urine analysis reveals health issues through color and scent.	[52, 40101, 6492, 21667, 2890, 4819, 1555, 1933, 323, 41466, 13]	11	ok
+57	Dark urine is normal if it returns to normal color after hydration.	[26915, 40335, 374, 4725, 422, 433, 4780, 311, 4725, 1933, 1306, 88000, 13]	13	ok
+58	Urine color reveals health insights through subtle chemical changes.	[52, 40101, 1933, 21667, 2890, 26793, 1555, 27545, 11742, 4442, 13]	11	ok
+59	Liver transplantation is often performed due to cirrhosis caused various factors.	[83995, 98702, 374, 3629, 10887, 4245, 311, 30570, 41196, 10934, 9057, 5370, 9547, 13]	14	ok
+60	Inborn errors of bile acid synthesis cause severe liver and neurological issues.	[644, 16381, 6103, 315, 73394, 13935, 39975, 5353, 15748, 26587, 323, 64908, 4819, 13]	14	ok
+61	Autoimmune disorders affect 34% of patients with autoimmune hepatitis.	[13556, 70155, 24673, 7958, 220, 1958, 4, 315, 6978, 449, 88191, 73975, 13]	13	ok
+62	Primary biliary cirrhosis destroys liver's bile ducts gradually.	[16352, 293, 35546, 30570, 41196, 10934, 60832, 26587, 596, 73394, 45339, 82, 27115, 13]	14	ok
+63	Hepatitis B and C, alcoholism, and genetic disorders cause cirrhosis.	[39, 752, 82801, 426, 323, 356, 11, 13200, 2191, 11, 323, 19465, 24673, 5353, 30570, 41196, 10934, 13]	18	ok
+64	Peroxisomal disorders affect bile acid synthesis and motor function.	[47, 2382, 7339, 53911, 24673, 7958, 73394, 13935, 39975, 323, 9048, 734, 13]	13	ok
+65	"Here is a nominal phrase with no repetition, at most 10 words and at least 6 words:
+
+""Electrospray ionisation tandem mass spectrometry screens for neurological disorders."""	[8586, 374, 264, 47855, 17571, 449, 912, 54515, 11, 520, 1455, 220, 605, 4339, 323, 520, 3325, 220, 21, 4339, 1473, 1, 30431, 3714, 91704, 28772, 8082, 67042, 3148, 9618, 442, 15501, 15670, 369, 64908, 24673, 1210]	37	problèmes de génération
+66	Autoimmune Hepatitis is a liver disease caused by immune system damage.	[13556, 70155, 61245, 82801, 374, 264, 26587, 8624, 9057, 555, 22852, 1887, 5674, 13]	14	ok
+67	Pruritus is a symptom of cholestasis caused by bile acids.	[3617, 324, 36891, 374, 264, 49648, 315, 523, 62095, 10949, 9057, 555, 73394, 33969, 13]	15	ok
+68	Primary Biliary Cirrhosis predominantly affects women over 50 years old.	[16352, 426, 35546, 42009, 41196, 10934, 47904, 22223, 3278, 927, 220, 1135, 1667, 2362, 13]	15	ok
+69	Ancient Jewish leaders delayed winter solstice celebrations to start year.	[89167, 1188, 13653, 6164, 23540, 12688, 2092, 94803, 47674, 311, 1212, 1060, 13]	13	ok
+70	Israel's barley harvest timing influences Jewish New Year celebrations.	[34627, 596, 81817, 24322, 18912, 34453, 13653, 1561, 9941, 47674, 13]	11	ok
+71	Barley is a versatile grain with diverse uses worldwide.	[3511, 3258, 374, 264, 33045, 24875, 449, 17226, 5829, 15603, 13]	11	ok
+72	Barley harvest affects calendar year start timing uncertainty.	[3511, 3258, 24322, 22223, 13470, 1060, 1212, 18912, 27924, 13]	10	ok
+73	Ancient Israel's harvest season spanned from April to November.	[89167, 1188, 6921, 596, 24322, 3280, 9575, 19212, 505, 5936, 311, 6841, 13]	13	ok
+74	Barley is less cold tolerant than certain winter grains varieties.	[3511, 3258, 374, 2753, 9439, 74582, 1109, 3738, 12688, 41936, 36680, 13]	12	ok
+75	Wheat ripens later than barley, typically in late spring season.	[54, 20559, 24169, 729, 3010, 1109, 81817, 11, 11383, 304, 3389, 10683, 3280, 13]	14	ok
+76	The start of the year was not barley-related historically.	[791, 1212, 315, 279, 1060, 574, 539, 81817, 14228, 35901, 13]	11	ok
+77	Barley harvest typically occurs in late spring in Palestine.	[3511, 3258, 24322, 11383, 13980, 304, 3389, 10683, 304, 42034, 13]	11	ok
+78	Pentecost marked the end of the grain harvest season.	[47, 306, 762, 537, 13160, 279, 842, 315, 279, 24875, 24322, 3280, 13]	13	ok
+79	Left side under rib pain may be caused by serious conditions.	[5530, 3185, 1234, 20735, 6784, 1253, 387, 9057, 555, 6129, 4787, 13]	12	ok
+80	Pancreatitis is a serious condition requiring immediate medical attention always.	[36793, 846, 82801, 374, 264, 6129, 3044, 23537, 14247, 6593, 6666, 2744, 13]	13	ok
+81	Left side organs include spleen, stomach, and pancreas, typically cause pain.	[5530, 3185, 36853, 2997, 87450, 268, 11, 23152, 11, 323, 62268, 300, 11, 11383, 5353, 6784, 13]	17	ok
+82	Rib cage is a vital structure in vertebrates enclosing vital organs.	[99984, 36460, 374, 264, 16595, 6070, 304, 67861, 99868, 86028, 16595, 36853, 13]	13	ok
+83	Damage to lower right rib cage causes sharp pain under rib cage.	[25246, 311, 4827, 1314, 20735, 36460, 11384, 17676, 6784, 1234, 20735, 36460, 13]	13	ok
+84	The rib cage shields vital organs in the abdomen.	[791, 20735, 36460, 53765, 16595, 36853, 304, 279, 64772, 13]	10	ok
+85	The chest cavity contains lungs, heart, and diaphragm primarily.	[791, 15489, 56429, 5727, 45274, 11, 4851, 11, 323, 1891, 95896, 76, 15871, 13]	14	ok
+86	Pain radiates from left upper abdomen to ribcage area.	[47, 467, 12164, 988, 505, 2163, 8582, 64772, 311, 20735, 66, 425, 3158, 13]	14	ok
+87	Rib structure consists of head, neck, and shaft components.	[99984, 6070, 17610, 315, 2010, 11, 13272, 11, 323, 31468, 6956, 13]	12	ok
+88	Costochondritis causes sharp pain under the left ribs.	[15289, 47517, 38090, 11384, 17676, 6784, 1234, 279, 2163, 56249, 13]	11	ok
+89	Wheeler Services, Inc specializes in commercial concrete construction projects nationwide.	[54, 383, 8023, 8471, 11, 4953, 46672, 304, 8518, 14509, 8246, 7224, 29054, 13]	14	ok
+90	Steve leads credit strategy at Lendmark Financial Services.	[38595, 11767, 6807, 8446, 520, 445, 408, 4075, 17961, 8471, 13]	11	ok
+91	Wheeler Services, Inc. specializes in various construction projects nationwide.	[54, 383, 8023, 8471, 11, 4953, 13, 46672, 304, 5370, 8246, 7224, 29054, 13]	14	ok
+92	Dr. Wheeler, a seasoned Emergency Medicine specialist, practices in Maryland.	[9023, 13, 61446, 11, 264, 52614, 32708, 19152, 24687, 11, 12659, 304, 23481, 13]	14	ok
+93	Steve is a seasoned financial expert with extensive industry knowledge.	[38595, 374, 264, 52614, 6020, 6335, 449, 16781, 5064, 6677, 13]	11	ok
+94	Steve Wheeler appointed as Lendmark Financial Services' new Chief Credit Officer.	[38595, 61446, 21489, 439, 445, 408, 4075, 17961, 8471, 6, 502, 14681, 16666, 20148, 13]	15	ok
+95	Dr. Wheeler holds a medical degree from Latvian Medical Academy.	[9023, 13, 61446, 10187, 264, 6593, 8547, 505, 10128, 85, 1122, 13235, 16192, 13]	14	ok
+96	Steve holds a degree in American Legal History and serves.	[38595, 10187, 264, 8547, 304, 3778, 25705, 11346, 323, 17482, 13]	11	ok
+97	Verify insurance details with Dr. Wheeler's office directly always.	[33727, 8276, 3649, 449, 2999, 13, 61446, 596, 5274, 6089, 2744, 13]	12	ok
+98	Wheeler Services is a licensed contractor specializing in concrete structures.	[54, 383, 8023, 8471, 374, 264, 16383, 31072, 58394, 304, 14509, 14726, 13]	13	ok
+99	Antonín Dvořák's father supported his musical ambitions freely always.	[17555, 263, 25196, 423, 107110, 72542, 596, 7126, 7396, 813, 18273, 51566, 26662, 2744, 13]	15	ok
+100	Antonín Dvořák was a musician, not a butcher.	[17555, 263, 25196, 423, 107110, 72542, 574, 264, 39844, 11, 539, 264, 76194, 13]	14	ok
+101	Antonín Dvořák was a renowned Czech composer of Romantic music.	[17555, 263, 25196, 423, 107110, 72542, 574, 264, 37048, 34250, 40550, 315, 76830, 4731, 13]	15	ok
+102	Dvorak was born in a rapidly changing Bohemia village.	[35, 37215, 587, 574, 9405, 304, 264, 19019, 10223, 52450, 22689, 14458, 13]	13	ok
+103	Dvorak was a musician who defied his butcher father's legacy.	[35, 37215, 587, 574, 264, 39844, 889, 711, 1142, 813, 76194, 7126, 596, 20160, 13]	15	ok
+104	Antonin Dvorak blended folk music into classical compositions masterfully.	[17555, 263, 258, 423, 37215, 587, 55645, 29036, 4731, 1139, 29924, 62644, 7491, 3725, 13]	15	ok
+105	Dvorak befriended Brahms and spent Iowa summers there afterwards.	[35, 37215, 587, 58046, 462, 2954, 78084, 1026, 323, 7543, 21357, 80769, 1070, 27905, 13]	15	ok
+106	Nelahozeves birthplace of renowned composer Antonin Dvorak in 1841.	[45, 301, 29682, 3059, 2396, 7342, 2050, 315, 37048, 40550, 17958, 258, 423, 37215, 587, 304, 220, 10336, 16, 13]	20	ok
+107	Antonin Dvorak was a musician despite his butcher father.	[17555, 263, 258, 423, 37215, 587, 574, 264, 39844, 8994, 813, 76194, 7126, 13]	14	ok
+108	Dvorak was a musician who defied his father's expectations.	[35, 37215, 587, 574, 264, 39844, 889, 711, 1142, 813, 7126, 596, 17078, 13]	14	ok
+109	Medicare faces financial strain due to rising costs nationwide.	[13613, 81138, 12580, 6020, 26800, 4245, 311, 16448, 7194, 29054, 13]	11	ok
+110	Social Security benefits to rise 1.7% in 2015 seasonally.	[27414, 8398, 7720, 311, 10205, 220, 16, 13, 22, 4, 304, 220, 679, 20, 3280, 750, 13]	17	ok
+111	Social Security benefits failed to keep pace with inflation recently.	[27414, 8398, 7720, 4745, 311, 2567, 18338, 449, 25544, 6051, 13]	11	ok
+112	Social Security benefits to remain unchanged in 2016 nationwide.	[27414, 8398, 7720, 311, 7293, 35957, 304, 220, 679, 21, 29054, 13]	12	ok
+113	Social Security recipients to receive modest benefit increase in 2017.	[27414, 8398, 34876, 311, 5371, 27946, 8935, 5376, 304, 220, 679, 22, 13]	13	ok
+114	Earnings limit for 66-year-olds remains $41,880 annually.	[36, 15202, 4017, 369, 220, 2287, 4771, 65248, 8625, 400, 3174, 11, 19272, 30171, 13]	15	ok
+115	Social Security benefits to rise 1.7% in 2015 slightly.	[27414, 8398, 7720, 311, 10205, 220, 16, 13, 22, 4, 304, 220, 679, 20, 10284, 13]	16	ok
+116	Social Security benefits to rise by $2 per month nationwide.	[27414, 8398, 7720, 311, 10205, 555, 400, 17, 824, 2305, 29054, 13]	12	ok
+117	Medicare Part B premiums increased to $149 in 2017 significantly.	[13613, 81138, 3744, 426, 48607, 7319, 311, 400, 10161, 304, 220, 679, 22, 12207, 13]	15	ok
+118	Social Security benefits unlikely to rise in 2017 significantly.	[27414, 8398, 7720, 17821, 311, 10205, 304, 220, 679, 22, 12207, 13]	12	ok
+119	Villeray offers a unique blend of culture and laidback lifestyle.	[53, 15610, 352, 6209, 264, 5016, 20955, 315, 7829, 323, 17551, 1445, 19433, 13]	14	ok
+120	DuProprio provides comprehensive support for private sellers nationwide effectively.	[43174, 2051, 10599, 5825, 16195, 1862, 369, 879, 37249, 29054, 13750, 13]	12	ok
+121	Old Montreal Condos for Sale in Montreal, QC, Canada Overview	[18788, 30613, 1221, 41625, 369, 13618, 304, 30613, 11, 43707, 11, 7008, 35907]	13	ok
+122	Vida LaSalle and Adamus projects offer luxury living options.	[53, 4849, 5034, 50, 5164, 323, 15387, 355, 7224, 3085, 19913, 5496, 2671, 13]	14	ok
+123	Montreal condo market offers numerous options for buyers nationwide.	[35515, 8110, 44200, 3157, 6209, 12387, 2671, 369, 23455, 29054, 13]	11	ok
+124	In Old Montreal, unique condos with customized designs abound.	[644, 10846, 30613, 11, 5016, 88475, 449, 32789, 14769, 87690, 13]	11	ok
+125	District Griffin is a Griffintown super condo with 350 units.	[48940, 41496, 374, 264, 28894, 396, 785, 2307, 44200, 449, 220, 8652, 8316, 13]	14	ok
+126	Villeray offers a unique blend of culture and laidback atmosphere.	[53, 15610, 352, 6209, 264, 5016, 20955, 315, 7829, 323, 17551, 1445, 16975, 13]	14	ok
+127	Downtown Montreal Real Estate Agents Specializing in Condos and Homes.	[35, 15876, 30613, 8976, 25447, 51354, 9984, 4954, 304, 1221, 41625, 323, 37664, 13]	14	ok
+128	Le Bossuet and 3430 Masson are Montreal condo projects.	[2356, 32669, 14127, 323, 220, 16522, 15, 9346, 263, 527, 30613, 44200, 7224, 13]	14	ok
+129	Assessing Pupil Reactions with a Flashlight Test Method	[5733, 434, 287, 393, 94745, 1050, 4109, 449, 264, 17710, 4238, 3475, 6872]	13	ok
+130	Pupillary reflexes regulate pupil size in response to stimuli.	[47, 455, 35605, 33766, 288, 37377, 61072, 1404, 304, 2077, 311, 56688, 13]	13	ok
+131	Pupillary reflexes regulate eye size in response to stimuli.	[47, 455, 35605, 33766, 288, 37377, 8071, 1404, 304, 2077, 311, 56688, 13]	13	ok
+132	Normal pupils constrict in response to light stimulation normally.	[12484, 45172, 390, 6765, 304, 2077, 311, 3177, 41959, 14614, 13]	11	ok
+133	Rapid Automated Perimetry detects optic nerve damage or retinal disease.	[49, 44221, 95823, 3700, 318, 15501, 67578, 81209, 32015, 5674, 477, 2160, 992, 8624, 13]	15	ok
+134	Abnormal pupillary reflex indicates potential damage to the retina or nerve.	[5953, 8416, 15241, 35605, 33766, 15151, 4754, 5674, 311, 279, 84827, 477, 32015, 13]	14	ok
+135	Sympathetic and parasympathetic systems regulate pupil constriction mechanisms.	[35767, 1331, 589, 5411, 323, 1370, 6539, 1331, 589, 5411, 6067, 37377, 61072, 19477, 2538, 24717, 13]	17	ok
+136	Pupillary reflexes are controlled by autonomic nervous system divisions.	[47, 455, 35605, 33766, 288, 527, 14400, 555, 3154, 48228, 23418, 1887, 37601, 13]	14	ok
+137	Observe pupil reactions to light stimulation and comparison.	[4213, 13570, 61072, 25481, 311, 3177, 41959, 323, 12593, 13]	10	ok
+138	Pupillary exam assesses pupil size and response accurately.	[47, 455, 35605, 7151, 8720, 288, 61072, 1404, 323, 2077, 30357, 13]	12	ok
+139	KESWICK, VA census data unavailable, using nearby ZIP Code 22947.	[42, 1600, 54, 10915, 11, 21571, 44702, 828, 36087, 11, 1701, 14373, 57774, 6247, 220, 14378, 2618, 13]	18	ok
+140	Charlottesville, Virginia, a city with a population of 201,559.	[4873, 75, 61670, 11, 13286, 11, 264, 3363, 449, 264, 7187, 315, 220, 679, 11, 22424, 13]	17	ok
+141	Location's population growth depends on TDP and commuting ratio.	[4812, 596, 7187, 6650, 14117, 389, 350, 10510, 323, 94950, 11595, 13]	12	ok
+142	Keswick, Virginia, 22947, Albemarle County, USA postal information available.	[42, 288, 21878, 11, 13286, 11, 220, 14378, 2618, 11, 32672, 336, 277, 273, 6406, 11, 7427, 40854, 2038, 2561, 13]	21	ok
+143	Keswick, VA has limited demographic data and local connections.	[42, 288, 21878, 11, 21571, 706, 7347, 38462, 828, 323, 2254, 13537, 13]	13	ok
+144	Keswick's per capita income is relatively high in Virginia nationwide.	[42, 288, 21878, 596, 824, 53155, 8070, 374, 12309, 1579, 304, 13286, 29054, 13]	14	ok
+145	Keswick, Virginia census data and community profile available online.	[42, 288, 21878, 11, 13286, 44702, 828, 323, 4029, 5643, 2561, 2930, 13]	13	ok
+146	Keswick, Virginia, is a rural area with multiple counties.	[42, 288, 21878, 11, 13286, 11, 374, 264, 19624, 3158, 449, 5361, 31276, 13]	14	ok
+147	Small town life fosters rapid information dissemination and gossip.	[26375, 6424, 2324, 37413, 388, 11295, 2038, 87764, 323, 58587, 13]	11	ok
+148	Keswick Iowa's population and demographics from 2017 and 2018.	[42, 288, 21878, 21357, 596, 7187, 323, 63334, 505, 220, 679, 22, 323, 220, 679, 23, 13]	17	ok
+149	Oral phase involves tongue, lips, and jaw in food preparation.	[2244, 278, 10474, 18065, 25466, 11, 23726, 11, 323, 16942, 304, 3691, 18459, 13]	14	ok
+150	Swallowing involves complex coordination of multiple bodily systems.	[13521, 7331, 287, 18065, 6485, 38793, 315, 5361, 48131, 6067, 13]	11	ok
+151	Oral preparatory phase involves voluntary chewing and tasting food.	[2244, 278, 10073, 5382, 10474, 18065, 37079, 75477, 323, 47500, 3691, 13]	12	ok
+152	Oral cavity bolus transport via reflexive swallow mechanism.	[2244, 278, 56429, 21434, 355, 7710, 4669, 33766, 535, 42276, 17383, 13]	12	ok
+153	Swallowing disorders affect elderly, causing dehydration and respiratory issues.	[13521, 7331, 287, 24673, 7958, 29920, 11, 14718, 99857, 323, 42631, 4819, 13]	13	ok
+154	Dysphagia is a complex swallowing disorder with varied causes.	[35, 1065, 764, 351, 689, 374, 264, 6485, 91747, 19823, 449, 28830, 11384, 13]	14	ok
+155	Aging affects tongue function, leading to swallowing issues.	[32, 3252, 22223, 25466, 734, 11, 6522, 311, 91747, 4819, 13]	11	ok
+156	Deglutition is a three-stage process involving oral mastication.	[46757, 87954, 684, 374, 264, 2380, 51256, 1920, 16239, 21308, 296, 5174, 367, 13]	14	ok
+157	Swallowing involves precise neuromuscular coordination and jaw movement.	[13521, 7331, 287, 18065, 24473, 21143, 442, 355, 22077, 38793, 323, 16942, 7351, 13]	14	ok
+158	Understanding normal swallowing is crucial for therapeutic planning.	[71251, 4725, 91747, 374, 16996, 369, 37471, 9293, 13]	9	ok
+159	Sorrento, Louisiana, a small town in Ascension Parish, Louisiana.	[50, 49809, 78, 11, 29974, 11, 264, 2678, 6424, 304, 40660, 2711, 60347, 11, 29974, 13]	16	ok
+160	Edenborn named Sorrento after Italian honeymoon destination in 1909.	[2782, 268, 16381, 7086, 30631, 8135, 78, 1306, 15155, 84893, 9284, 304, 220, 7028, 24, 13]	16	ok
+161	Ascension Parish Tourism Commission's financial statements for 2010.	[41203, 2711, 60347, 52652, 9849, 596, 6020, 12518, 369, 220, 679, 15, 13]	13	ok
+162	Sorrento, Louisiana is located in Ascension Parish, with median home price $15/sqft.	[50, 49809, 78, 11, 29974, 374, 7559, 304, 40660, 2711, 60347, 11, 449, 23369, 2162, 3430, 400, 868, 2754, 80, 728, 13]	22	autre
+163	Sorrento, Louisiana, named after Italian honeymoon destination.	[50, 49809, 78, 11, 29974, 11, 7086, 1306, 15155, 84893, 9284, 13]	12	ok
+164	Sorrento is a small town in Louisiana with growing development.	[50, 49809, 78, 374, 264, 2678, 6424, 304, 29974, 449, 7982, 4500, 13]	13	ok
+165	Flooding hits Sorrento, Louisiana, causing major road disruptions nationwide.	[93387, 3785, 13280, 30631, 8135, 78, 11, 29974, 11, 14718, 3682, 5754, 98057, 29054, 13]	15	ok
+166	Sorrento, Louisiana, a small town in Ascension Parish, Louisiana.	[50, 49809, 78, 11, 29974, 11, 264, 2678, 6424, 304, 40660, 2711, 60347, 11, 29974, 13]	16	ok
+167	Sorrento, Louisiana has a low sex offender ratio and taxes.	[50, 49809, 78, 11, 29974, 706, 264, 3428, 1877, 47753, 11595, 323, 13426, 13]	14	ok
+168	Sorrento's diverse population reflects its rich cultural heritage origins.	[50, 49809, 78, 596, 17226, 7187, 27053, 1202, 9257, 13042, 28948, 33472, 13]	13	ok
+169	Monks Mound is the largest Mississippian earthwork structure.	[11342, 2857, 386, 801, 374, 279, 7928, 9083, 1056, 2877, 1122, 9578, 1816, 6070, 13]	15	ok
+170	Mississippian Period saw significant pottery innovation and adaptation.	[36412, 1056, 2877, 1122, 26572, 5602, 5199, 83763, 19297, 323, 34185, 13]	12	ok
+171	Ancient earthworks constructed by laborers through repetitive manual labor.	[89167, 1188, 9578, 19033, 20968, 555, 9511, 388, 1555, 59177, 11630, 9511, 13]	13	ok
+172	Native American earth mounds span the US Southeast region historically.	[21464, 3778, 9578, 296, 3171, 9575, 279, 2326, 36664, 5654, 35901, 13]	12	ok
+173	Mississippian people and Caddo used mounds in eastern Arkansas.	[36412, 1056, 2877, 1122, 1274, 323, 356, 723, 78, 1511, 296, 3171, 304, 24024, 32790, 13]	16	ok
+174	Ancient North American mound builders constructed large earthen structures regionally.	[89167, 1188, 4892, 3778, 73266, 49186, 20968, 3544, 2487, 3473, 14726, 5654, 750, 13]	14	ok
+175	Prehistoric American Indians built extensive earthworks and burial mounds.	[4808, 74416, 3778, 30507, 5918, 16781, 9578, 19033, 323, 55763, 296, 3171, 13]	13	ok
+176	Ancient earthworks built in geometric patterns spanned vast areas.	[89167, 1188, 9578, 19033, 5918, 304, 53584, 12912, 9575, 19212, 13057, 5789, 13]	13	ok
+177	Etowah Indian Mounds State Historic Site is a significant archaeological site.	[32960, 363, 1494, 7904, 386, 3171, 3314, 51887, 13207, 374, 264, 5199, 69637, 2816, 13]	15	ok
+178	Mississippian culture built diverse platform mounds for various purposes.	[36412, 1056, 2877, 1122, 7829, 5918, 17226, 5452, 296, 3171, 369, 5370, 10096, 13]	14	ok
+179	Violent video games can be a healthy outlet for some people.	[50817, 306, 2835, 3953, 649, 387, 264, 9498, 27487, 369, 1063, 1274, 13]	13	ok
+180	Video games can positively impact mental well-being and energy levels.	[10955, 3953, 649, 40646, 5536, 10723, 1664, 33851, 323, 4907, 5990, 13]	12	ok
+181	Video games can empower young people's mental wellbeing and coping mechanisms.	[10955, 3953, 649, 26285, 3995, 1274, 596, 10723, 57930, 323, 63082, 24717, 13]	13	ok
+182	Video games can empower young people's mental wellbeing and reduce distress.	[10955, 3953, 649, 26285, 3995, 1274, 596, 10723, 57930, 323, 8108, 35104, 13]	13	ok
+183	Play is a vital biological drive for mental well-being.	[9315, 374, 264, 16595, 24156, 6678, 369, 10723, 1664, 33851, 13]	11	ok
+184	Play is a vital biological drive for mental well-being.	[9315, 374, 264, 16595, 24156, 6678, 369, 10723, 1664, 33851, 13]	11	ok
+185	Doing good deeds brings happiness and good karma to yourself.	[84146, 1695, 54811, 12716, 23871, 323, 1695, 71542, 311, 6261, 13]	11	ok
+186	Violent video games provide cathartic escapism for some gamers.	[50817, 306, 2835, 3953, 3493, 31747, 81987, 89884, 2191, 369, 1063, 35843, 13]	13	ok
+187	Video games meet basic human needs for mental well-being effectively.	[10955, 3953, 3449, 6913, 3823, 3966, 369, 10723, 1664, 33851, 13750, 13]	12	ok
+188	People often find happiness in self-improvement and positive relationships.	[16298, 3629, 1505, 23871, 304, 659, 38025, 782, 7986, 323, 6928, 12135, 13]	13	ok
+189	Award letters should include detailed financial breakdowns and costs.	[90640, 12197, 1288, 2997, 11944, 6020, 31085, 82, 323, 7194, 13]	11	ok
+190	Many students rely on loans to cover full tuition costs.	[8607, 4236, 17631, 389, 17017, 311, 3504, 2539, 39038, 7194, 13]	11	ok
+191	School characteristics encompass academics, admissions, and faculty expertise.	[33849, 17910, 38632, 48709, 11, 48911, 11, 323, 22291, 19248, 13]	11	ok
+192	Students receive financial aid award letters outlining college offers.	[32052, 5371, 6020, 12576, 10292, 12197, 79774, 7926, 6209, 13]	10	ok
+193	Use the Education Cost Worksheet for college savings planning.	[10464, 279, 11930, 11443, 83731, 369, 7926, 19523, 9293, 13]	10	ok
+194	Free Education Cost Worksheet for a Brighter Financial Future Ahead.	[11180, 11930, 11443, 83731, 369, 264, 27508, 261, 17961, 12781, 77544, 13]	12	ok
+195	College budget planning requires ongoing adjustments and research.	[57549, 8199, 9293, 7612, 14529, 34074, 323, 3495, 13]	9	ok
+196	EFC is calculated from FAFSA, determining family's financial capacity.	[36, 6897, 374, 16997, 505, 435, 8440, 7934, 11, 26679, 3070, 596, 6020, 8824, 13]	15	ok
+197	Gettysburg College Board Approves 2017-18 Academic Year Costs.	[1991, 83, 1065, 10481, 9304, 8925, 19157, 2396, 220, 679, 22, 12, 972, 42170, 9941, 64141, 13]	17	ok
+198	Choosing a college involves weighing multiple key factors effectively.	[96144, 264, 7926, 18065, 47826, 5361, 1401, 9547, 13750, 13]	10	ok
+199	Arctic tundra is a treeless, fragile biome shrinking rapidly.	[7098, 26636, 259, 79830, 374, 264, 5021, 1752, 11, 45350, 84710, 63185, 19019, 13]	14	ok
+200	Arctic and alpine tundra regions span across multiple continents worldwide.	[7098, 26636, 323, 453, 39138, 259, 79830, 13918, 9575, 4028, 5361, 66959, 15603, 13]	14	ok
+201	The Tundra spans northern regions of North America, Europe, and Asia.	[791, 350, 79830, 45395, 18671, 13918, 315, 4892, 5270, 11, 4606, 11, 323, 13936, 13]	15	ok
+202	Tundra biome is a fragile, treeless region shrinking rapidly worldwide.	[51, 79830, 84710, 374, 264, 45350, 11, 5021, 1752, 5654, 63185, 19019, 15603, 13]	14	ok
+203	Siberia is a vast, sparsely populated Arctic region in Russia.	[50, 8799, 689, 374, 264, 13057, 11, 993, 1590, 989, 35459, 37518, 5654, 304, 8524, 13]	16	ok
+204	Arctic tundra is a cold, vast, treeless northern region.	[7098, 26636, 259, 79830, 374, 264, 9439, 11, 13057, 11, 5021, 1752, 18671, 5654, 13]	15	ok
+205	Arctic and alpine tundra have extremely cold, treeless landscapes.	[7098, 26636, 323, 453, 39138, 259, 79830, 617, 9193, 9439, 11, 5021, 1752, 55890, 13]	15	ok
+206	Tundra exists in diverse regions beyond the Arctic Circle worldwide.	[51, 79830, 6866, 304, 17226, 13918, 7953, 279, 37518, 21918, 15603, 13]	12	ok
+207	The tundra covers 20% of the earth's surface globally.	[791, 259, 79830, 14861, 220, 508, 4, 315, 279, 9578, 596, 7479, 31550, 13]	14	ok
+208	Tundra ecosystems feature unique vegetation and scattered tree growth.	[51, 79830, 61951, 4668, 5016, 54832, 323, 38067, 5021, 6650, 13]	11	ok
+209	Amazon Prime offers fast and affordable shipping options nationwide.	[26948, 12801, 6209, 5043, 323, 17049, 11862, 2671, 29054, 13]	10	ok
+210	Amazon Mom offers free shipping and discounts for parents.	[26948, 22969, 6209, 1949, 11862, 323, 32162, 369, 6699, 13]	10	ok
+211	Amazon's Prime Day offers exclusive deals for Prime members nationwide.	[26948, 596, 12801, 6187, 6209, 14079, 12789, 369, 12801, 3697, 29054, 13]	12	ok
+212	Amazon Prime membership is a cost-effective option for frequent buyers.	[26948, 12801, 16250, 374, 264, 2853, 53421, 3072, 369, 21420, 23455, 13]	12	ok
+213	Amazon hosts Prime Day with over 100,000 global deals.	[26948, 18939, 12801, 6187, 449, 927, 220, 1041, 11, 931, 3728, 12789, 13]	13	ok
+214	Prime membership offers various shipping options nationwide and globally.	[33406, 16250, 6209, 5370, 11862, 2671, 29054, 323, 31550, 13]	10	ok
+215	Amazon Prime offers free shipping and media streaming benefits.	[26948, 12801, 6209, 1949, 11862, 323, 3772, 17265, 7720, 13]	10	ok
+216	Amazon Prime Day offers exclusive deals for Prime members annually.	[26948, 12801, 6187, 6209, 14079, 12789, 369, 12801, 3697, 30171, 13]	11	ok
+217	Amazon offers discounted Prime membership for one year.	[26948, 6209, 48774, 12801, 16250, 369, 832, 1060, 13]	9	ok
+218	Amazon Prime offers discounted shipping for students initially.	[26948, 12801, 6209, 48774, 11862, 369, 4236, 15453, 13]	9	ok
+219	Physical properties identify substances, including odor, color, and melting point.	[40353, 6012, 10765, 33155, 11, 2737, 54097, 11, 1933, 11, 323, 50684, 1486, 13]	14	ok
+220	Photons are massless particles with two polarization states.	[53304, 2439, 527, 3148, 1752, 19252, 449, 1403, 83245, 5415, 13]	11	ok
+221	Four traditional types of evidence exist in the legal system.	[28070, 8776, 4595, 315, 6029, 3073, 304, 279, 5897, 1887, 13]	11	ok
+222	Force is the change in momentum per unit time.	[19085, 374, 279, 2349, 304, 24151, 824, 5089, 892, 13]	10	ok
+223	Chemical reactions are identified by physical changes and signs.	[64938, 950, 25481, 527, 11054, 555, 7106, 4442, 323, 12195, 13]	11	ok
+224	Photons are elementary particles of electromagnetic radiation naturally occurring everywhere.	[53304, 2439, 527, 36256, 19252, 315, 66669, 25407, 18182, 31965, 17277, 13]	12	ok
+225	Ensure a thorough and secure investigation is conducted immediately afterwards.	[65539, 264, 17879, 323, 9966, 8990, 374, 13375, 7214, 27905, 13]	11	ok
+226	Energy of a system decreases with photon emission.	[33775, 315, 264, 1887, 43154, 449, 69010, 41353, 13]	9	ok
+227	Law of evidence provides crucial guidance in various legal proceedings.	[39166, 315, 6029, 5825, 16996, 19351, 304, 5370, 5897, 29407, 13]	11	ok
+228	Gamma symbol originates from gamma rays discovered by Paul Villard.	[41557, 7891, 99970, 505, 22350, 45220, 11352, 555, 7043, 16959, 569, 13]	12	ok
+229	Hawaiian Baby Woodrose seeds induce varied and intense experiences.	[39, 37069, 1122, 21266, 12404, 25888, 19595, 49853, 28830, 323, 19428, 11704, 13]	13	ok
+230	Combining tramadol with Hawaiian baby woodrose may cause serotonin overload.	[37292, 5859, 53345, 87869, 449, 59103, 8945, 7732, 25888, 1253, 5353, 77130, 43284, 13]	14	ok
+231	Combining Hawaiian baby woodrose and meperidine poses significant health risks.	[37292, 5859, 59103, 8945, 7732, 25888, 323, 757, 716, 91073, 34103, 5199, 2890, 15635, 13]	15	ok
+232	Erowid receives $125 for art glass molecule donation.	[36, 654, 307, 21879, 400, 6549, 369, 1989, 9168, 43030, 25968, 13]	12	ok
+233	Hawaiian baby woodrose is a medicinal ornamental plant species.	[39, 37069, 1122, 8945, 7732, 25888, 374, 264, 58041, 40545, 44186, 6136, 9606, 13]	14	ok
+234	Woodrose seeds lack reliable references and potential hallucinogenic effects.	[49492, 25888, 19595, 6996, 15062, 15407, 323, 4754, 59123, 258, 29569, 6372, 13]	13	ok
+235	Morning glory contains small amounts of potent strychnine toxin.	[85444, 27025, 5727, 2678, 15055, 315, 36875, 610, 88, 2174, 483, 98534, 13]	13	ok
+236	Combining Hawaiian baby woodrose with certain antidepressants poses health risks.	[37292, 5859, 59103, 8945, 7732, 25888, 449, 3738, 65211, 1821, 34103, 2890, 15635, 13]	14	ok
+237	Hawaiian baby woodrose poses significant health risks and dangers.	[39, 37069, 1122, 8945, 7732, 25888, 34103, 5199, 2890, 15635, 323, 37064, 13]	13	ok
+238	Ergine is a key alkaloid in Hawaiian Baby Woodrose seeds.	[36, 2026, 483, 374, 264, 1401, 66787, 590, 304, 59103, 21266, 12404, 25888, 19595, 13]	15	ok
+239	John Maynard Keynes shaped modern economic theory significantly worldwide.	[13379, 3297, 98032, 82603, 27367, 6617, 7100, 10334, 12207, 15603, 13]	11	ok
+240	Keynes advocated short-term government intervention over long-term market forces.	[1622, 4978, 64854, 2875, 9860, 3109, 21623, 927, 1317, 9860, 3157, 8603, 13]	13	ok
+241	Keynesian economists address economic imbalances through integrated sectoral analysis.	[1622, 4978, 1122, 45415, 2686, 7100, 737, 76527, 1555, 18751, 10706, 278, 6492, 13]	14	ok
+242	Economic output is influenced by consumption, investment, government spending, and exports.	[36, 32107, 2612, 374, 28160, 555, 15652, 11, 9341, 11, 3109, 10374, 11, 323, 13086, 13]	16	ok
+243	John Maynard Keynes revolutionized modern economics with influential ideas.	[13379, 3297, 98032, 82603, 14110, 1534, 6617, 28989, 449, 32549, 6848, 13]	12	ok
+244	John Maynard Keynes challenged traditional free market assumptions.	[13379, 3297, 98032, 82603, 29991, 8776, 1949, 3157, 32946, 13]	10	ok
+245	John Maynard Keynes was born in Cambridge, England's Melville Road.	[13379, 3297, 98032, 82603, 574, 9405, 304, 24562, 11, 9635, 596, 11220, 8078, 9728, 13]	15	ok
+246	Keynesian economics promotes government intervention to stabilize demand.	[1622, 4978, 1122, 28989, 39990, 3109, 21623, 311, 70236, 7631, 13]	11	ok
+247	Keynesian economics founded by John Maynard Keynes in 1936.	[1622, 4978, 1122, 28989, 18538, 555, 3842, 3297, 98032, 82603, 304, 220, 7285, 21, 13]	15	ok
+248	Keynesian economics stimulates demand through government spending and taxation.	[1622, 4978, 1122, 28989, 95455, 7631, 1555, 3109, 10374, 323, 51727, 13]	12	ok
+249	EdgeWalk at CN Tower is a record-breaking hands-free walk.	[11918, 49949, 520, 25914, 22703, 374, 264, 3335, 55407, 6206, 12862, 4321, 13]	13	ok
+250	CN Tower solved Toronto's communications issues with clear reception.	[29768, 22703, 29056, 14974, 596, 17320, 4819, 449, 2867, 23991, 13]	11	ok
+251	CN Tower's edge walk holds Guinness World Record for height.	[29768, 22703, 596, 6964, 4321, 10187, 89559, 4435, 13896, 369, 2673, 13]	12	ok
+252	CN Tower holds multiple world records and firsts.	[29768, 22703, 10187, 5361, 1917, 7576, 323, 1176, 82, 13]	10	ok
+253	Thrill-seekers experience breathtaking views at CN Tower's EdgeWalk.	[99940, 484, 7962, 1247, 388, 3217, 57192, 6325, 520, 25914, 22703, 596, 10564, 49949, 13]	15	ok
+254	Construction of the tower began in February 1973, completed in 1976.	[51918, 315, 279, 21970, 6137, 304, 7552, 220, 4468, 18, 11, 8308, 304, 220, 4468, 21, 13]	17	ok
+255	CN Tower attracts millions with its stunning views and iconic status.	[29768, 22703, 61191, 11990, 449, 1202, 20441, 6325, 323, 27373, 2704, 13]	12	ok
+256	The CN Tower is Canada's iconic 553.33m skyscraper landmark.	[791, 25914, 22703, 374, 7008, 596, 27373, 220, 22663, 13, 1644, 76, 85421, 87382, 38350, 13]	16	ok
+257	The CN Tower is Toronto's iconic defining architectural landmark symbol.	[791, 25914, 22703, 374, 14974, 596, 27373, 27409, 43563, 38350, 7891, 13]	12	ok
+258	The CN Tower holds Canada's iconic status symbol.	[791, 25914, 22703, 10187, 7008, 596, 27373, 2704, 7891, 13]	10	ok
+259	Lakewood Village, Texas population statistics and demographics.	[43, 587, 76365, 25036, 11, 8421, 7187, 13443, 323, 63334, 13]	11	ok
+260	Lakewood Village, Texas population statistics and demographics.	[43, 587, 76365, 25036, 11, 8421, 7187, 13443, 323, 63334, 13]	11	ok
+261	"Lakewood Village, TX population demographics underwent significant changes between 2000 and 2010.
+
+According to the US Census Bureau, Lakewood Village, TX experienced a population increase from 1,444 in 2000 to 1,833 in 2010. The racial composition shifted from predominantly white to a more diverse population. 
+
+In 2000, the racial makeup was predominantly white, with 93.8% of the population identifying as white, followed by 4.5% Hispanic or Latino. In contrast, the 2010 census reported a more diverse population with 73.1% white, 14.1% Hispanic or Latino, and 6.3% black or African American."	[43, 587, 76365, 25036, 11, 17467, 7187, 63334, 55093, 5199, 4442, 1990, 220, 1049, 15, 323, 220, 679, 15, 382, 11439, 311, 279, 2326, 46627, 22555, 11, 48762, 76365, 25036, 11, 17467, 10534, 264, 7187, 5376, 505, 220, 16, 11, 14870, 304, 220, 1049, 15, 311, 220, 16, 11, 22904, 304, 220, 679, 15, 13, 578, 19739, 18528, 30073, 505, 47904, 4251, 311, 264, 810, 17226, 7187, 13, 4815, 644, 220, 1049, 15, 11, 279, 19739, 27649, 574, 47904, 4251, 11, 449, 220, 6365, 13, 23, 4, 315, 279, 7187, 25607, 439, 4251, 11, 8272, 555, 220, 19, 13, 20, 4, 41985, 477, 44862, 13, 763, 13168, 11, 279, 220, 679, 15, 44702, 5068, 264, 810, 17226, 7187, 449, 220, 5958, 13, 16, 4, 4251, 11, 220, 975, 13, 16, 4, 41985, 477, 44862, 11, 323, 220, 21, 13, 18, 4, 3776, 477, 11904, 3778, 13]	146	problèmes de génération
+262	Lakewood Village has a small population of approximately 584 residents.	[43, 587, 76365, 25036, 706, 264, 2678, 7187, 315, 13489, 220, 23816, 11062, 13]	14	ok
+263	Lakewood Village has a high percentage of widowed residents.	[43, 587, 76365, 25036, 706, 264, 1579, 11668, 315, 9923, 13111, 11062, 13]	13	ok
+264	Lakewood Village predominantly inhabited by predominantly white residents.	[43, 587, 76365, 25036, 47904, 70598, 555, 47904, 4251, 11062, 13]	11	ok
+265	Lakewood Village population is predominantly female and male.	[43, 587, 76365, 25036, 7187, 374, 47904, 8954, 323, 8762, 13]	11	ok
+266	Lakewood Village has a notable population growth and density.	[43, 587, 76365, 25036, 706, 264, 28289, 7187, 6650, 323, 17915, 13]	12	ok
+267	Lakewood Village has 199 homes with minors residing.	[43, 587, 76365, 25036, 706, 220, 2550, 10632, 449, 49640, 67512, 13]	12	ok
+268	Lakewood Village predominantly inhabited by predominantly white residents.	[43, 587, 76365, 25036, 47904, 70598, 555, 47904, 4251, 11062, 13]	11	ok
+269	Pangaon Inland Container Terminal is a joint Bangladesh project.	[47, 19934, 263, 763, 1974, 9876, 35190, 374, 264, 10496, 39601, 2447, 13]	13	ok
+270	Bangladesh's inland terminal boosts economic growth via water transport.	[63919, 35221, 596, 77289, 15372, 67232, 7100, 6650, 4669, 3090, 7710, 13]	12	ok
+271	Minister discusses port terminal ship availability and operational issues.	[6349, 1601, 35434, 2700, 15372, 8448, 18539, 323, 25605, 4819, 13]	11	ok
+272	Pangaon Inland Container Terminal receives cargo vessel from Bangladesh.	[47, 19934, 263, 763, 1974, 9876, 35190, 21879, 26735, 27274, 505, 39601, 13]	13	ok
+273	Pangaon Inland Terminal built by BIWTA and CPA authorities.	[47, 19934, 263, 763, 1974, 35190, 5918, 555, 48153, 54, 15559, 323, 87377, 11527, 13]	15	ok
+274	India's cargo vessel arrives at Pangaon Port in Bangladesh regularly.	[34648, 596, 26735, 27274, 30782, 520, 393, 19934, 263, 5896, 304, 39601, 15870, 13]	14	ok
+275	OOCL has offices in Chittagong and Dhaka, Bangladesh.	[20066, 3218, 706, 19672, 304, 921, 1468, 351, 647, 323, 44327, 13637, 11, 39601, 13]	15	ok
+276	Bangladesh is a predominantly Muslim country with diverse cultural heritage.	[63919, 35221, 374, 264, 47904, 10451, 3224, 449, 17226, 13042, 28948, 13]	12	ok
+277	Pangaon port may become mandatory for certain imports.	[47, 19934, 263, 2700, 1253, 3719, 23911, 369, 3738, 15557, 13]	11	ok
+278	Bangladesh is a densely populated South Asian nation with rich history.	[63919, 35221, 374, 264, 97617, 35459, 4987, 14875, 7140, 449, 9257, 3925, 13]	13	ok
+279	Join the Student Government Association for a dynamic student experience.	[12572, 279, 11988, 10423, 10229, 369, 264, 8915, 5575, 3217, 13]	11	ok
+280	Joining SGA fosters student growth and campus leadership opportunities.	[12572, 287, 328, 16519, 37413, 388, 5575, 6650, 323, 15679, 11692, 10708, 13]	13	ok
+281	Joining SGA fosters student advocacy and legislative connections effectively.	[12572, 287, 328, 16519, 37413, 388, 5575, 35954, 323, 27743, 13537, 13750, 13]	13	ok
+282	Submit completed applications to the Student Government Association Office immediately.	[9066, 8308, 8522, 311, 279, 11988, 10423, 10229, 8410, 7214, 13]	11	ok
+283	SGA fosters student engagement and university-wide representation effectively.	[7939, 32, 37413, 388, 5575, 20392, 323, 12374, 25480, 13340, 13750, 13]	12	ok
+284	Joining student government can enhance your resume and personality.	[12572, 287, 5575, 3109, 649, 18885, 701, 16063, 323, 17743, 13]	11	ok
+285	Join student government for leadership and community engagement opportunities.	[12572, 5575, 3109, 369, 11692, 323, 4029, 20392, 10708, 13]	10	ok
+286	Show how your skills align with company goals and vision.	[7968, 1268, 701, 7512, 5398, 449, 2883, 9021, 323, 11376, 13]	11	ok
+287	"I am the best advocate for these colleges due to my passion and experience in the arts.
+
+I plan to bridge the gap between these colleges and the SGA by hosting joint events, workshops, and seminars that cater to diverse interests and skill levels, fostering a sense of community and collaboration among students from different disciplines."	[40, 1097, 279, 1888, 29115, 369, 1521, 31252, 4245, 311, 856, 11939, 323, 3217, 304, 279, 19071, 382, 40, 3197, 311, 14497, 279, 13225, 1990, 1521, 31252, 323, 279, 328, 16519, 555, 20256, 10496, 4455, 11, 35936, 11, 323, 68569, 430, 29068, 311, 17226, 12034, 323, 10151, 5990, 11, 86644, 264, 5647, 315, 4029, 323, 20632, 4315, 4236, 505, 2204, 49255, 13]	62	problèmes de génération
+288	I prefer joining organizations fostering professional growth and global connections.	[40, 10932, 18667, 11351, 86644, 6721, 6650, 323, 3728, 13537, 13]	11	ok
+289	Juneau's downtown waterfront accommodates nearly 1 million cruise passengers annually.	[28259, 2933, 596, 19441, 70027, 14252, 988, 7154, 220, 16, 3610, 31551, 22961, 30171, 13]	15	ok
+290	Wells Fargo and banks available in Juneau, Alaska, have offices.	[54, 6572, 58750, 323, 14286, 2561, 304, 5651, 2933, 11, 28366, 11, 617, 19672, 13]	15	ok
+291	Juneau's cruise ships revitalize the town's economy and atmosphere.	[28259, 2933, 596, 31551, 18198, 5891, 35413, 279, 6424, 596, 8752, 323, 16975, 13]	14	ok
+292	US Navy ship sank at Guadalcanal in 1942 tragically.	[2078, 19574, 8448, 65330, 520, 4673, 51588, 4919, 278, 304, 220, 6393, 17, 72702, 2740, 13]	16	ok
+293	Juneau, Alaska's capital, is a vast and rainy city.	[28259, 2933, 11, 28366, 596, 6864, 11, 374, 264, 13057, 323, 63857, 3363, 13]	14	ok
+294	Juneau sank after two torpedoes hit her in May 1942.	[28259, 2933, 65330, 1306, 1403, 5801, 7018, 7217, 4295, 1077, 304, 3297, 220, 6393, 17, 13]	16	ok
+295	Juneau Public Library offers free Wi-Fi and various hours.	[28259, 2933, 3142, 11896, 6209, 1949, 17664, 27395, 323, 5370, 4207, 13]	12	ok
+296	Juneau, Alaska's capital, is a hub for government and tourism.	[28259, 2933, 11, 28366, 596, 6864, 11, 374, 264, 19240, 369, 3109, 323, 32083, 13]	15	ok
+297	New floating berths to accommodate larger vessels are being built.	[3648, 19596, 10418, 17323, 311, 29376, 8294, 31080, 527, 1694, 5918, 13]	12	ok
+298	Juneau's time zone and climate vary significantly throughout the year.	[28259, 2933, 596, 892, 10353, 323, 10182, 13592, 12207, 6957, 279, 1060, 13]	13	ok
+299	Contractors and subcontractors differ in scope and payment terms.	[14396, 1105, 323, 95479, 1105, 1782, 304, 7036, 323, 8323, 3878, 13]	12	ok
+300	Subcontractor hires by general contractor for specific project tasks.	[3214, 20871, 269, 73041, 555, 4689, 31072, 369, 3230, 2447, 9256, 13]	12	ok
+301	Contractor and subcontractor agree on project scope and terms.	[14396, 269, 323, 95479, 269, 7655, 389, 2447, 7036, 323, 3878, 13]	12	ok
+302	Independent worker hired by a contractor for a project.	[77921, 12128, 22163, 555, 264, 31072, 369, 264, 2447, 13]	10	ok
+303	Subcontractors assigned claim targets based on loss history and data.	[3214, 20871, 1105, 12893, 3802, 11811, 3196, 389, 4814, 3925, 323, 828, 13]	13	ok
+304	Contractors hire subcontractors for specific construction tasks and projects.	[14396, 1105, 18467, 95479, 1105, 369, 3230, 8246, 9256, 323, 7224, 13]	12	ok
+305	Contractors work independently for a set fee and duration.	[14396, 1105, 990, 29235, 369, 264, 743, 11307, 323, 8250, 13]	11	ok
+306	Subcontractor signs a contract to perform another's obligations partially.	[3214, 20871, 269, 12195, 264, 5226, 311, 2804, 2500, 596, 30255, 26310, 13]	13	ok
+307	Contractor hires subcontractors for specialized tasks outside their expertise.	[14396, 269, 73041, 95479, 1105, 369, 28175, 9256, 4994, 872, 19248, 13]	12	ok
+308	Subcontractor is a junior contractor under a prime contract agreement.	[3214, 20871, 269, 374, 264, 27144, 31072, 1234, 264, 10461, 5226, 9306, 13]	13	ok
+309	OHC Supply is a leading provider of building materials nationwide.	[46, 23263, 30909, 374, 264, 6522, 9287, 315, 4857, 7384, 29054, 13]	12	ok
+310	Reputable brands offer high-quality products for your needs always.	[697, 631, 481, 16097, 3085, 1579, 22867, 3956, 369, 701, 3966, 2744, 13]	13	ok
+311	Fox Building Supply offers friendly service and low prices nationwide.	[48414, 17283, 30909, 6209, 11919, 2532, 323, 3428, 7729, 29054, 13]	11	ok
+312	Custom window solutions for any home with expert care guaranteed.	[10480, 3321, 10105, 369, 904, 2162, 449, 6335, 2512, 19883, 13]	11	ok
+313	Locally owned business serving Oklahoma with construction supplies always.	[9330, 750, 13234, 2626, 13788, 23640, 449, 8246, 17135, 2744, 13]	11	ok
+314	Consolidated Builders Supply offers premium windows for long-lasting performance.	[15577, 5303, 660, 76848, 30909, 6209, 15193, 11276, 369, 1317, 65265, 5178, 13]	13	ok
+315	Locally owned business serving Oklahoma since 1956 with expertise.	[9330, 750, 13234, 2626, 13788, 23640, 2533, 220, 6280, 21, 449, 19248, 13]	13	ok
+316	Kitchen fabrication options available at discounted prices locally.	[85683, 59251, 2671, 2561, 520, 48774, 7729, 24392, 13]	9	ok
+317	Contractors Supply Co. is a family-owned business serving Oklahoma since 1956.	[14396, 1105, 30909, 3623, 13, 374, 264, 3070, 29799, 2626, 13788, 23640, 2533, 220, 6280, 21, 13]	17	ok
+318	Metro Appliances & More offers competitive prices nationwide nationwide stores.	[82014, 97433, 612, 4497, 6209, 15022, 7729, 29054, 29054, 10756, 13]	11	ok
+319	David Frost socialized with Jill St. John and Henry Kissinger.	[23083, 42320, 3674, 1534, 449, 48311, 800, 13, 3842, 323, 18063, 44730, 5248, 13]	14	ok
+320	Natalie's love for Robert Wagner was a labor of sacrifice.	[45, 4306, 648, 596, 3021, 369, 8563, 52475, 574, 264, 9511, 315, 28235, 13]	14	ok
+321	Robert Wagner married Jill St. John in 1990, nearly three decades.	[35632, 52475, 12502, 48311, 800, 13, 3842, 304, 220, 2550, 15, 11, 7154, 2380, 11026, 13]	16	ok
+322	Robert Wagner denies plotting to kill Warren Beatty in book.	[35632, 52475, 47591, 45002, 311, 5622, 26713, 2893, 23758, 304, 2363, 13]	12	ok
+323	Jill St. John's iconic 1960s film presence remains captivating still.	[41, 484, 800, 13, 3842, 596, 27373, 220, 5162, 15, 82, 4632, 9546, 8625, 86282, 2103, 13]	17	ok
+324	Walter Winchell exposes Hollywood romance between Jill St. John and Bob Evans.	[54, 38377, 12468, 331, 616, 59381, 17681, 30363, 1990, 48311, 800, 13, 3842, 323, 14596, 30563, 13]	17	ok
+325	Jill St. John's notable film roles span multiple genres briefly.	[41, 484, 800, 13, 3842, 596, 28289, 4632, 13073, 9575, 5361, 36744, 27851, 13]	14	ok
+326	Marti Rulli's novel explores Dennis Davern's journey and belonging.	[44, 68641, 432, 620, 72, 596, 11775, 41424, 35727, 5460, 944, 596, 11879, 323, 33152, 13]	16	ok
+327	Harrison's friend Bob Neal seeks Jill St. John's attention.	[39, 51103, 596, 4333, 14596, 66549, 26737, 48311, 800, 13, 3842, 596, 6666, 13]	14	ok
+328	Robert Wagner marries Jill St. John after eight years of grief.	[35632, 52475, 3678, 4108, 48311, 800, 13, 3842, 1306, 8223, 1667, 315, 38384, 13]	14	ok
+329	FDR's first 100 days in office were highly productive.	[37, 7842, 596, 1176, 220, 1041, 2919, 304, 5274, 1051, 7701, 27331, 13]	13	ok
+330	Dust Bowl disaster resulted from agricultural practices during economic downturn.	[35, 592, 20904, 21426, 19543, 505, 29149, 12659, 2391, 7100, 76506, 13]	12	ok
+331	Devastating drought led to mass migration of Great Plains residents.	[14934, 561, 1113, 37846, 6197, 311, 3148, 12172, 315, 8681, 63911, 11062, 13]	13	ok
+332	Drought and intensive farming practices led to devastating consequences.	[35, 6478, 323, 37295, 33489, 12659, 6197, 311, 33318, 16296, 13]	11	ok
+333	Drought led to devastating economic hardship in the region.	[35, 6478, 6197, 311, 33318, 7100, 67650, 304, 279, 5654, 13]	11	ok
+334	Dryland farming techniques can mitigate agricultural devastation effectively worldwide.	[86315, 1974, 33489, 12823, 649, 50460, 29149, 83015, 13750, 15603, 13]	11	ok
+335	Drought and agricultural practices led to devastating Dust Bowl consequences.	[35, 6478, 323, 29149, 12659, 6197, 311, 33318, 33093, 20904, 16296, 13]	12	ok
+336	The American colonists listed grievances against British rule.	[791, 3778, 15235, 1705, 10212, 88036, 2403, 8013, 6037, 13]	10	ok
+337	Caused by toxic chemical dumping and severe drought conditions.	[23389, 2656, 555, 21503, 11742, 61682, 323, 15748, 37846, 4787, 13]	11	ok
+338	The Great Depression and drought were primary contributing factors.	[791, 8681, 46904, 323, 37846, 1051, 6156, 29820, 9547, 13]	10	ok
+339	File types and size restrictions apply for uploads.	[1738, 4595, 323, 1404, 17294, 3881, 369, 67663, 13]	9	ok
+340	Mastering Tahitian and French phrases for culinary exploration abroad.	[18532, 287, 58087, 79544, 323, 8753, 32847, 369, 58441, 27501, 22917, 13]	12	ok
+341	Rarotongan is a Polynesian language spoken in Cook Islands.	[49, 277, 354, 83388, 374, 264, 3735, 1910, 30321, 4221, 22066, 304, 12797, 23028, 13]	15	ok
+342	File upload format and size restrictions apply strictly.	[1738, 8298, 3645, 323, 1404, 17294, 3881, 26549, 13]	9	ok
+343	File size and format restrictions apply to uploads.	[1738, 1404, 323, 3645, 17294, 3881, 311, 67663, 13]	9	ok
+344	File upload restrictions apply to specific file types and sizes.	[1738, 8298, 17294, 3881, 311, 3230, 1052, 4595, 323, 12562, 13]	11	ok
+345	Learning Tahitian phrases enhances Polynesian rapport and eases interactions.	[48567, 58087, 79544, 32847, 57924, 3735, 1910, 30321, 39474, 323, 384, 2315, 22639, 13]	14	ok
+346	File size and format restrictions apply to uploads.	[1738, 1404, 323, 3645, 17294, 3881, 311, 67663, 13]	9	ok
+347	Tahitian and French are the official island languages predominantly spoken.	[51, 1494, 79544, 323, 8753, 527, 279, 4033, 13218, 15823, 47904, 22066, 13]	13	ok
+348	Mastering Tahitian and French phrases enhances island interactions greatly overseas.	[18532, 287, 58087, 79544, 323, 8753, 32847, 57924, 13218, 22639, 19407, 25355, 13]	13	ok
+349	Phase changes involve heat absorption or release.	[31833, 4442, 21736, 8798, 44225, 477, 4984, 13]	8	autre
+350	Melting and boiling points define phase transitions in substances.	[40249, 1303, 323, 50937, 3585, 7124, 10474, 34692, 304, 33155, 13]	11	ok
+351	American Chemical Society offers free online chemistry lessons for middle school.	[29518, 36424, 13581, 6209, 1949, 2930, 30903, 18872, 369, 6278, 2978, 13]	12	ok
+352	Sublimation is a physical state change, not chemical reaction.	[3214, 4763, 367, 374, 264, 7106, 1614, 2349, 11, 539, 11742, 13010, 13]	13	ok
+353	Sublimation occurs when a solid transforms directly into gas.	[3214, 4763, 367, 13980, 994, 264, 6573, 29575, 6089, 1139, 6962, 13]	12	ok
+354	Evaporation occurs at water's surface, temperature influences its rate.	[35212, 96649, 13980, 520, 3090, 596, 7479, 11, 9499, 34453, 1202, 4478, 13]	13	ok
+355	Solid to gas transition occurs with heat absorption.	[47041, 311, 6962, 9320, 13980, 449, 8798, 44225, 13]	9	ok
+356	Changes of state involve evaporation, condensation, sublimation, freezing, and melting.	[11569, 315, 1614, 21736, 3721, 96649, 11, 9955, 42725, 11, 1207, 4763, 367, 11, 43318, 11, 323, 50684, 13]	19	ok
+357	Condensation occurs when water vapor cools and transforms into liquid water.	[50796, 42725, 13980, 994, 3090, 38752, 1080, 3145, 323, 29575, 1139, 14812, 3090, 13]	14	ok
+358	States of matter change with heat absorption and release.	[24137, 315, 5030, 2349, 449, 8798, 44225, 323, 4984, 13]	10	ok
+359	Dr. Antonio Ramada, a renowned medical professional, is available on Healthgrades.	[9023, 13, 23245, 15504, 2649, 11, 264, 37048, 6593, 6721, 11, 374, 2561, 389, 6401, 23142, 13]	17	ok
+360	Ramada Plaza-Hagerstown hotel near I-81 and downtown Hagerstown attractions.	[64948, 2649, 41407, 11529, 1435, 44058, 9689, 3221, 358, 12, 5932, 323, 19441, 473, 1435, 44058, 39591, 13]	18	ok
+361	Hospital quality significantly impacts heart bypass surgery outcomes greatly.	[82566, 4367, 12207, 25949, 4851, 31818, 15173, 20124, 19407, 13]	10	ok
+362	Dr. Marco Lopez Sr., MD, shares patient insights online.	[9023, 13, 35281, 45315, 34688, 2637, 14306, 11, 13551, 8893, 26793, 2930, 13]	13	ok
+363	NPI number 1578763462 belongs to female doctor Letitia Poret MD PA.	[45, 1932, 1396, 220, 10895, 24870, 18061, 17, 17623, 311, 8954, 10896, 6914, 88575, 393, 18673, 14306, 13174, 13]	19	ok
+364	NIDA A Guerra-Cavazos is a female physician.	[45, 52271, 362, 4673, 14210, 7813, 402, 1394, 437, 374, 264, 8954, 28378, 13]	14	ok
+365	Invalid link entered for Dr. Ramada, please re-enter the link.	[8087, 2723, 10862, 369, 2999, 13, 15504, 2649, 11, 4587, 312, 49315, 279, 2723, 13]	15	ok
+366	Get information about Dr. Leticia A Poret MD PA owner details.	[1991, 2038, 922, 2999, 13, 445, 5411, 689, 362, 393, 18673, 14306, 13174, 6506, 3649, 13]	16	ok
+367	NPI number details available in PDF and text formats.	[45, 1932, 1396, 3649, 2561, 304, 11612, 323, 1495, 20447, 13]	11	ok
+368	Hospital rating significantly impacts heart bypass surgery outcomes greatly.	[82566, 10959, 12207, 25949, 4851, 31818, 15173, 20124, 19407, 13]	10	ok
+369	Koepka family history and genealogy resources are available online.	[42, 78, 752, 4657, 3070, 3925, 323, 15207, 80378, 5070, 527, 2561, 2930, 13]	14	ok
+370	Brooks Koepka is a top-ranked American professional golfer overseas.	[27368, 35322, 30417, 752, 4657, 374, 264, 1948, 76697, 3778, 6721, 45549, 809, 25355, 13]	15	ok
+371	Originating from Old English, the surname Born dates back centuries.	[13601, 1113, 505, 10846, 6498, 11, 279, 40853, 38916, 13003, 1203, 24552, 13]	13	ok
+372	Indexing record collections can be challenging and frustrating sometimes.	[1581, 287, 3335, 15661, 649, 387, 17436, 323, 35711, 7170, 13]	11	ok
+373	North still uses burn for a stream, often originating from a place.	[26287, 2103, 5829, 8395, 369, 264, 4365, 11, 3629, 71373, 505, 264, 2035, 13]	14	ok
+374	Re-testing DNA for genealogy can yield new connections.	[697, 83255, 15922, 369, 15207, 80378, 649, 7692, 502, 13537, 13]	11	ok
+375	Originating from Anglo-Saxon roots, the surname Born dates back centuries.	[13601, 1113, 505, 60259, 6354, 52936, 20282, 11, 279, 40853, 38916, 13003, 1203, 24552, 13]	15	ok
+376	Brooks Koepka finishes T9 at Travelers Championship.	[27368, 35322, 30417, 752, 4657, 34136, 350, 24, 520, 18589, 388, 19134, 13]	13	ok
+377	New resources enhance Koepka ancestry research efforts significantly worldwide.	[3648, 5070, 18885, 30417, 752, 4657, 66004, 3495, 9045, 12207, 15603, 13]	12	ok
+378	Koepka's early life and amateur golf career began in Florida.	[42, 78, 752, 4657, 596, 4216, 2324, 323, 19077, 19665, 7076, 6137, 304, 9784, 13]	15	ok
+379	Orchestral composition encompasses diverse musical elements and instrumentation.	[2244, 27417, 3545, 18528, 71010, 17226, 18273, 5540, 323, 78133, 13]	11	ok
+380	Classical music follows tonal key schemes and harmonic patterns.	[1999, 950, 4731, 11263, 8941, 278, 1401, 31956, 323, 82341, 12912, 13]	12	ok
+381	Composers varied in symphony structure and movement count.	[1110, 981, 388, 28830, 304, 8045, 30748, 6070, 323, 7351, 1797, 13]	12	ok
+382	Symphony structure varies, with contrasting tempo and emotional depth.	[29012, 30748, 6070, 35327, 11, 449, 75055, 24108, 323, 14604, 8149, 13]	12	ok
+383	Percussion group underscores existential themes with distinct rhythmic pulse.	[47, 3035, 17861, 1912, 72890, 67739, 22100, 449, 12742, 29171, 21914, 28334, 13]	13	ok
+384	Sonata form is a musical structure used in orchestral works.	[46714, 460, 1376, 374, 264, 18273, 6070, 1511, 304, 70984, 3545, 4375, 13]	13	ok
+385	Orchestras combine diverse instruments for classical music performances.	[2244, 27417, 13075, 16343, 17226, 24198, 369, 29924, 4731, 24601, 13]	11	ok
+386	Symphonic poem surpassed symphony as leading large-scale instrumental form.	[29012, 764, 14338, 33894, 68328, 8045, 30748, 439, 6522, 3544, 13230, 42045, 1376, 13]	14	ok
+387	Understanding Beethoven's genius lies beyond initial musical notes and structure.	[71251, 2893, 93622, 596, 35201, 15812, 7953, 2926, 18273, 8554, 323, 6070, 13]	13	ok
+388	Haydn, Mozart, and Beethoven shaped classical symphonic music.	[57564, 17851, 11, 95769, 11, 323, 2893, 93622, 27367, 29924, 8045, 764, 14338, 4731, 13]	15	ok
+389	"The word ""convict"" exposes error, often with a rebuking tone."	[791, 3492, 330, 12296, 858, 1, 59381, 1493, 11, 3629, 449, 264, 12646, 3178, 287, 16630, 13]	17	problèmes de génération
+390	"The word ""anothen"" likely means ""from above"" in biblical context."	[791, 3492, 330, 5770, 3473, 1, 4461, 3445, 330, 1527, 3485, 1, 304, 53640, 2317, 13]	16	problèmes de génération
+391	"The NASU translators used parakaleo for ""comfort"" in various translations."	[791, 16473, 52, 73804, 1511, 1370, 587, 1604, 78, 369, 330, 19975, 1, 304, 5370, 37793, 13]	17	problèmes de génération
+392	Elegxo occurs in 16:9, involving showing someone their guiltiness.	[36, 1978, 41922, 13980, 304, 220, 845, 25, 24, 11, 16239, 9204, 4423, 872, 34951, 1918, 13]	17	ok
+393	Luke 8:41 is misinterpreted as an invitation.	[59447, 220, 23, 25, 3174, 374, 5906, 94561, 439, 459, 29788, 13]	12	ok
+394	Jesus' triumphant entry into Jerusalem marked a pivotal moment.	[55065, 6, 92906, 28022, 4441, 1139, 26523, 13160, 264, 60850, 4545, 13]	12	ok
+395	The word elegxo conveys shame and conviction beyond mere exposure.	[791, 3492, 18190, 41922, 390, 50369, 21648, 323, 29191, 7953, 17983, 14675, 13]	13	ok
+396	Previous usage was at 13:10, contrasting with 15:5 context.	[21994, 10648, 574, 520, 220, 1032, 25, 605, 11, 75055, 449, 220, 868, 25, 20, 2317, 13]	17	ok
+397	Jesus' teachings would be conveyed through the Holy Spirit.	[55065, 6, 45572, 1053, 387, 73897, 1555, 279, 19229, 17326, 13]	11	ok
+398	Personal holiness vs positional holiness in biblical context.	[35127, 24429, 1918, 6296, 68647, 24429, 1918, 304, 53640, 2317, 13]	11	ok
+399	Latrobe, Pennsylvania's population statistics are available online.	[24015, 33936, 11, 20355, 596, 7187, 13443, 527, 2561, 2930, 13]	11	ok
+400	Latrobe's population demographics differ significantly from Pennsylvania's.	[24015, 33936, 596, 7187, 63334, 1782, 12207, 505, 20355, 596, 13]	11	ok
+401	Latrobe's population is predominantly white, with a small Hispanic minority.	[24015, 33936, 596, 7187, 374, 47904, 4251, 11, 449, 264, 2678, 41985, 23413, 13]	14	ok
+402	Demographic data and projections for Latrobe neighborhood.	[33103, 12968, 828, 323, 41579, 369, 10128, 33936, 12818, 13]	10	ok
+403	Latrobe, PA has a population of 8,237 residents overall.	[24015, 33936, 11, 13174, 706, 264, 7187, 315, 220, 23, 11, 14590, 11062, 8244, 13]	15	ok
+404	Latrobe residents predominantly hail from Pennsylvania and speak English.	[24015, 33936, 11062, 47904, 65350, 505, 20355, 323, 6604, 6498, 13]	11	ok
+405	Latrobe has a population of 8,086 in Pennsylvania.	[24015, 33936, 706, 264, 7187, 315, 220, 23, 11, 26956, 304, 20355, 13]	13	ok
+406	Latrobe has a low Hispanic population percentage of 0.3%.	[24015, 33936, 706, 264, 3428, 41985, 7187, 11668, 315, 220, 15, 13, 18, 14697]	14	ok
+407	Latrobe, Pennsylvania's population statistics are detailed online now.	[24015, 33936, 11, 20355, 596, 7187, 13443, 527, 11944, 2930, 1457, 13]	12	ok
+408	"Latrobe, Pennsylvania's population demographics underwent significant changes between 2000 and 2010.
+
+According to the US Census Bureau, the population of Latrobe, PA in 2000 was approximately 9,366. In 2010, the population had decreased to around 9,114. 
+
+Demographically, the population of Latrobe in 2000 was predominantly White, with 97.4% of the population identifying as White. In contrast, the 2010 census reported a decrease in the White population to 95.6%. 
+
+The age distribution of Latrobe's population also shifted, with a decrease in the 65 and over age group from 21.1% in 2000 to 20.6%"	[24015, 33936, 11, 20355, 596, 7187, 63334, 55093, 5199, 4442, 1990, 220, 1049, 15, 323, 220, 679, 15, 382, 11439, 311, 279, 2326, 46627, 22555, 11, 279, 7187, 315, 10128, 33936, 11, 13174, 304, 220, 1049, 15, 574, 13489, 220, 24, 11, 18044, 13, 763, 220, 679, 15, 11, 279, 7187, 1047, 25983, 311, 2212, 220, 24, 11, 8011, 13, 4815, 33103, 65031, 11, 279, 7187, 315, 10128, 33936, 304, 220, 1049, 15, 574, 47904, 5929, 11, 449, 220, 3534, 13, 19, 4, 315, 279, 7187, 25607, 439, 5929, 13, 763, 13168, 11, 279, 220, 679, 15, 44702, 5068, 264, 18979, 304, 279, 5929, 7187, 311, 220, 2721, 13, 21, 14697, 4815, 791, 4325, 8141, 315, 10128, 33936, 596, 7187, 1101, 30073, 11, 449, 264, 18979, 304, 279, 220, 2397, 323, 927, 4325, 1912, 505, 220, 1691, 13, 16, 4, 304, 220, 1049, 15, 311, 220, 508, 13, 21, 4]	150	problèmes de génération
+409	Sherman Poppen invents the first snowboard in 1965.	[68359, 1543, 10466, 2821, 17459, 82, 279, 1176, 12056, 2541, 304, 220, 5162, 20, 13]	15	ok
+410	Jack Burchett invented a snowboard-like sled in 1929 initially.	[33731, 426, 2639, 7211, 36592, 264, 12056, 2541, 12970, 95512, 304, 220, 5926, 24, 15453, 13]	16	ok
+411	Snowboarders now enjoy bindings with improved performance features daily.	[63385, 2541, 388, 1457, 4774, 36800, 449, 13241, 5178, 4519, 7446, 13]	12	ok
+412	Randy Lee secured boots with bindings in 2014 innovation.	[49, 13634, 12336, 27528, 26302, 449, 36800, 304, 220, 679, 19, 19297, 13]	13	ok
+413	Tom Sims invented snowboarding in 1963, pioneering the sport.	[25763, 52723, 36592, 12056, 38669, 304, 220, 5162, 18, 11, 71674, 279, 10775, 13]	14	ok
+414	Tom Sims invented snowboarding in 1963, pioneering winter sports.	[25763, 52723, 36592, 12056, 38669, 304, 220, 5162, 18, 11, 71674, 12688, 10034, 13]	14	ok
+415	Sims revolutionized snowboarding with metal-edged boards in 1982 advancements.	[50, 5861, 14110, 1534, 12056, 38669, 449, 9501, 35535, 3640, 21126, 304, 220, 3753, 17, 83787, 13]	17	ok
+416	Burton and Winterstick pioneered snowboard technology in 1980 successfully.	[62339, 783, 323, 20704, 30133, 96734, 12056, 2541, 5557, 304, 220, 3753, 15, 7946, 13]	15	ok
+417	Snowboarding gains popularity and commercialization in French ski resorts.	[63385, 38669, 20192, 23354, 323, 8518, 2065, 304, 8753, 29779, 61545, 13]	12	ok
+418	Snowboards and monoskis have distinct user stances and designs.	[63385, 19826, 323, 1647, 437, 74, 285, 617, 12742, 1217, 357, 3095, 323, 14769, 13]	15	ok
+419	Hedy Lamarr revolutionized wireless communication with her invention.	[39, 9497, 33794, 1138, 14110, 1534, 21401, 10758, 449, 1077, 28229, 13]	12	ok
+420	Wi-Fi networks rely on Access Points and client devices.	[59128, 27395, 14488, 17631, 389, 9742, 21387, 323, 3016, 7766, 13]	11	ok
+421	Wi-Fi technology enables wireless device connectivity via radio bands.	[59128, 27395, 5557, 20682, 21401, 3756, 31357, 4669, 9063, 21562, 13]	11	ok
+422	Client Wi-Fi card firmware influences connection to nearby access points.	[3032, 17664, 27395, 3786, 30778, 34453, 3717, 311, 14373, 2680, 3585, 13]	12	ok
+423	Wi-Fi originated from military technology in the 1980s.	[59128, 27395, 44853, 505, 6411, 5557, 304, 279, 220, 3753, 15, 82, 13]	13	ok
+424	Legacy wireless protocol is woefully outdated and inefficient nowadays.	[78515, 21401, 11766, 374, 24670, 74092, 41626, 323, 64481, 46877, 13]	11	ok
+425	The 802.11 technology was introduced in 1985 regulations.	[791, 220, 13135, 13, 806, 5557, 574, 11784, 304, 220, 3753, 20, 14640, 13]	14	ok
+426	Wi-Fi was invented by NCR Corporation in 1991 Netherlands.	[59128, 27395, 574, 36592, 555, 452, 9150, 13332, 304, 220, 2550, 16, 26746, 13]	14	ok
+427	Vic Hayes led IEEE's development of wireless protocols worldwide successfully.	[53, 292, 53522, 6197, 40135, 596, 4500, 315, 21401, 32885, 15603, 7946, 13]	13	ok
+428	Early wireless technology paved the way for modern connectivity.	[42298, 21401, 5557, 63675, 279, 1648, 369, 6617, 31357, 13]	10	ok
+429	German parliament abolishes longest word in language history suddenly yesterday.	[33179, 21814, 37276, 21168, 22807, 3492, 304, 4221, 3925, 15187, 13985, 13]	12	ok
+430	Guinness World Record holder of the longest monosyllabic word.	[17198, 71773, 4435, 13896, 12102, 315, 279, 22807, 1647, 437, 25734, 69391, 3492, 13]	14	ok
+431	The article discusses exceptionally long English words and their meanings.	[791, 4652, 35434, 48298, 1317, 6498, 4339, 323, 872, 50800, 13]	11	ok
+432	The longest word in Spanish is superextraordinarísimo.	[791, 22807, 3492, 304, 15506, 374, 2307, 15824, 6114, 277, 24315, 11620, 13]	13	ok
+433	Man spends three hours pronouncing record-breaking protein name slowly.	[1692, 38202, 2380, 4207, 19126, 37857, 3335, 55407, 13128, 836, 14297, 13]	12	ok
+434	The longest words in English language are quite fascinating naturally.	[791, 22807, 4339, 304, 6498, 4221, 527, 5115, 27387, 18182, 13]	11	ok
+435	Oxford English Dictionary holds longest word record title.	[46, 23382, 6498, 10685, 10187, 22807, 3492, 3335, 2316, 13]	10	ok
+436	German language forms complex words through word combinations naturally.	[33179, 4221, 7739, 6485, 4339, 1555, 3492, 28559, 18182, 13]	10	ok
+437	German law abolished longest word in language history recently.	[33179, 2383, 81081, 22807, 3492, 304, 4221, 3925, 6051, 13]	10	ok
+438	German numbers are written as single words always.	[33179, 5219, 527, 5439, 439, 3254, 4339, 2744, 13]	9	ok
+439	US Zip Code facilitates mail delivery nationwide efficiently and effectively.	[2078, 30332, 6247, 73633, 8232, 9889, 29054, 30820, 323, 13750, 13]	11	ok
+440	Postal codes vary by country and region worldwide.	[44900, 14236, 13592, 555, 3224, 323, 5654, 15603, 13]	9	ok
+441	Jonatan Heyman created a website for postal codes.	[38252, 16623, 28653, 1543, 3549, 264, 3997, 369, 40854, 14236, 13]	11	ok
+442	Zip code is a numerical code for mail sorting purposes worldwide.	[32147, 2082, 374, 264, 35876, 2082, 369, 8232, 29373, 10096, 15603, 13]	12	ok
+443	US uses ZIP Code system for mail delivery organization nationwide efficiently.	[2078, 5829, 57774, 6247, 1887, 369, 8232, 9889, 7471, 29054, 30820, 13]	12	ok
+444	US ZIP Codes facilitate mail delivery and address lookup globally.	[2078, 57774, 41661, 28696, 8232, 9889, 323, 2686, 19128, 31550, 13]	11	ok
+445	Find your exact zip code by sharing your location.	[10086, 701, 4839, 10521, 2082, 555, 11821, 701, 3813, 13]	10	ok
+446	Most postal codes use numeric systems with limited encoding.	[13622, 40854, 14236, 1005, 25031, 6067, 449, 7347, 11418, 13]	10	ok
+447	International mail requires country code for continental European countries.	[34746, 8232, 7612, 3224, 2082, 369, 58636, 7665, 5961, 13]	10	ok
+448	Postal codes facilitate mail sorting and delivery worldwide efficiently always.	[44900, 14236, 28696, 8232, 29373, 323, 9889, 15603, 30820, 2744, 13]	11	ok
+449	Notable Scottish figures shape the country's rich history and identity.	[2688, 481, 27188, 12678, 6211, 279, 3224, 596, 9257, 3925, 323, 9764, 13]	13	ok
+450	Famous Scottish individuals excel in various fields worldwide significantly.	[37, 23333, 27188, 7931, 25555, 304, 5370, 5151, 15603, 12207, 13]	11	ok
+451	Notable Scottish historical figures have shaped the nation's past significantly.	[2688, 481, 27188, 13970, 12678, 617, 27367, 279, 7140, 596, 3347, 12207, 13]	13	ok
+452	Notable Scottish actors have made significant contributions to Hollywood.	[2688, 481, 27188, 20142, 617, 1903, 5199, 19564, 311, 17681, 13]	11	ok
+453	Influential figures in Scottish history and modern times vary greatly.	[644, 27256, 2335, 12678, 304, 27188, 3925, 323, 6617, 3115, 13592, 19407, 13]	13	ok
+454	The Baxter family's history dates back to ancient Scotland.	[791, 92847, 3070, 596, 3925, 13003, 1203, 311, 14154, 19627, 13]	11	ok
+455	Scotland's famous inventions have non-Scottish origins and roots.	[96925, 596, 11495, 85149, 617, 2536, 12, 39320, 819, 33472, 323, 20282, 13]	13	ok
+456	Popular name rankings vary across England, Wales, and the U.S.	[59552, 836, 33407, 13592, 4028, 9635, 11, 23782, 11, 323, 279, 549, 815, 13]	14	ok
+457	Scotland has limited self-government and UK parliamentary representation.	[96925, 706, 7347, 659, 46704, 323, 6560, 44250, 13340, 13]	10	ok
+458	Famous Scots have made significant contributions worldwide historically.	[37, 23333, 75367, 617, 1903, 5199, 19564, 15603, 35901, 13]	10	ok
+459	Pathologist training requires four years of medical school and residency.	[1858, 16549, 4967, 7612, 3116, 1667, 315, 6593, 2978, 323, 53966, 13]	12	ok
+460	Pathologists' median annual earnings vary significantly by specialty type.	[1858, 22012, 6, 23369, 9974, 24608, 13592, 12207, 555, 36974, 955, 13]	12	ok
+461	Pathologist is a medical doctor studying disease mechanisms scientifically.	[1858, 16549, 374, 264, 6593, 10896, 21630, 8624, 24717, 74647, 13]	11	ok
+462	Pathologists typically require medical school and an MD degree.	[1858, 22012, 11383, 1397, 6593, 2978, 323, 459, 14306, 8547, 13]	11	ok
+463	Pathologist's assistant requires specialized training and scientific aptitude naturally.	[1858, 16549, 596, 18328, 7612, 28175, 4967, 323, 12624, 20697, 3993, 18182, 13]	13	ok
+464	Pathologists' assistants' salaries vary widely based on experience and location.	[1858, 22012, 6, 57619, 6, 37532, 13592, 13882, 3196, 389, 3217, 323, 3813, 13]	14	ok
+465	Certification requirements vary by state for pathologist assistants nationwide.	[38034, 2461, 8670, 13592, 555, 1614, 369, 1853, 16549, 57619, 29054, 13]	12	ok
+466	Pathologists require medical degree and clinical pathology training typically.	[1858, 22012, 1397, 6593, 8547, 323, 14830, 77041, 4967, 11383, 13]	11	ok
+467	Pathology assistants' median income is expected to rise significantly nationwide.	[1858, 2508, 57619, 6, 23369, 8070, 374, 3685, 311, 10205, 12207, 29054, 13]	13	ok
+468	Pathology assistants gain hands-on experience in autopsy procedures daily.	[1858, 2508, 57619, 8895, 6206, 10539, 3217, 304, 76901, 16346, 7446, 13]	12	ok
+469	Soil temperatures indicate incorrect timing for crabgrass control advice.	[4516, 321, 20472, 13519, 15465, 18912, 369, 60512, 54454, 2585, 9650, 13]	12	ok
+470	Timing is crucial for effective crabgrass control in Atlanta.	[63905, 374, 16996, 369, 7524, 60512, 54454, 2585, 304, 20005, 13]	11	ok
+471	Apply pre-emergent herbicide before crabgrass blooms in spring season.	[29597, 864, 37612, 2431, 306, 39999, 14842, 1603, 60512, 54454, 92889, 304, 10683, 3280, 13]	15	ok
+472	Scotts Halts Crabgrass Preventer application guidelines vary by region.	[39320, 82, 20442, 2641, 75204, 54454, 39168, 261, 3851, 17959, 13592, 555, 5654, 13]	14	ok
+473	Pre-emergent herbicides prevent weed seeds from germinating naturally always.	[4808, 37612, 2431, 306, 39999, 76195, 5471, 40475, 19595, 505, 17684, 65383, 18182, 2744, 13]	15	ok
+474	Pre-emergent herbicides prevent crabgrass growth before germination.	[4808, 37612, 2431, 306, 39999, 76195, 5471, 60512, 54454, 6650, 1603, 17684, 33196, 13]	14	ok
+475	Apply crabgrass preventer before germination in early spring season.	[29597, 60512, 54454, 5471, 261, 1603, 17684, 33196, 304, 4216, 10683, 3280, 13]	13	ok
+476	Crabgrass seeds can easily spread to lawns through various means.	[16384, 370, 54454, 19595, 649, 6847, 9041, 311, 2383, 4511, 1555, 5370, 3445, 13]	14	ok
+477	Crabgrass seeds germinate at 50 degrees for 3 consecutive nights.	[16384, 370, 54454, 19595, 17684, 35116, 520, 220, 1135, 12628, 369, 220, 18, 24871, 22178, 13]	16	ok
+478	Apply Scotts Halts Crabgrass Preventer in early spring season.	[29597, 10016, 82, 20442, 2641, 75204, 54454, 39168, 261, 304, 4216, 10683, 3280, 13]	14	ok
+479	DNA polymerases assemble nucleotides to create identical DNA strands.	[56420, 47393, 2315, 42840, 31484, 354, 3422, 311, 1893, 20086, 15922, 69864, 13]	13	ok
+480	DNA polymerases synthesize new DNA strands and replace primers.	[56420, 47393, 2315, 6925, 27985, 502, 15922, 69864, 323, 8454, 9036, 388, 13]	13	ok
+481	DNA polymerase assembles DNA strands through nucleotide bonding.	[56420, 47393, 521, 439, 41794, 15922, 69864, 1555, 31484, 69044, 64186, 13]	12	ok
+482	DNA polymerase assembles DNA strands from nucleotides.	[56420, 47393, 521, 439, 41794, 15922, 69864, 505, 31484, 354, 3422, 13]	12	ok
+483	"The double-helix structure allows for precise base pairing.
+
+DNA polymerase is an enzyme that joins individual nucleotides to produce a new strand of DNA."	[791, 2033, 2902, 68818, 6070, 6276, 369, 24473, 2385, 48813, 382, 56420, 47393, 521, 374, 459, 49242, 430, 29782, 3927, 31484, 354, 3422, 311, 8356, 264, 502, 42589, 315, 15922, 13]	31	problèmes de génération
+484	DNA Polymerase III performs 5'-3' polymerase function during replication.	[56420, 97770, 521, 14767, 27772, 220, 20, 25279, 18, 6, 47393, 521, 734, 2391, 48891, 13]	16	ok
+485	DNA ligase forms phosphodiester bonds between DNA fragments.	[56420, 29413, 521, 7739, 33088, 31559, 5302, 27460, 1990, 15922, 35603, 13]	12	ok
+486	DNA replication proteins facilitate DNA synthesis initiation and continuation process.	[56420, 48891, 28896, 28696, 15922, 39975, 61568, 323, 42271, 1920, 13]	11	ok
+487	Helicase unwinds DNA by breaking hydrogen bonds between bases.	[33813, 292, 521, 15375, 8843, 15922, 555, 15061, 35784, 27460, 1990, 23963, 13]	13	ok
+488	DNA polymerase replicates DNA through polymerization and proofreading processes.	[56420, 47393, 521, 29641, 988, 15922, 1555, 47393, 2065, 323, 11311, 6285, 11618, 13]	14	ok
+489	U.S.-China relations may see significant improvement with positive response.	[52, 815, 12898, 23078, 4398, 1253, 1518, 5199, 16048, 449, 6928, 2077, 13]	13	ok
+490	China's ambassador emphasizes mutual benefits in US-China relations and sovereignty.	[23078, 596, 37756, 66159, 27848, 7720, 304, 2326, 98709, 4398, 323, 47059, 13]	13	ok
+491	China and US may find common ground, but diverge often.	[23078, 323, 2326, 1253, 1505, 4279, 5015, 11, 719, 37441, 713, 3629, 13]	13	ok
+492	Non-stop flight from US to Beijing, China is approximately 6,667 miles.	[8284, 42311, 11213, 505, 2326, 311, 27647, 11, 5734, 374, 13489, 220, 21, 11, 19774, 8931, 13]	17	ok
+493	China is viewed as a rising global economic rival instead.	[23078, 374, 19894, 439, 264, 16448, 3728, 7100, 21425, 4619, 13]	11	ok
+494	Managing road travel expenses is crucial for a trip abroad.	[99729, 5754, 5944, 18512, 374, 16996, 369, 264, 8577, 22917, 13]	11	ok
+495	The United States and Russia are just a few kilometers apart.	[791, 3723, 4273, 323, 8524, 527, 1120, 264, 2478, 41668, 10980, 13]	12	ok
+496	U.S.-China relations will be complex and inherently contentious always.	[52, 815, 12898, 23078, 4398, 690, 387, 6485, 323, 49188, 67600, 2744, 13]	13	ok
+497	China and the US engage in a high-stakes gamble.	[23078, 323, 279, 2326, 16988, 304, 264, 1579, 5594, 2094, 64901, 13]	12	ok
+498	China to United States travel duration and estimated travel time.	[23078, 311, 3723, 4273, 5944, 8250, 323, 13240, 5944, 892, 13]	11	ok
+499	Rotator cuff injury causes sharp shoulder and arm pain suddenly.	[38036, 859, 75523, 11134, 11384, 17676, 17308, 323, 6916, 6784, 15187, 13]	12	ok
+500	Armpit pain can be a symptom of shingles.	[7098, 1331, 275, 6784, 649, 387, 264, 49648, 315, 559, 50703, 13]	12	ok
+501	Armpit inflammation is often caused by fungal, viral, or bacterial infections.	[7098, 1331, 275, 37140, 374, 3629, 9057, 555, 95447, 11, 29962, 11, 477, 45964, 30020, 13]	16	ok
+502	Severe pain radiates from neck to arm, possibly nerve issue.	[1542, 19846, 6784, 12164, 988, 505, 13272, 311, 6916, 11, 11000, 32015, 4360, 13]	14	ok
+503	Armpit pain affects both men and women, varies greatly.	[7098, 1331, 275, 6784, 22223, 2225, 3026, 323, 3278, 11, 35327, 19407, 13]	13	ok
+504	I strongly advise against massaging swollen lymph nodes.	[40, 16917, 32113, 2403, 3148, 4210, 76193, 43745, 7954, 13]	10	ok
+505	Arm pain often results from injury, irritation, or inflammation.	[34013, 6784, 3629, 3135, 505, 11134, 11, 66510, 11, 477, 37140, 13]	12	ok
+506	Shoulder dislocation and viral infections can cause armpit pain.	[15346, 261, 834, 2588, 323, 29962, 30020, 649, 5353, 802, 1331, 275, 6784, 13]	14	ok
+507	Armpit pain often caused by glandular infections or lymphoma.	[7098, 1331, 275, 6784, 3629, 9057, 555, 67169, 1299, 30020, 477, 43745, 7942, 13]	14	ok
+508	Dull ache in left armpit may be caused by various factors.	[35, 620, 78831, 304, 2163, 802, 1331, 275, 1253, 387, 9057, 555, 5370, 9547, 13]	15	ok
+509	Shatter fuels Colorado's marijuana industry's rapid growth and controversy.	[2059, 1683, 40373, 15745, 596, 14935, 5064, 596, 11295, 6650, 323, 26654, 13]	13	ok
+510	Use a gradient layer to control Shatter's behavior effectively.	[10464, 264, 20779, 6324, 311, 2585, 1443, 1683, 596, 7865, 13750, 13]	12	ok
+511	Colorado's marijuana industry rapidly expands with shatter production concerns.	[78569, 596, 14935, 5064, 19019, 52956, 449, 559, 1683, 5788, 10742, 13]	12	ok
+512	Colorado's marijuana industry is rapidly expanding with hash concentrates.	[78569, 596, 14935, 5064, 374, 19019, 24050, 449, 5286, 99005, 13]	11	ok
+513	Shatter hash production is a complex process involving cannabis extraction.	[2059, 1683, 5286, 5788, 374, 264, 6485, 1920, 16239, 19437, 33289, 13]	12	ok
+514	Concentrates come in three main forms: Shatter, Budder, and Oil.	[1128, 1189, 67585, 2586, 304, 2380, 1925, 7739, 25, 1443, 1683, 11, 19098, 261, 11, 323, 15895, 13]	18	ok
+515	Concentrates come in various forms, including shatter, budder, and oil.	[1128, 1189, 67585, 2586, 304, 5370, 7739, 11, 2737, 559, 1683, 11, 24385, 261, 11, 323, 5707, 13]	18	ok
+516	Colorado's marijuana industry is rapidly growing with hash concentrates.	[78569, 596, 14935, 5064, 374, 19019, 7982, 449, 5286, 99005, 13]	11	ok
+517	Use a gradient layer to control Shatter behavior effectively always.	[10464, 264, 20779, 6324, 311, 2585, 1443, 1683, 7865, 13750, 2744, 13]	12	ok
+518	I successfully created stable amber glass bho with expert tips.	[40, 7946, 3549, 15528, 68705, 9168, 293, 6292, 449, 6335, 10631, 13]	12	ok
+519	Lauderhill's population has grown significantly over the past decade steadily.	[43, 8039, 261, 28607, 596, 7187, 706, 15042, 12207, 927, 279, 3347, 13515, 43071, 13]	15	ok
+520	Lauderhill's population demographics reveal a diverse age range distribution.	[43, 8039, 261, 28607, 596, 7187, 63334, 16805, 264, 17226, 4325, 2134, 8141, 13]	14	ok
+521	Lauderhill's population is predominantly young families and adults.	[43, 8039, 261, 28607, 596, 7187, 374, 47904, 3995, 8689, 323, 12884, 13]	13	ok
+522	Lauderhill's unmarried youth reside in various household arrangements.	[43, 8039, 261, 28607, 596, 95587, 12822, 48383, 304, 5370, 14048, 28904, 13]	13	ok
+523	Lauderhill's population grew 19.97% between 2000-2014.	[43, 8039, 261, 28607, 596, 7187, 14264, 220, 777, 13, 3534, 4, 1990, 220, 1049, 15, 12, 679, 19, 13]	20	ok
+524	"Lauderhill, Florida population statistics for 2016 and 2017.
+
+According to the United States Census Bureau, the population of Lauderhill, Florida in 2016 was approximately 68,431. By 2017, the population had increased to around 70,358."	[43, 8039, 261, 28607, 11, 9784, 7187, 13443, 369, 220, 679, 21, 323, 220, 679, 22, 382, 11439, 311, 279, 3723, 4273, 46627, 22555, 11, 279, 7187, 315, 5034, 33719, 28607, 11, 9784, 304, 220, 679, 21, 574, 13489, 220, 2614, 11, 19852, 13, 3296, 220, 679, 22, 11, 279, 7187, 1047, 7319, 311, 2212, 220, 2031, 11, 17112, 13]	60	problèmes de génération
+525	Lauderhill has high population density and lower education levels.	[43, 8039, 261, 28607, 706, 1579, 7187, 17915, 323, 4827, 6873, 5990, 13]	13	ok
+526	US Census Bureau provides historical data and statistics online.	[2078, 46627, 22555, 5825, 13970, 828, 323, 13443, 2930, 13]	10	ok
+527	Lauderhill, Florida population demographics in 2016 and 2017 were predominantly Hispanic.	[43, 8039, 261, 28607, 11, 9784, 7187, 63334, 304, 220, 679, 21, 323, 220, 679, 22, 1051, 47904, 41985, 13]	20	ok
+528	Lauderhill's population is predominantly female with a total of 66,887 residents.	[43, 8039, 261, 28607, 596, 7187, 374, 47904, 8954, 449, 264, 2860, 315, 220, 2287, 11, 26058, 11062, 13]	19	ok
+529	Agricultural tool with teeth or tines for harvesting.	[32, 13130, 4269, 5507, 449, 18311, 477, 259, 1572, 369, 66747, 13]	12	ok
+530	Roof's outer edge forms the boundary between eave and ridge.	[39972, 1073, 596, 16335, 6964, 7739, 279, 19254, 1990, 384, 525, 323, 58933, 13]	14	ok
+531	A careless spark sets off a chain reaction suddenly.	[32, 84834, 15541, 7437, 1022, 264, 8957, 13010, 15187, 13]	10	ok
+532	Agricultural tool with teeth for gathering or smoothing surfaces.	[32, 13130, 4269, 5507, 449, 18311, 369, 23738, 477, 63061, 27529, 13]	12	ok
+533	A grout rake and oscillating multitool effectively remove grout.	[32, 1099, 412, 76518, 323, 43524, 1113, 85360, 1786, 13750, 4148, 1099, 412, 13]	14	ok
+534	Rake is a Ruby-based task management tool for automation.	[49, 731, 374, 264, 24658, 6108, 3465, 6373, 5507, 369, 33762, 13]	12	ok
+535	Raking originated from Old English verb and Scandinavian roots.	[49, 1802, 44853, 505, 10846, 6498, 19120, 323, 85674, 20282, 13]	11	ok
+536	The roof's outer edge runs from eave to peak.	[791, 15485, 596, 16335, 6964, 8640, 505, 384, 525, 311, 16557, 13]	12	ok
+537	Agricultural tool with teeth or tines for harvesting purposes.	[32, 13130, 4269, 5507, 449, 18311, 477, 259, 1572, 369, 66747, 10096, 13]	13	ok
+538	Eaves protect exterior walls from rainwater accumulation effectively always.	[36, 4798, 6144, 28362, 14620, 505, 11422, 13284, 46835, 13750, 2744, 13]	12	ok
+539	Blood pressure measures circulating blood's force on vessel walls.	[52586, 7410, 11193, 54828, 6680, 596, 5457, 389, 27274, 14620, 13]	11	ok
+540	Disease diagnosis uses probability and prognosis to guide treatment.	[35, 56407, 23842, 5829, 19463, 323, 95350, 311, 8641, 6514, 13]	11	ok
+541	High blood pressure affects nearly three out of every ten adults.	[12243, 6680, 7410, 22223, 7154, 2380, 704, 315, 1475, 5899, 12884, 13]	12	ok
+542	Regular blood pressure testing is crucial for hypertension diagnosis.	[31504, 6680, 7410, 7649, 374, 16996, 369, 63308, 23842, 13]	10	ok
+543	Blood pressure is influenced by multiple physiological factors daily.	[52586, 7410, 374, 28160, 555, 5361, 53194, 9547, 7446, 13]	10	ok
+544	Blood pressure varies by age and gender significantly over time.	[52586, 7410, 35327, 555, 4325, 323, 10026, 12207, 927, 892, 13]	11	ok
+545	Blood pressure readings consist of systolic and diastolic values.	[52586, 7410, 40174, 6824, 315, 42345, 7918, 323, 1891, 561, 7918, 2819, 13]	13	ok
+546	Mean arterial pressure is the average blood pressure during a cycle.	[19312, 80935, 7410, 374, 279, 5578, 6680, 7410, 2391, 264, 11008, 13]	12	ok
+547	Fluids and medications manage MAP within normal range effectively.	[71066, 82, 323, 31010, 10299, 28322, 2949, 4725, 2134, 13750, 13]	11	ok
+548	Mean arterial blood pressure ranges from 60 to 110.	[19312, 80935, 6680, 7410, 21986, 505, 220, 1399, 311, 220, 5120, 13]	12	ok
+549	Comiskey relocated Saints to Armour Square in 1900 successfully.	[1110, 47190, 70209, 33319, 311, 61685, 15992, 304, 220, 7028, 15, 7946, 13]	13	ok
+550	The White Sox bounced back with a series win.	[791, 5929, 39645, 70904, 1203, 449, 264, 4101, 3243, 13]	10	ok
+551	The White Sox have had two infamous team nicknames historically.	[791, 5929, 39645, 617, 1047, 1403, 39633, 2128, 16370, 11654, 35901, 13]	12	ok
+552	The Chicago Cubs originated from the White Stockings.	[791, 10780, 51143, 44853, 505, 279, 5929, 12937, 826, 13]	10	ok
+553	The Chicago White Sox experienced a turnaround in performance.	[791, 10780, 5929, 39645, 10534, 264, 67610, 304, 5178, 13]	10	ok
+554	The Chicago White Sox originated from the White Stockings.	[791, 10780, 5929, 39645, 44853, 505, 279, 5929, 12937, 826, 13]	11	ok
+555	Established in 1900 as the Chicago White Stockings franchise.	[69320, 291, 304, 220, 7028, 15, 439, 279, 10780, 5929, 12937, 826, 19562, 13]	14	ok
+556	The Chicago White Sox dominated the inaugural American League season.	[791, 10780, 5929, 39645, 30801, 279, 54559, 3778, 9130, 3280, 13]	11	ok
+557	The Chicago White Sox won the first World Series.	[791, 10780, 5929, 39645, 2834, 279, 1176, 4435, 11378, 13]	10	ok
+558	The Chicago White Sox are a professional baseball team in Chicago.	[791, 10780, 5929, 39645, 527, 264, 6721, 20075, 2128, 304, 10780, 13]	12	ok
+559	Bottle deposit system simplified shopping for beer in the past.	[33, 63218, 16946, 1887, 44899, 12185, 369, 13179, 304, 279, 3347, 13]	12	ok
+560	Beverage container deposit laws promote recycling nationwide effectively nationwide.	[33, 2099, 425, 5593, 16946, 7016, 12192, 34978, 29054, 13750, 29054, 13]	12	ok
+561	House committee rejects bottle bill for the second time.	[29707, 13093, 60515, 16893, 4121, 369, 279, 2132, 892, 13]	10	ok
+562	Oregon Bottle Bill requires deposit on certain beverage containers.	[93183, 55085, 8766, 7612, 16946, 389, 3738, 43450, 24794, 13]	10	ok
+563	Container deposit legislation is a contentious US policy issue nationwide.	[4603, 16946, 13543, 374, 264, 67600, 2326, 4947, 4360, 29054, 13]	11	ok
+564	Oregon's Bottle Bill was the first U.S. environmental law.	[93183, 596, 55085, 8766, 574, 279, 1176, 549, 815, 13, 12434, 2383, 13]	13	ok
+565	Similar measures adopted in several US states recently nationwide.	[35502, 11193, 18306, 304, 3892, 2326, 5415, 6051, 29054, 13]	10	ok
+566	Redemption rates increased for certain beverage containers nationwide gradually.	[6161, 34206, 7969, 7319, 369, 3738, 43450, 24794, 29054, 27115, 13]	11	ok
+567	Oregon approved first redemption centers in 2010 slowly expanding nationwide.	[93183, 12054, 1176, 56752, 19169, 304, 220, 679, 15, 14297, 24050, 29054, 13]	13	ok
+568	Oregon's Bottle Bill sparks debate on recycling effectiveness nationwide.	[93183, 596, 55085, 8766, 76883, 11249, 389, 34978, 27375, 29054, 13]	11	ok
+569	Internet Explorer's default settings cause unnecessary prompts repeatedly.	[36779, 30252, 596, 1670, 5110, 5353, 26225, 52032, 19352, 13]	10	ok
+570	Set default programs in Windows 7 and Vista.	[1681, 1670, 7620, 304, 5632, 220, 22, 323, 35712, 13]	10	ok
+571	Internet Explorer runs by default on Windows systems automatically.	[36779, 30252, 8640, 555, 1670, 389, 5632, 6067, 9651, 13]	10	ok
+572	Change Windows 8's default email client to a preferred program.	[4164, 5632, 220, 23, 596, 1670, 2613, 3016, 311, 264, 15236, 2068, 13]	13	ok
+573	No default email program is set on your computer.	[2822, 1670, 2613, 2068, 374, 743, 389, 701, 6500, 13]	10	ok
+574	Check default email program via right-clicking and selecting Send to.	[4061, 1670, 2613, 2068, 4669, 1314, 29218, 287, 323, 27397, 11244, 311, 13]	13	ok
+575	Default email client is the primary email software used.	[3760, 2613, 3016, 374, 279, 6156, 2613, 3241, 1511, 13]	10	ok
+576	Selecting default programs for internet applications is a common process.	[3461, 287, 1670, 7620, 369, 7757, 8522, 374, 264, 4279, 1920, 13]	12	ok
+577	Setting up a default email program in Windows for sending emails.	[15762, 709, 264, 1670, 2613, 2068, 304, 5632, 369, 11889, 14633, 13]	12	ok
+578	Windows 7 and Vista offer multiple browsing and email options.	[13466, 220, 22, 323, 35712, 3085, 5361, 32421, 323, 2613, 2671, 13]	12	ok
+579	Witnesses and exhibits are crucial in establishing credibility and evidence.	[99513, 288, 323, 50829, 527, 16996, 304, 31692, 38769, 323, 6029, 13]	12	ok
+580	Federal laws govern crimes with national implications nationwide effectively always.	[57853, 7016, 2633, 17073, 449, 5426, 25127, 29054, 13750, 2744, 13]	11	ok
+581	Evidence law governs proof in legal proceedings and decision-making.	[93702, 2383, 2633, 82, 11311, 304, 5897, 29407, 323, 5597, 28846, 13]	12	ok
+582	Criminal acts categorized as felonies or misdemeanors vary by jurisdiction.	[34, 58140, 14385, 71974, 439, 81014, 552, 477, 51726, 1105, 13592, 555, 29101, 13]	14	ok
+583	Digital evidence enhances court proceedings with valuable new insights always.	[39212, 6029, 57924, 5590, 29407, 449, 15525, 502, 26793, 2744, 13]	11	ok
+584	Digital imaging evidence accepted by Minnesota courts in trials.	[39212, 32758, 6029, 11928, 555, 19461, 19359, 304, 19622, 13]	10	ok
+585	Authenticating and tracing evidence is crucial in court proceedings.	[5197, 4351, 1113, 323, 46515, 6029, 374, 16996, 304, 5590, 29407, 13]	12	ok
+586	Digital evidence credibility hinges on expert qualifications and prosecutor skill.	[39212, 6029, 38769, 80934, 389, 6335, 43784, 323, 36151, 10151, 13]	11	ok
+587	Admissible evidence is crucial in a fair trial process.	[2654, 45164, 6029, 374, 16996, 304, 264, 6762, 9269, 1920, 13]	11	ok
+588	Exhibits are tangible or visual representations of evidence presented.	[849, 5923, 1220, 527, 50401, 477, 9302, 44713, 315, 6029, 10666, 13]	12	ok
+589	Straight truck standards vary in length, width, and height.	[89954, 11092, 10886, 13592, 304, 3160, 11, 2430, 11, 323, 2673, 13]	12	ok
+590	UK limits semi-trailer weight to 97,000 pounds.	[25554, 13693, 18768, 10398, 39882, 4785, 311, 220, 3534, 11, 931, 16701, 13]	13	ok
+591	Tractor-trailer design differs from traditional truck and trailer configurations.	[1305, 5739, 10398, 39882, 2955, 44642, 505, 8776, 11092, 323, 19809, 33483, 13]	13	ok
+592	Motor home dimensions vary by type and equipment.	[34677, 2162, 15696, 13592, 555, 955, 323, 7241, 13]	9	ok
+593	Dry Van trailer for 30 pallets with 45,000 lb capacity.	[86315, 13000, 19809, 369, 220, 966, 59903, 82, 449, 220, 1774, 11, 931, 19398, 8824, 13]	16	ok
+594	Standard Freight Trailer Dimensions for Planning Purposes Only	[20367, 91338, 38042, 33123, 369, 28780, 14874, 8449, 8442]	9	ok
+595	Trailer lengths vary from 28 to 65 feet in length.	[1305, 39882, 29416, 13592, 505, 220, 1591, 311, 220, 2397, 7693, 304, 3160, 13]	14	ok
+596	New regulations set forth specific weight limits and axle positions.	[3648, 14640, 743, 13544, 3230, 4785, 13693, 323, 73200, 10093, 13]	11	ok
+597	Trailer sizes vary by state and load requirements.	[1305, 39882, 12562, 13592, 555, 1614, 323, 2865, 8670, 13]	10	ok
+598	The motor home measures 65 feet in total length overall.	[791, 9048, 2162, 11193, 220, 2397, 7693, 304, 2860, 3160, 8244, 13]	12	ok
+599	Mark Ruffalo brings Hulk to life through motion capture.	[9126, 432, 1386, 12812, 12716, 61946, 311, 2324, 1555, 11633, 12602, 13]	12	ok
+600	Marvel's The Incredible Hulk TV series originated from a pilot film.	[83676, 596, 578, 80953, 61946, 6007, 4101, 44853, 505, 264, 18178, 4632, 13]	13	ok
+601	Dr. Bruce Banner transforms into the powerful Hulk after explosion.	[9023, 13, 24785, 40714, 29575, 1139, 279, 8147, 61946, 1306, 25176, 13]	12	ok
+602	Edward Norton stars in a new Hulk film with Liv Tyler.	[85601, 60364, 9958, 304, 264, 502, 61946, 4632, 449, 37311, 32320, 13]	12	ok
+603	Hulk's rage and incredible strength cause destruction and chaos.	[39, 22537, 596, 34049, 323, 15400, 8333, 5353, 19814, 323, 28013, 13]	12	ok
+604	Bruce Banner struggles with inner turmoil and unrequited love.	[79579, 40714, 28970, 449, 9358, 63355, 323, 653, 11265, 1639, 3021, 13]	12	ok
+605	IMDb is the leading entertainment industry resource platform.	[1829, 8153, 374, 279, 6522, 16924, 5064, 5211, 5452, 13]	10	ok
+606	Bruce Banner transforms into the Hulk under extreme stress or injury.	[79579, 40714, 29575, 1139, 279, 61946, 1234, 14560, 8631, 477, 11134, 13]	12	ok
+607	The Incredible Hulk receives mixed reviews overall from critics.	[791, 80953, 61946, 21879, 9709, 8544, 8244, 505, 23531, 13]	10	ok
+608	Marvel's The Incredible Hulk TV series originated from a pilot film.	[83676, 596, 578, 80953, 61946, 6007, 4101, 44853, 505, 264, 18178, 4632, 13]	13	ok
+609	Tutors tailor their approach to individual students' needs and ages.	[51, 9663, 52056, 872, 5603, 311, 3927, 4236, 6, 3966, 323, 17051, 13]	13	ok
+610	Tutor Bungalow offers low-cost, quick sign-up tutoring services nationwide.	[51, 4936, 426, 85019, 6209, 3428, 41238, 11, 4062, 1879, 5352, 78143, 3600, 29054, 13]	15	ok
+611	Consider charging $75-$125 per hour for SAT tutoring services.	[38275, 23468, 400, 2075, 22104, 6549, 824, 6596, 369, 43354, 78143, 3600, 13]	13	ok
+612	Tutoring platforms vary in revenue sharing models and fees.	[51, 4936, 287, 15771, 13592, 304, 13254, 11821, 4211, 323, 12718, 13]	12	ok
+613	Tutors on Craigslist may offer lower rates but varying quality.	[51, 9663, 389, 73392, 1253, 3085, 4827, 7969, 719, 29865, 4367, 13]	12	ok
+614	Kumon tutoring centers have a relatively high hourly cost.	[42, 372, 263, 78143, 19169, 617, 264, 12309, 1579, 47729, 2853, 13]	12	ok
+615	36 By Design offers specialized ACT test preparation services.	[1927, 3296, 7127, 6209, 28175, 21800, 1296, 18459, 3600, 13]	10	ok
+616	Tutors can earn varying hourly rates based on factors.	[51, 9663, 649, 7380, 29865, 47729, 7969, 3196, 389, 9547, 13]	11	ok
+617	Tutoring services face low ratings and uncertain reputation concerns.	[51, 4936, 287, 3600, 3663, 3428, 18594, 323, 36218, 17444, 10742, 13]	12	ok
+618	Tutoring rates vary by location and expertise level significantly nationwide.	[51, 4936, 287, 7969, 13592, 555, 3813, 323, 19248, 2237, 12207, 29054, 13]	13	ok
+619	The film and musical have differing release years and plot details.	[791, 4632, 323, 18273, 617, 61469, 4984, 1667, 323, 7234, 3649, 13]	12	ok
+620	Carmen's departure led to Aimee Garcia's Veronica Palmero character.	[34, 2227, 268, 596, 25959, 6197, 311, 362, 547, 68, 38810, 596, 83621, 42216, 78, 3752, 13]	17	ok
+621	Carmen's departure led to Aimee Garcia's Veronica Palmero role.	[34, 2227, 268, 596, 25959, 6197, 311, 362, 547, 68, 38810, 596, 83621, 42216, 78, 3560, 13]	17	ok
+622	The Belgian Malinois actor shines in a family drama.	[791, 49162, 8560, 17083, 12360, 65880, 304, 264, 3070, 20156, 13]	11	ok
+623	"""Heroic canine duo solves mystery with unbreakable brotherly bond."""	[1, 31328, 292, 76082, 34821, 68577, 23347, 449, 653, 9137, 481, 10868, 398, 11049, 1210]	15	problèmes de génération
+624	Carlos, a Belgian Malinois, shines as heroic canine star Max.	[93599, 11, 264, 49162, 8560, 17083, 11, 65880, 439, 56375, 76082, 6917, 7639, 13]	14	ok
+625	Mel Brooks adapted The Producers into a musical.	[40249, 39119, 30464, 578, 1322, 34475, 1139, 264, 18273, 13]	10	ok
+626	Carmen Lopez is George and Angie's first child together.	[34, 2227, 268, 45315, 374, 10058, 323, 100029, 596, 1176, 1716, 3871, 13]	13	ok
+627	Max struggles with PTSD after his handler's tragic death overseas.	[6102, 28970, 449, 62419, 1306, 813, 7158, 596, 35279, 4648, 25355, 13]	12	ok
+628	The musical production toured the US in 2009 nationwide.	[791, 18273, 5788, 91713, 279, 2326, 304, 220, 1049, 24, 29054, 13]	12	ok
+629	Contact local election commission for voting district information online.	[8906, 2254, 6355, 12396, 369, 16043, 9474, 2038, 2930, 13]	10	ok
+630	Enter address to find your district information instantly online.	[6403, 2686, 311, 1505, 701, 9474, 2038, 22571, 2930, 13]	10	ok
+631	Project Vote Smart provides candidate information by zip code online.	[8006, 35134, 16147, 5825, 9322, 2038, 555, 10521, 2082, 2930, 13]	11	ok
+632	Election candidate lookup websites seem to be unavailable temporarily.	[36, 1191, 9322, 19128, 13335, 2873, 311, 387, 36087, 28191, 13]	11	ok
+633	Voters can sign independent nominating petitions for available offices.	[53, 40896, 649, 1879, 9678, 25194, 1113, 75554, 369, 2561, 19672, 13]	12	ok
+634	The 1st Congressional District of Washington encompasses northeastern Washington state.	[791, 220, 16, 267, 39473, 11182, 315, 6652, 71010, 87244, 6652, 1614, 13]	13	ok
+635	Check local election websites and reputable news sources for information.	[4061, 2254, 6355, 13335, 323, 56940, 3754, 8336, 369, 2038, 13]	11	ok
+636	Candidate's statements and videos are unedited and unbiased.	[65001, 596, 12518, 323, 6946, 527, 653, 62503, 323, 74315, 13]	11	ok
+637	Precincts are designated areas for voting and police divisions.	[69933, 7956, 82, 527, 24073, 5789, 369, 16043, 323, 4379, 37601, 13]	12	ok
+638	Get ready to vote, learn about candidates and voting locations.	[1991, 5644, 311, 7055, 11, 4048, 922, 11426, 323, 16043, 10687, 13]	12	ok
+639	Adults with high BMI face increased flu complication risk nationwide.	[53130, 82, 449, 1579, 47224, 3663, 7319, 20236, 86919, 5326, 29054, 13]	12	ok
+640	Excessive screen time fuels childhood obesity through unhealthy habits.	[849, 87728, 4264, 892, 40373, 20587, 33048, 1555, 53808, 26870, 13]	11	ok
+641	CDC promotes healthy eating and active living nationwide initiatives.	[74558, 39990, 9498, 12459, 323, 4642, 5496, 29054, 28271, 13]	10	ok
+642	Childhood obesity poses serious health risks and complications.	[3736, 5812, 33048, 34103, 6129, 2890, 15635, 323, 36505, 13]	10	ok
+643	Pregnancy weight gain linked to childhood obesity risk.	[47, 40381, 6709, 4785, 8895, 10815, 311, 20587, 33048, 5326, 13]	11	ok
+644	Only 1 in 10 Adults Meet Fruit and Veggie Recommendations	[7456, 220, 16, 304, 220, 605, 58338, 26911, 44187, 323, 91013, 22235, 89520]	13	ok
+645	WIC state agencies report decline in childhood obesity rates among 2-4 year olds nationwide.	[54, 1341, 1614, 13607, 1934, 18174, 304, 20587, 33048, 7969, 4315, 220, 17, 12, 19, 1060, 79573, 29054, 13]	19	ok
+646	Obesity poses significant health risks and serious long-term consequences.	[4213, 28222, 34103, 5199, 2890, 15635, 323, 6129, 1317, 9860, 16296, 13]	12	ok
+647	CDC promotes healthy eating and active lifestyles nationwide initiatives.	[74558, 39990, 9498, 12459, 323, 4642, 79731, 29054, 28271, 13]	10	ok
+648	Childhood obesity poses serious health risks and complications.	[3736, 5812, 33048, 34103, 6129, 2890, 15635, 323, 36505, 13]	10	ok
+649	Lake City is a Seattle neighborhood northeast of downtown Seattle.	[82389, 4409, 374, 264, 16759, 12818, 41929, 315, 19441, 16759, 13]	11	ok
+650	Bonneville Salt Flats are a unique western Utah landscape feature.	[33, 30052, 8078, 28138, 3061, 1900, 527, 264, 5016, 19001, 23195, 18921, 4668, 13]	14	ok
+651	Hinsdale County is the most remote county in the lower 48.	[39, 1354, 35283, 6406, 374, 279, 1455, 8870, 14189, 304, 279, 4827, 220, 2166, 13]	15	ok
+652	Lake City, Michigan, is the Christmas Tree Capital of the U.S.	[82389, 4409, 11, 14972, 11, 374, 279, 10280, 9119, 18880, 315, 279, 549, 815, 13]	15	ok
+653	Lake City, Florida, offers natural beauty and outdoor activities nearby.	[82389, 4409, 11, 9784, 11, 6209, 5933, 13444, 323, 16166, 7640, 14373, 13]	13	ok
+654	Locations farthest from Salt Lake City are French Southern Territories.	[44137, 3117, 61943, 505, 28138, 11940, 4409, 527, 8753, 16642, 87443, 13]	12	ok
+655	Park City offers a blend of accessibility and rustic charm.	[64706, 4409, 6209, 264, 20955, 315, 40800, 323, 58372, 32353, 13]	11	ok
+656	Hinsdale County is the most remote county in the lower 48.	[39, 1354, 35283, 6406, 374, 279, 1455, 8870, 14189, 304, 279, 4827, 220, 2166, 13]	15	ok
+657	Hinsdale County boasts unique wilderness and public land features.	[39, 1354, 35283, 6406, 38119, 5016, 49362, 323, 586, 4363, 4519, 13]	12	ok
+658	Lake City is a Seattle neighborhood centered around Lake City Way.	[82389, 4409, 374, 264, 16759, 12818, 31288, 2212, 11940, 4409, 12424, 13]	12	ok
+659	John Dee's angelic language is a 16th-century English occult script.	[13379, 56004, 596, 34426, 292, 4221, 374, 264, 220, 845, 339, 34457, 6498, 74926, 5429, 13]	16	ok
+660	Enochian language is a constructed angelic occult script system.	[1737, 5059, 1122, 4221, 374, 264, 20968, 34426, 292, 74926, 5429, 1887, 13]	13	ok
+661	Enochian language originates from Dee's claims about Enoch's knowledge.	[1737, 5059, 1122, 4221, 99970, 505, 56004, 596, 8349, 922, 469, 77118, 596, 6677, 13]	15	ok
+662	Angels and demons know Enochian sigils, a magical practice.	[10976, 2053, 323, 45075, 1440, 469, 77118, 1122, 8531, 8839, 11, 264, 24632, 6725, 13]	15	ok
+663	Enochian language is an alleged angelic construct system.	[1737, 5059, 1122, 4221, 374, 459, 10711, 34426, 292, 9429, 1887, 13]	12	ok
+664	Nokian Tyres produces high-quality winter tyres globally effectively worldwide.	[45, 564, 1122, 14221, 417, 19159, 1579, 22867, 12688, 69793, 31550, 13750, 15603, 13]	14	ok
+665	Enochian language is integral to magical practice and study.	[1737, 5059, 1122, 4221, 374, 26154, 311, 24632, 6725, 323, 4007, 13]	12	ok
+666	Angelic language is a transformed Enochian system of divine communication.	[10976, 43723, 4221, 374, 264, 24411, 469, 77118, 1122, 1887, 315, 30467, 10758, 13]	14	ok
+667	Enochian language facilitates angelic communication through sacred symbols.	[1737, 5059, 1122, 4221, 73633, 34426, 292, 10758, 1555, 32442, 18210, 13]	12	ok
+668	Dr. John Dee and Sir Edward Kelly received Enochian alphabet.	[9023, 13, 3842, 56004, 323, 17177, 22653, 19178, 4036, 469, 77118, 1122, 28890, 13]	14	ok
+669	Home buyers typically cover the appraiser's fee and costs.	[7778, 23455, 11383, 3504, 279, 917, 969, 12329, 596, 11307, 323, 7194, 13]	13	ok
+670	Mortgage lenders use appraisals to determine property value.	[44, 371, 15292, 46115, 1005, 917, 41098, 1147, 311, 8417, 3424, 907, 13]	13	ok
+671	Louisiana board takes disciplinary action against appraisal management companies.	[67215, 12699, 4580, 5097, 57315, 1957, 2403, 79392, 6373, 5220, 13]	11	ok
+672	Home appraisal is a crucial step in mortgage process evaluation.	[7778, 79392, 374, 264, 16996, 3094, 304, 21515, 1920, 16865, 13]	11	ok
+673	Capital One charges extra for managing appraisal process, not just appraisal.	[64693, 3861, 10405, 5066, 369, 18646, 79392, 1920, 11, 539, 1120, 79392, 13]	13	ok
+674	Banks exploit appraisal fees through AMC arrangements with ownership interests.	[33, 4129, 33294, 79392, 12718, 1555, 75409, 28904, 449, 15637, 12034, 13]	12	ok
+675	Don't judge a lender solely on a small fee discrepancy.	[8161, 956, 11913, 264, 48575, 21742, 389, 264, 2678, 11307, 79105, 13]	12	ok
+676	Appraisal management companies oversee appraisers' fees under Dodd-Frank regulations.	[2213, 65359, 6373, 5220, 42003, 917, 41098, 388, 6, 12718, 1234, 84093, 7424, 13430, 14640, 13]	16	ok
+677	Navigating owner financing options with a steep learning curve.	[99542, 1113, 6506, 29642, 2671, 449, 264, 32366, 6975, 16029, 13]	11	ok
+678	Company pays $5,000 fine, adopts new fee schedule nationwide.	[14831, 21935, 400, 20, 11, 931, 7060, 11, 87057, 502, 11307, 9899, 29054, 13]	14	ok
+679	Written statements are libel, spoken statements are slander.	[36724, 12518, 527, 3127, 301, 11, 22066, 12518, 527, 99558, 13]	11	ok
+680	Defamation harms reputation through false written or spoken statements.	[2685, 27279, 84496, 17444, 1555, 905, 5439, 477, 22066, 12518, 13]	11	ok
+681	Defamation is the communication of false statements harming reputation.	[2685, 27279, 374, 279, 10758, 315, 905, 12518, 90255, 17444, 13]	11	ok
+682	Defamatory written or broadcast statements harm someone's reputation instantly.	[2685, 309, 5382, 5439, 477, 13195, 12518, 11682, 4423, 596, 17444, 22571, 13]	13	ok
+683	Defamation basics cover slander and libel laws and regulations.	[2685, 27279, 32874, 3504, 99558, 323, 3127, 301, 7016, 323, 14640, 13]	12	ok
+684	False statements harm others in various forms of media.	[4139, 12518, 11682, 3885, 304, 5370, 7739, 315, 3772, 13]	10	ok
+685	Publisher's intent is key in libel cases, not knowledge.	[35650, 596, 7537, 374, 1401, 304, 3127, 301, 5157, 11, 539, 6677, 13]	13	ok
+686	Libel is written defamation, slander is spoken.	[9374, 301, 374, 5439, 89201, 11, 99558, 374, 22066, 13]	10	ok
+687	Defamation is a tort causing harm to someone's reputation online.	[2685, 27279, 374, 264, 16831, 14718, 11682, 311, 4423, 596, 17444, 2930, 13]	13	ok
+688	Libel is written or printed defamation with lasting impact.	[9374, 301, 374, 5439, 477, 17124, 89201, 449, 29869, 5536, 13]	11	ok
+689	Genital herpes is a common US sexually transmitted disease.	[10172, 2223, 70085, 374, 264, 4279, 2326, 27681, 34699, 8624, 13]	11	ok
+690	HSV-1 causes cold sores and genital herpes through skin contact.	[100030, 12, 16, 11384, 9439, 779, 417, 323, 57455, 70085, 1555, 6930, 3729, 13]	14	ok
+691	Herpes simplex viruses cause oral and genital infections worldwide.	[21364, 20975, 92751, 42068, 5353, 21308, 323, 57455, 30020, 15603, 13]	11	ok
+692	HSV-1 and HSV-2 cause genital herpes infections differently.	[100030, 12, 16, 323, 81411, 12, 17, 5353, 57455, 70085, 30020, 22009, 13]	13	ok
+693	Genital herpes symptoms include painful sores and skin irritation.	[10172, 2223, 70085, 13803, 2997, 26175, 779, 417, 323, 6930, 66510, 13]	12	ok
+694	HPV is a common sexually transmitted virus with many types.	[6748, 53, 374, 264, 4279, 27681, 34699, 17188, 449, 1690, 4595, 13]	12	ok
+695	HSV-2 causes most genital herpes infections worldwide.	[100030, 12, 17, 11384, 1455, 57455, 70085, 30020, 15603, 13]	10	ok
+696	Genital herpes symptoms can be mistaken for other infections.	[10172, 2223, 70085, 13803, 649, 387, 37104, 369, 1023, 30020, 13]	11	ok
+697	Genital herpes virus spreads through sexual contact without symptoms.	[10172, 2223, 70085, 17188, 43653, 1555, 7392, 3729, 2085, 13803, 13]	11	ok
+698	Genital herpes causes painful sores and increases HIV risk.	[10172, 2223, 70085, 11384, 26175, 779, 417, 323, 12992, 23495, 5326, 13]	12	ok
+699	Telekinesis lacks scientific evidence and proven existence.	[22378, 74, 83889, 37856, 12624, 6029, 323, 17033, 14209, 13]	10	ok
+700	Learn to harness your mind's power for effortless movement.	[24762, 311, 33508, 701, 4059, 596, 2410, 369, 80192, 7351, 13]	11	ok
+701	Learn to control objects with your mind through telekinesis practice.	[24762, 311, 2585, 6302, 449, 701, 4059, 1555, 8122, 74, 83889, 6725, 13]	13	ok
+702	Master the art of telekinesis with PSI Wheel technique.	[18532, 279, 1989, 315, 8122, 74, 83889, 449, 89278, 33442, 15105, 13]	12	ok
+703	Human telekinesis lies dormant due to centuries of mental suppression.	[35075, 8122, 74, 83889, 15812, 89460, 4245, 311, 24552, 315, 10723, 46735, 13]	13	ok
+704	Learn to control objects with your mind through PSI Wheel training.	[24762, 311, 2585, 6302, 449, 701, 4059, 1555, 89278, 33442, 4967, 13]	12	ok
+705	"Here are the nominal phrases with no repetition, at most 10 words and at least 6 words:
+
+1. Overcoming regret through self-reflection and forgiveness is key always.
+2. Lucid dreaming allows for mind control and exploration freely.
+3. Humans ponder existence and meaning through introspective mental processes daily.
+4. Nightmares symbolize anxiety and unresolved emotional issues deeply rooted.
+5. Mindfulness meditation techniques calm the nervous system effectively always.
+6. Nervous breakdowns signify emotional overwhelm and mental exhaustion severely."	[8586, 527, 279, 47855, 32847, 449, 912, 54515, 11, 520, 1455, 220, 605, 4339, 323, 520, 3325, 220, 21, 4339, 1473, 16, 13, 6193, 5065, 23023, 1555, 659, 44107, 1191, 323, 53150, 374, 1401, 2744, 627, 17, 13, 14103, 307, 56774, 6276, 369, 4059, 2585, 323, 27501, 26662, 627, 18, 13, 66094, 48883, 14209, 323, 7438, 1555, 26609, 9262, 10723, 11618, 7446, 627, 19, 13, 13120, 63636, 7891, 553, 18547, 323, 81261, 14604, 4819, 17693, 41976, 627, 20, 13, 23754, 31514, 33862, 12823, 19858, 279, 23418, 1887, 13750, 2744, 627, 21, 13, 452, 651, 788, 31085, 82, 89522, 14604, 96848, 323, 10723, 70663, 35906, 13]	105	problèmes de génération
+706	Mind control through PSI Wheel meditation technique requires relaxation.	[70738, 2585, 1555, 89278, 33442, 33862, 15105, 7612, 43685, 13]	10	ok
+707	Mastering telekinesis for beginners: harnessing brain power for effortless movement.	[18532, 287, 8122, 74, 83889, 369, 47950, 25, 33508, 287, 8271, 2410, 369, 80192, 7351, 13]	16	ok
+708	Telekinesis is the alleged ability to move objects mentally.	[22378, 74, 83889, 374, 279, 10711, 5845, 311, 3351, 6302, 34325, 13]	12	ok
+709	The Thermacell Mosquito Repellent is an effective outdoor device.	[791, 68372, 582, 616, 12847, 42196, 3402, 616, 306, 374, 459, 7524, 16166, 3756, 13]	15	ok
+710	The ThermaCELL uses butane to heat mosquito repellent mats.	[791, 23258, 1764, 64655, 5829, 719, 2194, 311, 8798, 50646, 88874, 306, 62156, 13]	14	ok
+711	Thermacell Mosquito Repellent is a portable kit accessory.	[1016, 4289, 582, 616, 12847, 42196, 3402, 616, 306, 374, 264, 23665, 16530, 43081, 13]	15	ok
+712	ThermaCELL Mosquito Repellent: A Revolutionary Outdoor Solution Found.	[1016, 261, 1764, 64655, 12847, 42196, 3402, 616, 306, 25, 362, 67679, 33782, 12761, 12595, 13]	16	ok
+713	ThermaCELL Mosquito Repellent provides effective bug-free outdoor experiences.	[1016, 261, 1764, 64655, 12847, 42196, 3402, 616, 306, 5825, 7524, 10077, 12862, 16166, 11704, 13]	16	ok
+714	The ThermaCELL Mosquito Repellent Appliance provides effective mosquito protection.	[791, 23258, 1764, 64655, 12847, 42196, 3402, 616, 306, 5345, 32712, 5825, 7524, 50646, 9313, 13]	16	ok
+715	The ThermaCELL Mosquito Repeller is a compact device.	[791, 23258, 1764, 64655, 12847, 42196, 3402, 7218, 374, 264, 17251, 3756, 13]	13	ok
+716	Use Thermacell Mosquito Repellent to prevent West Nile virus transmission.	[10464, 68372, 582, 616, 12847, 42196, 3402, 616, 306, 311, 5471, 4410, 77290, 17188, 18874, 13]	16	ok
+717	The Thermacell Mosquito Repellent uses butane to heat insecticide.	[791, 68372, 582, 616, 12847, 42196, 3402, 616, 306, 5829, 719, 2194, 311, 8798, 27080, 14842, 13]	17	ok
+718	Thermacell Mosquito Repellent includes three mats and butane cartridge.	[1016, 4289, 582, 616, 12847, 42196, 3402, 616, 306, 5764, 2380, 62156, 323, 719, 2194, 51962, 13]	17	ok
+719	Review key concepts before taking the ACCUPLACER test.	[19997, 1401, 19476, 1603, 4737, 279, 26925, 52, 2989, 1741, 643, 1296, 13]	13	ok
+720	Remote test center access granted with COMPASS registration number.	[25732, 1296, 4219, 2680, 11938, 449, 22735, 5045, 12506, 1396, 13]	11	ok
+721	Unlocking account requires matching security question answers.	[50779, 287, 2759, 7612, 12864, 4868, 3488, 11503, 13]	9	ok
+722	ACCUPLACER ensures fair and accessible testing for diverse students.	[1741, 17218, 2989, 1741, 643, 26420, 6762, 323, 15987, 7649, 369, 17226, 4236, 13]	14	ok
+723	Calculators allowed on certain math tests with specific requirements.	[59008, 3046, 5535, 389, 3738, 7033, 7177, 449, 3230, 8670, 13]	11	ok
+724	The COMPASS test is a self-adjusting, computer-based assessment tool.	[791, 22735, 5045, 1296, 374, 264, 659, 60684, 287, 11, 6500, 6108, 15813, 5507, 13]	15	ok
+725	COMPASS placement test assesses readiness for college classes effectively.	[24637, 5045, 22165, 1296, 8720, 288, 62792, 369, 7926, 6989, 13750, 13]	12	ok
+726	Waiting before taking ACCUPLACER yields better results apparently.	[43204, 1603, 4737, 26925, 52, 2989, 1741, 643, 36508, 2731, 3135, 14132, 13]	13	ok
+727	COMPASS is a computer-adaptive test assessing reading, writing, and math skills.	[24637, 5045, 374, 264, 6500, 26831, 28881, 1296, 47614, 5403, 11, 4477, 11, 323, 7033, 7512, 13]	17	ok
+728	Take a math placement test before enrolling in higher-level math courses.	[18293, 264, 7033, 22165, 1296, 1603, 665, 16608, 304, 5190, 11852, 7033, 14307, 13]	14	ok
+729	"Here is a nominal phrase with no repetition, at most 10 words and at least 6 words:
+
+""Understanding Periodic Table Groups and Their Properties and Trends."""	[8586, 374, 264, 47855, 17571, 449, 912, 54515, 11, 520, 1455, 220, 605, 4339, 323, 520, 3325, 220, 21, 4339, 1473, 1, 71251, 26572, 292, 6771, 35680, 323, 11205, 12094, 323, 50730, 1210]	33	problèmes de génération
+730	Oxygen's atomic structure maintains neutrality with 8 protons and electrons.	[46, 19472, 596, 25524, 6070, 33095, 52864, 449, 220, 23, 463, 35511, 323, 57678, 13]	15	ok
+731	Elements are classified into groups and periods in the table.	[12132, 527, 21771, 1139, 5315, 323, 18852, 304, 279, 2007, 13]	11	ok
+732	"Here is a nominal phrase with 10 words or more, and no repetition:
+
+""Chemical properties are influenced by outermost electron shell configurations naturally."""	[8586, 374, 264, 47855, 17571, 449, 220, 605, 4339, 477, 810, 11, 323, 912, 54515, 1473, 1, 64938, 950, 6012, 527, 28160, 555, 16335, 3646, 17130, 12811, 33483, 18182, 1210]	30	problèmes de génération
+733	"Here is a nominal phrase with no repetition, at most 10 words, and at least 6 words:
+
+Periodic trends show varying properties across the periodic table."	[8586, 374, 264, 47855, 17571, 449, 912, 54515, 11, 520, 1455, 220, 605, 4339, 11, 323, 520, 3325, 220, 21, 4339, 1473, 24684, 292, 18845, 1501, 29865, 6012, 4028, 279, 39445, 2007, 13]	33	problèmes de génération
+734	Periodic table groups are columns of chemical elements.	[24684, 292, 2007, 5315, 527, 8310, 315, 11742, 5540, 13]	10	ok
+735	Chemical elements are grouped by similar electron shell characteristics.	[64938, 950, 5540, 527, 41141, 555, 4528, 17130, 12811, 17910, 13]	11	ok
+736	Periodic table displays elements in predictable group and period patterns.	[24684, 292, 2007, 19207, 5540, 304, 45207, 1912, 323, 4261, 12912, 13]	12	ok
+737	"Here is a summary in 7 words: 
+Math questions about calculus and physics concepts."	[8586, 374, 264, 12399, 304, 220, 22, 4339, 25, 720, 8991, 4860, 922, 83768, 323, 22027, 19476, 13]	18	problèmes de génération
+738	Elements in groups exhibit similar chemical properties.	[12132, 304, 5315, 31324, 4528, 11742, 6012, 13]	8	autre
+739	Archduke Franz Ferdinand assassinated in Sarejevo by Gavrilo Princip.	[19249, 1072, 441, 66620, 93607, 26816, 15846, 304, 328, 548, 3841, 3415, 555, 480, 70684, 18536, 45629, 13]	18	ok
+740	Archduke Franz Ferdinand assassinated in Sarajevo on June 28, 1914.	[19249, 1072, 441, 66620, 93607, 26816, 15846, 304, 13951, 11305, 3415, 389, 5651, 220, 1591, 11, 220, 7529, 19, 13]	20	ok
+741	Archduke Franz Ferdinand assassinated in Sarajevo on June 28, 1914.	[19249, 1072, 441, 66620, 93607, 26816, 15846, 304, 13951, 11305, 3415, 389, 5651, 220, 1591, 11, 220, 7529, 19, 13]	20	ok
+742	Archduke's assassination sparked World War I's complex regional tensions.	[19249, 1072, 441, 596, 49417, 41544, 4435, 5111, 358, 596, 6485, 15481, 39510, 13]	14	ok
+743	Gavrilo Princip sparked World War I with his assassination.	[38, 70684, 18536, 45629, 41544, 4435, 5111, 358, 449, 813, 49417, 13]	12	ok
+744	Bosnian Serbs honor Gavrilo Princip, archduke assassin and nationalist.	[33, 437, 77, 1122, 8409, 1302, 16044, 480, 70684, 18536, 45629, 11, 5438, 1072, 441, 68769, 323, 52994, 13]	19	ok
+745	Austria's royal succession sparked international concern and diplomatic turmoil.	[32, 85912, 596, 30336, 50787, 41544, 6625, 4747, 323, 34616, 63355, 13]	12	ok
+746	Gavrilo Princip's actions sparked World War I's devastating global conflict.	[38, 70684, 18536, 45629, 596, 6299, 41544, 4435, 5111, 358, 596, 33318, 3728, 12324, 13]	15	ok
+747	Archduke's assassination sparked World War I's devastating global conflict.	[19249, 1072, 441, 596, 49417, 41544, 4435, 5111, 358, 596, 33318, 3728, 12324, 13]	14	ok
+748	Archduke Franz Ferdinand's assassination attempt failed miserably in Sarajevo.	[19249, 1072, 441, 66620, 93607, 596, 49417, 4879, 4745, 98310, 2915, 304, 13951, 11305, 3415, 13]	16	ok
+749	Follow label instructions for proper dosage and age considerations.	[12763, 2440, 11470, 369, 6300, 47040, 323, 4325, 38864, 13]	10	ok
+750	High acetaminophen levels pose liver damage risk.	[12243, 65802, 8778, 5237, 268, 5990, 17477, 26587, 5674, 5326, 13]	11	ok
+751	Acetaminophen overdose poses liver damage risk at high levels.	[11916, 295, 8778, 5237, 268, 60553, 34103, 26587, 5674, 5326, 520, 1579, 5990, 13]	14	ok
+752	Acetaminophen blood test screens for common pain reliever presence.	[11916, 295, 8778, 5237, 268, 6680, 1296, 15670, 369, 4279, 6784, 59644, 424, 9546, 13]	15	ok
+753	Administer liquid medication with care and precision daily.	[7358, 1601, 14812, 24099, 449, 2512, 323, 16437, 7446, 13]	10	ok
+754	Acetaminophen dosage ranges from 15 mg to 4000 mg.	[11916, 295, 8778, 5237, 268, 47040, 21986, 505, 220, 868, 14060, 311, 220, 3443, 15, 14060, 13]	17	ok
+755	Acetaminophen overdose can be treated promptly for recovery.	[11916, 295, 8778, 5237, 268, 60553, 649, 387, 12020, 40522, 369, 13654, 13]	13	ok
+756	Acetaminophen blood test diagnoses overdosage and liver damage.	[11916, 295, 8778, 5237, 268, 6680, 1296, 85488, 40552, 437, 425, 323, 26587, 5674, 13]	15	ok
+757	Use the provided dropper for accurate dosage.	[10464, 279, 3984, 7118, 7067, 369, 13687, 47040, 13]	9	ok
+758	Acetaminophen overdose risk increases with excessive daily intake.	[11916, 295, 8778, 5237, 268, 60553, 5326, 12992, 449, 27639, 7446, 23730, 13]	13	ok
+759	Manteca has high population density compared to state and nation.	[44, 519, 23637, 706, 1579, 7187, 17915, 7863, 311, 1614, 323, 7140, 13]	13	ok
+760	Manteca, California, a small industrial city in the US.	[44, 519, 23637, 11, 7188, 11, 264, 2678, 13076, 3363, 304, 279, 2326, 13]	14	ok
+761	Manteca, CA employment rates show significant labor force participation.	[44, 519, 23637, 11, 9362, 14740, 7969, 1501, 5199, 9511, 5457, 20852, 13]	13	ok
+762	Staff meet seniors for coffee and conversation every Wednesday.	[34311, 3449, 38349, 369, 11033, 323, 10652, 1475, 8079, 13]	10	ok
+763	Manteca is one of California's most rapidly growing cities.	[44, 519, 23637, 374, 832, 315, 7188, 596, 1455, 19019, 7982, 9919, 13]	13	ok
+764	Manteca, California has a high sex offender ratio and taxes.	[44, 519, 23637, 11, 7188, 706, 264, 1579, 1877, 47753, 11595, 323, 13426, 13]	14	ok
+765	Manteca's population is significantly larger than the US average.	[44, 519, 23637, 596, 7187, 374, 12207, 8294, 1109, 279, 2326, 5578, 13]	13	ok
+766	Manteca's unmarried youth reside in various household arrangements.	[44, 519, 23637, 596, 95587, 12822, 48383, 304, 5370, 14048, 28904, 13]	12	ok
+767	The U.S. Census Bureau conducts a comprehensive economic census annually.	[791, 549, 815, 13, 46627, 22555, 74198, 264, 16195, 7100, 44702, 30171, 13]	13	ok
+768	Manteca, California has a population of approximately 76,908 residents.	[44, 519, 23637, 11, 7188, 706, 264, 7187, 315, 13489, 220, 4767, 11, 23629, 11062, 13]	16	ok
+769	Heart rate is the number of heartbeats per minute measured.	[46484, 4478, 374, 279, 1396, 315, 4851, 1395, 1900, 824, 9568, 17303, 13]	13	ok
+770	Vibrant visuals transform any space into a dynamic party atmosphere.	[53, 10892, 519, 54077, 5276, 904, 3634, 1139, 264, 8915, 4717, 16975, 13]	13	ok
+771	Heart rate monitoring detects heart function and potential issues.	[46484, 4478, 16967, 67578, 4851, 734, 323, 4754, 4819, 13]	10	ok
+772	Measuring pulse reveals heart rhythm and vital health indicators.	[7979, 69774, 28334, 21667, 4851, 37390, 323, 16595, 2890, 34824, 13]	11	ok
+773	Blood pressure is the force exerted by the heart.	[52586, 7410, 374, 279, 5457, 43844, 291, 555, 279, 4851, 13]	11	ok
+774	JBL Connect enables multi-speaker harmony for enhanced audio experience.	[41, 9574, 13313, 20682, 7447, 54075, 4506, 26348, 369, 24872, 7855, 3217, 13]	13	ok
+775	Pulse 2 features advanced speakerphone technology for clear calls.	[47, 17660, 220, 17, 4519, 11084, 19114, 4949, 5557, 369, 2867, 6880, 13]	13	ok
+776	Allergic reaction persists until pulse returns to normal rate.	[2460, 75439, 13010, 67145, 3156, 28334, 4780, 311, 4725, 4478, 13]	11	ok
+777	Pulse checks help diagnose heart function and potential issues.	[47, 17660, 12621, 1520, 58681, 4851, 734, 323, 4754, 4819, 13]	11	ok
+778	Heart rate is a vital sign of cardiovascular function normally.	[46484, 4478, 374, 264, 16595, 1879, 315, 41713, 734, 14614, 13]	11	ok
+779	Accidental death benefit provides coverage for unexpected bodily harm.	[14945, 62723, 4648, 8935, 5825, 10401, 369, 16907, 48131, 11682, 13]	11	ok
+780	Flexible life insurance policy with adaptable terms and conditions.	[76247, 2324, 8276, 4947, 449, 94848, 3878, 323, 4787, 13]	10	ok
+781	Financial interest in another person's life or well-being exists.	[57330, 2802, 304, 2500, 1732, 596, 2324, 477, 1664, 33851, 6866, 13]	12	ok
+782	Insurance agency solicits, writes, and binds policies through multiple insurers.	[79854, 9266, 30844, 1220, 11, 14238, 11, 323, 58585, 10396, 1555, 5361, 56374, 13]	14	ok
+783	Insurance terminology explained in a quick reference guide.	[79854, 57726, 11497, 304, 264, 4062, 5905, 8641, 13]	9	ok
+784	Insurance provides financial protection against uncertain losses and risks.	[79854, 5825, 6020, 9313, 2403, 36218, 18151, 323, 15635, 13]	10	ok
+785	Insurance provides financial protection against specified risks and uncertainties.	[79854, 5825, 6020, 9313, 2403, 5300, 15635, 323, 69867, 13]	10	ok
+786	Flexible life insurance with adjustable terms and adjuster services.	[76247, 2324, 8276, 449, 37030, 3878, 323, 7652, 261, 3600, 13]	11	ok
+787	Federal employees access comprehensive insurance benefits through OPM and NGA.	[57853, 8420, 2680, 16195, 8276, 7720, 1555, 507, 8971, 323, 452, 16519, 13]	13	ok
+788	Insurance agency definition and differences to be reviewed.	[79854, 9266, 7419, 323, 12062, 311, 387, 22690, 13]	9	ok
+789	Clearwater Beach tops TripAdvisor's annual U.S. beach rankings again.	[14335, 13284, 13011, 33522, 85066, 596, 9974, 549, 815, 13, 11573, 33407, 1578, 13]	14	ok
+790	Clearwater Beach named top US beach by TripAdvisor awards.	[14335, 13284, 13011, 7086, 1948, 2326, 11573, 555, 85066, 23146, 13]	11	ok
+791	Bahia Honda State Park boasts pristine white sandy beaches.	[100022, 689, 29987, 3314, 5657, 38119, 66085, 4251, 68539, 35909, 13]	11	ok
+792	Bahia Honda State Park is a Florida Keys gem.	[100022, 689, 29987, 3314, 5657, 374, 264, 9784, 25104, 19269, 13]	11	ok
+793	Amazon gift card delivery via email after TripAdvisor review confirmation.	[26948, 8352, 3786, 9889, 4669, 2613, 1306, 85066, 3477, 20109, 13]	11	ok
+794	Eligible bookings must be made by September 5, 2016, and reviewed by October 15, 2016.	[6719, 343, 1260, 59620, 2011, 387, 1903, 555, 6250, 220, 20, 11, 220, 679, 21, 11, 323, 22690, 555, 6664, 220, 868, 11, 220, 679, 21, 13]	27	autre
+795	TripAdvisor gift card delivery after review publication confirmed stay.	[57452, 62091, 8352, 3786, 9889, 1306, 3477, 17009, 11007, 4822, 13]	11	ok
+796	America boasts numerous stunning beaches nationwide, showcasing diverse natural beauty.	[32132, 38119, 12387, 20441, 35909, 29054, 11, 67908, 17226, 5933, 13444, 13]	12	ok
+797	Top 25 US Beaches, a haven for sun-seekers nationwide.	[5479, 220, 914, 2326, 13011, 288, 11, 264, 9167, 369, 7160, 7962, 1247, 388, 29054, 13]	16	ok
+798	Florida's Gulf Coast beaches shine with notable East Coast recognition.	[58127, 596, 27945, 16377, 35909, 33505, 449, 28289, 6460, 16377, 18324, 13]	12	ok
+799	Understanding late Rome's complex nature and barbarian invasions led downfall.	[71251, 3389, 22463, 596, 6485, 7138, 323, 54490, 1122, 1558, 88771, 6197, 88867, 13]	14	ok
+800	Historians still debate the Roman Empire's downfall extensively today.	[50083, 5493, 2103, 11249, 279, 13041, 21080, 596, 88867, 42817, 3432, 13]	12	ok
+801	Roman Empire's decline began in the 3rd century AD slowly.	[62080, 21080, 596, 18174, 6137, 304, 279, 220, 18, 6634, 9478, 9827, 14297, 13]	14	ok
+802	Roman Empire's influence waned despite nominal control of Mediterranean territories.	[62080, 21080, 596, 10383, 289, 52530, 8994, 47855, 2585, 315, 38785, 39543, 13]	13	ok
+803	The Roman Empire was a dominant global power historically.	[791, 13041, 21080, 574, 264, 25462, 3728, 2410, 35901, 13]	10	ok
+804	Rome's decline marked the end of its European dominance.	[49, 638, 596, 18174, 13160, 279, 842, 315, 1202, 7665, 44592, 13]	12	ok
+805	Roman Empire endured for nearly 1,500 years of relative peace.	[62080, 21080, 56224, 369, 7154, 220, 16, 11, 2636, 1667, 315, 8844, 9096, 13]	14	ok
+806	Eastern Roman emperors unified taxation across the vast empire territories.	[97488, 13041, 991, 716, 1105, 43790, 51727, 4028, 279, 13057, 32447, 39543, 13]	13	ok
+807	Rome's population peaked at 50-90 million inhabitants around 500 AD.	[49, 638, 596, 7187, 78292, 520, 220, 1135, 12, 1954, 3610, 40771, 2212, 220, 2636, 9827, 13]	17	ok
+808	Roman Empire's decline began in the 3rd century AD slowly.	[62080, 21080, 596, 18174, 6137, 304, 279, 220, 18, 6634, 9478, 9827, 14297, 13]	14	ok
+809	Lodi's sex offender ratio is near state average, taxes are high.	[43, 31559, 596, 1877, 47753, 11595, 374, 3221, 1614, 5578, 11, 13426, 527, 1579, 13]	15	ok
+810	Lodi, California experiences high earthquake activity, significantly exceeding national average.	[43, 31559, 11, 7188, 11704, 1579, 38413, 5820, 11, 12207, 49005, 5426, 5578, 13]	14	ok
+811	"Lodi, California's population and demographics in 2016 and 2017.
+
+As of 2016, Lodi's population was approximately 68,000 residents."	[43, 31559, 11, 7188, 596, 7187, 323, 63334, 304, 220, 679, 21, 323, 220, 679, 22, 382, 2170, 315, 220, 679, 21, 11, 445, 31559, 596, 7187, 574, 13489, 220, 2614, 11, 931, 11062, 13]	35	problèmes de génération
+812	Stockton-Lodi Metro Area is a Central California hub.	[19931, 783, 8288, 31559, 21631, 12299, 374, 264, 10913, 7188, 19240, 13]	12	ok
+813	Lodi, California, is a city in San Joaquin County, California.	[43, 31559, 11, 7188, 11, 374, 264, 3363, 304, 5960, 11186, 64, 36444, 6406, 11, 7188, 13]	17	ok
+814	Lodi's population has grown by 10.81% since 2000.	[43, 31559, 596, 7187, 706, 15042, 555, 220, 605, 13, 5932, 4, 2533, 220, 1049, 15, 13]	17	ok
+815	Lodi, California, has a relatively low population growth rate nationwide.	[43, 31559, 11, 7188, 11, 706, 264, 12309, 3428, 7187, 6650, 4478, 29054, 13]	14	ok
+816	Lodi, California, is a city in San Joaquin County's Central Valley.	[43, 31559, 11, 7188, 11, 374, 264, 3363, 304, 5960, 11186, 64, 36444, 6406, 596, 10913, 13345, 13]	18	ok
+817	Stockton is situated near the confluence of San Joaquin and Sacramento rivers.	[19931, 783, 374, 31183, 3221, 279, 390, 41116, 315, 5960, 11186, 64, 36444, 323, 41334, 36617, 13]	17	ok
+818	Lodi's sex offender ratio is near state average, similar to Stockton.	[43, 31559, 596, 1877, 47753, 11595, 374, 3221, 1614, 5578, 11, 4528, 311, 12937, 783, 13]	16	ok
+819	Tea bag designs have evolved significantly over the years.	[6777, 64, 9145, 14769, 617, 28995, 12207, 927, 279, 1667, 13]	11	ok
+820	Oolong tea aids weight loss through lipid metabolism.	[46, 337, 647, 15600, 52797, 4785, 4814, 1555, 68700, 39097, 13]	11	ok
+821	Lipton tea is a blend of multiple black tea varieties.	[43, 11696, 263, 15600, 374, 264, 20955, 315, 5361, 3776, 15600, 36680, 13]	13	ok
+822	Lipton Diet Green Tea Citrus had poor taste and sediment.	[43, 11696, 263, 27304, 7997, 31125, 18002, 20962, 1047, 8009, 12945, 323, 59132, 13]	14	ok
+823	Lipton's Pyramid Style Bags offer a superior tea experience.	[43, 11696, 263, 596, 83495, 12179, 64823, 3085, 264, 16757, 15600, 3217, 13]	13	ok
+824	Lipton tea becomes a household name in the region.	[43, 11696, 263, 15600, 9221, 264, 14048, 836, 304, 279, 5654, 13]	12	ok
+825	Lipton tea packaging has deteriorated significantly over the years.	[43, 11696, 263, 15600, 24066, 706, 39436, 660, 12207, 927, 279, 1667, 13]	13	ok
+826	Abandoning Lipton tea after decades of daily consumption.	[5953, 11283, 287, 445, 11696, 263, 15600, 1306, 11026, 315, 7446, 15652, 13]	13	ok
+827	Green tea and matcha aid in weight loss through metabolism boost.	[20147, 15600, 323, 2489, 64, 12576, 304, 4785, 4814, 1555, 39097, 7916, 13]	13	ok
+828	Best Teas for Weight Loss Offer Unique Health Benefits.	[14809, 2722, 300, 369, 16923, 25733, 25510, 29750, 6401, 39195, 13]	11	ok
+829	IPGSM-4G offers flexible, dual-path connectivity for enhanced reliability.	[3378, 38, 9691, 12, 19, 38, 6209, 19303, 11, 19091, 34195, 31357, 369, 24872, 31638, 13]	16	ok
+830	Set up category codes for accounts in UDC table.	[1681, 709, 5699, 14236, 369, 9815, 304, 549, 5744, 2007, 13]	11	ok
+831	Manufacturing uses various acronyms for efficient operations management.	[80068, 1711, 5829, 5370, 1645, 2298, 76125, 369, 11297, 7677, 6373, 13]	12	ok
+832	GTIN is a 14-digit global data structure for information encoding.	[26460, 691, 374, 264, 220, 975, 49442, 3728, 828, 6070, 369, 2038, 11418, 13]	14	ok
+833	HP EliteBook 8570w for smooth, reliable performance and productivity.	[6748, 34864, 7280, 220, 20907, 15, 86, 369, 11113, 11, 15062, 5178, 323, 26206, 13]	15	ok
+834	Set up category codes for accounts in chart of accounts.	[1681, 709, 5699, 14236, 369, 9815, 304, 9676, 315, 9815, 13]	11	ok
+835	Only EPA-registered products are effective disinfectants for public health.	[7456, 27250, 12, 36009, 3956, 527, 7524, 64842, 3836, 1821, 369, 586, 2890, 13]	14	ok
+836	Category code customization for reporting purposes.	[6888, 2082, 49141, 369, 13122, 10096, 13]	7	autre
+837	Modem configuration options include single or dual path reporting.	[4559, 336, 6683, 2671, 2997, 3254, 477, 19091, 1853, 13122, 13]	11	ok
+838	CARF International is a nonprofit accreditor of health services.	[37490, 37, 7327, 374, 264, 33184, 41571, 1960, 315, 2890, 3600, 13]	12	ok
+839	"""Sea of Love"" by Cat Power
+
+- Meanings: The song is about a person's longing for freedom and escape from the constraints of a relationship, finding solace in the vastness of the ocean.
+
+- Special Memories: The song is often associated with the 2003 film ""Lost in Translation,"" where the character Bob Harris (played by Bill Murray) sings it to his wife, played by Scarlett Johansson, in a poignant moment of introspection.
+
+- Misheard Lyrics: Some people mishear the lyrics as ""Sea of love, of a man that Brandy loved"" instead of ""Sea of love, of a man that I loved."""	[1, 60261, 315, 10919, 1, 555, 17810, 7572, 271, 12, 16729, 826, 25, 578, 5609, 374, 922, 264, 1732, 596, 79422, 369, 11542, 323, 12731, 505, 279, 17413, 315, 264, 5133, 11, 9455, 2092, 580, 304, 279, 13057, 2136, 315, 279, 18435, 382, 12, 9984, 87716, 25, 578, 5609, 374, 3629, 5938, 449, 279, 220, 1049, 18, 4632, 330, 48353, 304, 39141, 1359, 1405, 279, 3752, 14596, 21750, 320, 51908, 555, 8766, 28253, 8, 68341, 433, 311, 813, 7555, 11, 6476, 555, 96572, 27268, 81265, 11, 304, 264, 93447, 4545, 315, 26609, 16463, 382, 12, 33659, 55603, 57343, 25, 4427, 1274, 5906, 87160, 279, 24142, 439, 330, 60261, 315, 3021, 11, 315, 264, 893, 430, 3320, 13634, 10456, 1, 4619, 315, 330, 60261, 315, 3021, 11, 315, 264, 893, 430, 358, 10456, 1210]	133	problèmes de génération
+840	Brandy is a fine girl from New Jersey rock quartet.	[6971, 13634, 374, 264, 7060, 3828, 505, 1561, 16228, 7091, 41376, 295, 13]	13	ok
+841	Brandy performs a fine girl song live with options.	[6971, 13634, 27772, 264, 7060, 3828, 5609, 3974, 449, 2671, 13]	11	ok
+842	A young woman serves whiskey in a coastal town.	[32, 3995, 5333, 17482, 65354, 304, 264, 35335, 6424, 13]	10	ok
+843	Sailor's love for the sea surpasses his love for Brandy.	[50, 607, 269, 596, 3021, 369, 279, 9581, 53120, 288, 813, 3021, 369, 3320, 13634, 13]	16	ok
+844	Brandy, a fine girl, ideal wife, but my heart belongs to the sea.	[6971, 13634, 11, 264, 7060, 3828, 11, 10728, 7555, 11, 719, 856, 4851, 17623, 311, 279, 9581, 13]	18	ok
+845	Brandy is a fine girl from New Jersey rock quartet.	[6971, 13634, 374, 264, 7060, 3828, 505, 1561, 16228, 7091, 41376, 295, 13]	13	ok
+846	Sailors are smitten with a charming and beautiful woman.	[50, 607, 1105, 527, 1554, 23257, 449, 264, 35509, 323, 6366, 5333, 13]	13	ok
+847	Brandy is a fine girl, with a lovely face.	[6971, 13634, 374, 264, 7060, 3828, 11, 449, 264, 17104, 3663, 13]	12	ok
+848	"""Looking Glass' 1969 song was inspired by a fictional character."	[1, 23274, 21396, 6, 220, 5162, 24, 5609, 574, 14948, 555, 264, 44682, 3752, 13]	15	problèmes de génération
+849	"Here is a nominal phrase with no repetition, at most 10 words, and at least 6 words:
+
+Sound waves travel through the air as pressure disturbances."	[8586, 374, 264, 47855, 17571, 449, 912, 54515, 11, 520, 1455, 220, 605, 4339, 11, 323, 520, 3325, 220, 21, 4339, 1473, 16493, 17301, 5944, 1555, 279, 3805, 439, 7410, 85160, 13]	32	problèmes de génération
+850	Doppler effect occurs with moving source or observer.	[35, 454, 13206, 2515, 13980, 449, 7366, 2592, 477, 22842, 13]	11	ok
+851	Sonic boom occurs when an object breaks the sound barrier suddenly.	[50, 14338, 30845, 13980, 994, 459, 1665, 18808, 279, 5222, 22881, 15187, 13]	13	ok
+852	Breaking the sound barrier creates a sonic boom instantly outside.	[61279, 279, 5222, 22881, 11705, 264, 72436, 30845, 22571, 4994, 13]	11	ok
+853	Object moves faster than the speed of sound.	[1211, 11031, 10819, 1109, 279, 4732, 315, 5222, 13]	9	ok
+854	The correct answer is b.	[791, 4495, 4320, 374, 293, 13]	6	autre
+855	Shock waves occur when an object moves faster than sound speed.	[87649, 17301, 12446, 994, 459, 1665, 11031, 10819, 1109, 5222, 4732, 13]	12	ok
+856	Doppler effect observed in various types of waves naturally.	[35, 454, 13206, 2515, 13468, 304, 5370, 4595, 315, 17301, 18182, 13]	12	ok
+857	When an object travels at or above the speed of sound.	[4599, 459, 1665, 35292, 520, 477, 3485, 279, 4732, 315, 5222, 13]	12	ok
+858	The sound is softer and travels slower through metal.	[791, 5222, 374, 64230, 323, 35292, 29493, 1555, 9501, 13]	10	ok
+859	Failing a course hinders future academic progress significantly always.	[37, 14612, 264, 3388, 305, 32551, 3938, 14584, 5208, 12207, 2744, 13]	12	ok
+860	Lacking an internship may hinder job prospects significantly afterwards.	[43, 9162, 459, 60859, 1253, 57780, 2683, 27949, 12207, 27905, 13]	11	ok
+861	Early college graduate pursuing electrical engineering degree at 20 years old.	[42298, 7926, 19560, 34118, 20314, 15009, 8547, 520, 220, 508, 1667, 2362, 13]	13	ok
+862	Duration varies greatly depending on academic and career choices.	[13242, 35327, 19407, 11911, 389, 14584, 323, 7076, 11709, 13]	10	ok
+863	Typically, a Bachelor's degree in Electrical Engineering takes four years.	[13129, 2740, 11, 264, 42090, 596, 8547, 304, 45034, 17005, 5097, 3116, 1667, 13]	14	ok
+864	Eligibility and Application Requirements for Graduate Studies Abroad	[6719, 343, 3225, 323, 7473, 34884, 369, 44825, 19241, 3765, 8714]	11	ok
+865	Master's program for engineering professionals with research focus.	[18532, 596, 2068, 369, 15009, 15749, 449, 3495, 5357, 13]	10	ok
+866	Masters Engineering degree completed in two semesters with project.	[44, 14533, 17005, 8547, 8308, 304, 1403, 5347, 76802, 449, 2447, 13]	12	ok
+867	Applicants for graduate programs face highly competitive financial aid.	[2213, 62932, 369, 19560, 7620, 3663, 7701, 15022, 6020, 12576, 13]	11	ok
+868	Master of Engineering program typically requires undergraduate degree equivalent coursework.	[18532, 315, 17005, 2068, 11383, 7612, 41534, 8547, 13890, 75533, 13]	11	ok
+869	Cancer cases rise near cell towers and antennas.	[34, 11967, 5157, 10205, 3221, 2849, 40825, 323, 87851, 13]	10	ok
+870	Locate cell towers and antennas near your location easily online.	[9330, 349, 2849, 40825, 323, 87851, 3221, 701, 3813, 6847, 2930, 13]	12	ok
+871	Cellphone signal strength varies greatly with distance from towers.	[3683, 4949, 8450, 8333, 35327, 19407, 449, 6138, 505, 40825, 13]	11	ok
+872	I'm concerned about the potential health risks from nearby cell towers.	[40, 2846, 11920, 922, 279, 4754, 2890, 15635, 505, 14373, 2849, 40825, 13]	13	ok
+873	I'm sensitive to EMR emissions from cell towers.	[40, 2846, 16614, 311, 17329, 49, 20748, 505, 2849, 40825, 13]	11	ok
+874	Minimum distance for living, working, and playing near cell towers.	[29795, 6138, 369, 5496, 11, 3318, 11, 323, 5737, 3221, 2849, 40825, 13]	13	ok
+875	Concerns raised over Telstra's proposed 33m tower in residential area.	[63242, 82, 9408, 927, 23683, 13645, 596, 11223, 220, 1644, 76, 21970, 304, 20658, 3158, 13]	16	ok
+876	Cellphone carriers optimize signal strength for capacity management purposes.	[3683, 4949, 35991, 30536, 8450, 8333, 369, 8824, 6373, 10096, 13]	11	ok
+877	I upgraded to a new phone after a brief initial experience.	[40, 33624, 311, 264, 502, 4641, 1306, 264, 10015, 2926, 3217, 13]	12	ok
+878	Cellphone signal strength varies greatly depending on multiple factors.	[3683, 4949, 8450, 8333, 35327, 19407, 11911, 389, 5361, 9547, 13]	11	ok
+879	The U.S. Census Bureau collects and analyzes geographic data nationwide.	[791, 549, 815, 13, 46627, 22555, 52307, 323, 86281, 46139, 828, 29054, 13]	13	ok
+880	Cary, Illinois, and Marion, Illinois, have similar population growth rates.	[34, 661, 11, 19174, 11, 323, 56679, 11, 19174, 11, 617, 4528, 7187, 6650, 7969, 13]	16	ok
+881	Carbondale is a city in southern Illinois with 123,272 residents.	[9028, 65339, 1604, 374, 264, 3363, 304, 18561, 19174, 449, 220, 4513, 11, 15741, 11062, 13]	16	ok
+882	Marion, Illinois, is a city in southern Illinois.	[12331, 290, 11, 19174, 11, 374, 264, 3363, 304, 18561, 19174, 13]	12	ok
+883	Female labor force participation rate increased over the decade.	[41818, 9511, 5457, 20852, 4478, 7319, 927, 279, 13515, 13]	10	ok
+884	QuickFacts Illinois offers detailed statistics on various regions nationwide.	[25310, 37, 11613, 19174, 6209, 11944, 13443, 389, 5370, 13918, 29054, 13]	12	ok
+885	Hotels in Marion, Illinois listed with contact details provided.	[20780, 2053, 304, 56679, 11, 19174, 10212, 449, 3729, 3649, 3984, 13]	12	ok
+886	US labor force participation and economic data from 2012-2016.	[2078, 9511, 5457, 20852, 323, 7100, 828, 505, 220, 679, 17, 12, 679, 21, 13]	15	ok
+887	Best Western Plus Marion Hotel in Marion, Illinois.	[14809, 11104, 12623, 56679, 14894, 304, 56679, 11, 19174, 13]	10	ok
+888	Eligible candidates must meet strict enlistment requirements nationwide overseas.	[6719, 343, 1260, 11426, 2011, 3449, 7452, 88724, 479, 8670, 29054, 25355, 13]	13	ok
+889	Army Navy Country Club membership costs vary greatly depending on rank.	[92995, 19574, 14438, 10349, 16250, 7194, 13592, 19407, 11911, 389, 7222, 13]	12	ok
+890	Civilian membership costs around $55,000 to $70,000 annually.	[68926, 1122, 16250, 7194, 2212, 400, 2131, 11, 931, 311, 400, 2031, 11, 931, 30171, 13]	16	ok
+891	Military spending accounts for nearly half of federal discretionary spending.	[86426, 10374, 9815, 369, 7154, 4376, 315, 6918, 96894, 10374, 13]	11	ok
+892	Provide detailed personal details for effective locator services assistance.	[61524, 11944, 4443, 3649, 369, 7524, 48217, 3600, 13291, 13]	10	ok
+893	Membership costs vary greatly depending on rank and chosen activities.	[82004, 7194, 13592, 19407, 11911, 389, 7222, 323, 12146, 7640, 13]	11	ok
+894	Established in 1938 with diverse recreational facilities nationwide.	[69320, 291, 304, 220, 7285, 23, 449, 17226, 37100, 13077, 29054, 13]	12	ok
+895	Military spending significantly exceeds federal discretionary spending in the US.	[86426, 10374, 12207, 36375, 6918, 96894, 10374, 304, 279, 2326, 13]	11	ok
+896	Military spending significantly exceeds federal discretionary spending in the US.	[86426, 10374, 12207, 36375, 6918, 96894, 10374, 304, 279, 2326, 13]	11	ok
+897	Requests for military personnel contact information are subject to regulations.	[36395, 369, 6411, 17274, 3729, 2038, 527, 3917, 311, 14640, 13]	11	ok
+898	Global mean surface temperature increased from 1880 to 2016 steadily.	[11907, 3152, 7479, 9499, 7319, 505, 220, 9367, 15, 311, 220, 679, 21, 43071, 13]	15	ok
+899	Precipitation data varies by region and time period.	[69933, 575, 7709, 828, 35327, 555, 5654, 323, 892, 4261, 13]	11	ok
+900	Rotterdam's climate is characterized by mild temperatures and rainfall.	[38036, 51229, 596, 10182, 374, 32971, 555, 23900, 20472, 323, 53958, 13]	12	ok
+901	The Netherlands enjoys a temperate maritime climate overall.	[791, 26746, 32838, 264, 6940, 349, 58412, 10182, 8244, 13]	10	ok
+902	Amsterdam enjoys pleasant summer weather in July conditions prevail.	[6219, 27398, 32838, 24729, 7474, 9282, 304, 5887, 4787, 66828, 13]	11	ok
+903	The Netherlands experiences a temperate maritime climate with varying temperatures.	[791, 26746, 11704, 264, 6940, 349, 58412, 10182, 449, 29865, 20472, 13]	12	ok
+904	The Netherlands experiences a mild maritime climate with seasonal variations.	[791, 26746, 11704, 264, 23900, 58412, 10182, 449, 36899, 27339, 13]	11	ok
+905	Amsterdam's climate is characterized by mild temperatures and rainfall.	[6219, 27398, 596, 10182, 374, 32971, 555, 23900, 20472, 323, 53958, 13]	12	ok
+906	Netherlands experiences mild temperatures and high rainfall annually nationwide.	[45, 24530, 11704, 23900, 20472, 323, 1579, 53958, 30171, 29054, 13]	11	ok
+907	Record temperatures continue to set new highs globally since 2000.	[6607, 20472, 3136, 311, 743, 502, 54879, 31550, 2533, 220, 1049, 15, 13]	13	ok
+908	"Words near ""smelly"" in the dictionary include various related terms."	[24390, 3221, 330, 3647, 12160, 1, 304, 279, 11240, 2997, 5370, 5552, 3878, 13]	14	problèmes de génération
+909	Detect with the nose, perceive the star's presence.	[58293, 449, 279, 19689, 11, 45493, 279, 6917, 596, 9546, 13]	11	ok
+910	Accessing the thesaurus for word substitutions and related terms.	[6182, 287, 279, 279, 82, 43613, 369, 3492, 94750, 323, 5552, 3878, 13]	13	ok
+911	The paraphrase database lists various terms for smell and odor.	[791, 63330, 10857, 4729, 11725, 5370, 3878, 369, 22843, 323, 54097, 13]	12	ok
+912	Most English speakers rely on a limited vocabulary set.	[13622, 6498, 22032, 17631, 389, 264, 7347, 36018, 743, 13]	10	ok
+913	"Here are the nominal phrases with no repetition, at most 10 words, and at least 6 words:
+
+1. A whiff of something is often a warning sign.
+2. Blood in the water is a sign of trouble.
+3. There's a rat in the walls, you can smell it.
+4. The smell of smoke is bad news indeed.
+5. She smells like a field of fresh lavender flowers.
+6. The air is thick with danger and trouble.
+7. You distinctly hear the sound of footsteps approaching.
+8. The sense of smell is closely linked to memory.
+9. He seems like a man of great integrity always.
+10. Wake up and smell the freshly brewed coffee.
+11. A catch of the scent of"	[8586, 527, 279, 47855, 32847, 449, 912, 54515, 11, 520, 1455, 220, 605, 4339, 11, 323, 520, 3325, 220, 21, 4339, 1473, 16, 13, 362, 421, 3168, 315, 2555, 374, 3629, 264, 10163, 1879, 627, 17, 13, 20671, 304, 279, 3090, 374, 264, 1879, 315, 12544, 627, 18, 13, 2684, 596, 264, 11494, 304, 279, 14620, 11, 499, 649, 22843, 433, 627, 19, 13, 578, 22843, 315, 16603, 374, 3958, 3754, 13118, 627, 20, 13, 3005, 50737, 1093, 264, 2115, 315, 7878, 81460, 19837, 627, 21, 13, 578, 3805, 374, 12314, 449, 8137, 323, 12544, 627, 22, 13, 1472, 71249, 6865, 279, 5222, 315, 60802, 31047, 627, 23, 13, 578, 5647, 315, 22843, 374, 15499, 10815, 311, 5044, 627, 24, 13, 1283, 5084, 1093, 264, 893, 315, 2294, 17025, 2744, 627, 605, 13, 41674, 709, 323, 22843, 279, 50999, 89195, 11033, 627, 806, 13, 362, 2339, 315, 279, 41466, 315]	150	problèmes de génération
+914	Olfactory perception of a distinctive quality or sensation.	[46, 11253, 2992, 21063, 315, 264, 35947, 4367, 477, 37392, 13]	11	ok
+915	He was drawn to her intoxicating scent immediately afterwards.	[1548, 574, 15107, 311, 1077, 72815, 1113, 41466, 7214, 27905, 13]	11	ok
+916	Relevance-based synonym matching provides accurate word choices.	[697, 33194, 6108, 74450, 12864, 5825, 13687, 3492, 11709, 13]	10	ok
+917	HarperCollins dictionary and thesaurus publications.	[27588, 716, 15623, 1354, 11240, 323, 279, 82, 43613, 29085, 13]	11	ok
+918	Sheep's milk and goat's milk produce distinct feta cheese varieties.	[8100, 752, 596, 14403, 323, 54392, 596, 14403, 8356, 12742, 282, 1955, 17604, 36680, 13]	15	ok
+919	Cheddar cheese originated from various locations beyond England's Cheddar region.	[1163, 78716, 17604, 44853, 505, 5370, 10687, 7953, 9635, 596, 921, 78716, 5654, 13]	14	ok
+920	Monterey Jack cheese originated from a Scottish immigrant's marketing efforts.	[11342, 466, 1216, 7762, 17604, 44853, 505, 264, 27188, 37650, 596, 8661, 9045, 13]	14	ok
+921	Greek feta's rich cultural significance and diverse regional variations exist.	[95448, 282, 1955, 596, 9257, 13042, 26431, 323, 17226, 15481, 27339, 3073, 13]	13	ok
+922	Feta cheese is made from sheep's milk predominantly in Greece.	[37, 1955, 17604, 374, 1903, 505, 33012, 596, 14403, 47904, 304, 25431, 13]	13	ok
+923	Feta cheese originates from Italian word fetta with Latin roots.	[37, 1955, 17604, 99970, 505, 15155, 3492, 16872, 2629, 449, 20023, 20282, 13]	13	ok
+924	Feta cheese offers complexity and character in every bite always.	[37, 1955, 17604, 6209, 23965, 323, 3752, 304, 1475, 23556, 2744, 13]	12	ok
+925	Feta cheese originates from sheep or goat milk typically.	[37, 1955, 17604, 99970, 505, 33012, 477, 54392, 14403, 11383, 13]	11	ok
+926	Traditional Feta cheese recipe adaptable to various milk sources.	[85782, 435, 1955, 17604, 11363, 94848, 311, 5370, 14403, 8336, 13]	11	ok
+927	Cheddar cheese originates from 12th-century English village of Cheddar.	[1163, 78716, 17604, 99970, 505, 220, 717, 339, 34457, 6498, 14458, 315, 921, 78716, 13]	15	ok
+928	Refrigerator sounds are normal during operation and closure.	[697, 1658, 7420, 859, 10578, 527, 4725, 2391, 5784, 323, 22722, 13]	12	ok
+929	Fridge silence is a rare and welcome auditory treat.	[37, 11431, 21847, 374, 264, 9024, 323, 10788, 83629, 4322, 13]	11	ok
+930	Fridge evaporation motor failure causes unusual loud noises inside.	[37, 11431, 3721, 96649, 9048, 8060, 11384, 19018, 17813, 58448, 4871, 13]	12	ok
+931	Defrost timer and temperature control unit produce distinct noises.	[2685, 42602, 9198, 323, 9499, 2585, 5089, 8356, 12742, 58448, 13]	11	ok
+932	Fridge noises often signal underlying mechanical problems requiring professional attention.	[37, 11431, 58448, 3629, 8450, 16940, 22936, 5435, 23537, 6721, 6666, 13]	12	ok
+933	Fridge humming noise may indicate a serious underlying issue.	[37, 11431, 87427, 12248, 1253, 13519, 264, 6129, 16940, 4360, 13]	11	ok
+934	Fridge imbalance causes humming noise from the bottom.	[37, 11431, 68331, 11384, 87427, 12248, 505, 279, 5740, 13]	10	ok
+935	Fridge compressor issues often manifest as a clicking noise suddenly.	[37, 11431, 59977, 4819, 3629, 14794, 439, 264, 18965, 12248, 15187, 13]	12	ok
+936	Fridge noise may indicate defroster malfunction or clogged water issue.	[37, 11431, 12248, 1253, 13519, 711, 299, 3751, 72287, 477, 272, 25909, 3090, 4360, 13]	15	ok
+937	Refrigerator noises occur due to temperature and door changes.	[697, 1658, 7420, 859, 58448, 12446, 4245, 311, 9499, 323, 6134, 4442, 13]	13	ok
+938	"Sports medicine doctors diagnose and treat injuries in athletes.
+
+They assess and manage various sports-related conditions, develop treatment plans, and provide rehabilitation services to athletes."	[42079, 16088, 16410, 58681, 323, 4322, 15319, 304, 23579, 382, 7009, 8720, 323, 10299, 5370, 10034, 14228, 4787, 11, 2274, 6514, 6787, 11, 323, 3493, 44438, 3600, 311, 23579, 13]	30	problèmes de génération
+939	Physiatrist is a medical doctor specializing in rehabilitation.	[67171, 10574, 2889, 374, 264, 6593, 10896, 58394, 304, 44438, 13]	11	ok
+940	Physicians specializing in physical medicine and rehabilitation treat back pain.	[67171, 9818, 58394, 304, 7106, 16088, 323, 44438, 4322, 1203, 6784, 13]	12	ok
+941	Physicians specializing in physical medicine and rehabilitation treat back pain.	[67171, 9818, 58394, 304, 7106, 16088, 323, 44438, 4322, 1203, 6784, 13]	12	ok
+942	Physiatrist helps patients regain function and enjoy life fully.	[67171, 10574, 2889, 8779, 6978, 49655, 734, 323, 4774, 2324, 7373, 13]	12	ok
+943	Physical therapists acquire clinical experience through sports residency training programs.	[40353, 68616, 21953, 14830, 3217, 1555, 10034, 53966, 4967, 7620, 13]	11	ok
+944	Physiatrist specializes in physical medicine and rehabilitation treatments effectively.	[67171, 10574, 2889, 46672, 304, 7106, 16088, 323, 44438, 22972, 13750, 13]	12	ok
+945	Physiatrists treat various back conditions and injuries effectively.	[67171, 10574, 95059, 4322, 5370, 1203, 4787, 323, 15319, 13750, 13]	11	ok
+946	Physical therapists require a doctorate degree and state licensure.	[40353, 68616, 1397, 264, 10896, 349, 8547, 323, 1614, 67336, 554, 13]	12	ok
+947	Accredited graduate programs are necessary for sports medicine therapists.	[14945, 1171, 1639, 19560, 7620, 527, 5995, 369, 10034, 16088, 68616, 13]	12	ok
+948	Seeing these creatures often signifies spiritual guidance and good fortune.	[83224, 1521, 20566, 3629, 78864, 18330, 19351, 323, 1695, 33415, 13]	11	ok
+949	Mantis embodies stillness and meditation's calming, inner peace benefits.	[44, 38966, 95122, 2103, 2136, 323, 33862, 596, 78729, 11, 9358, 9096, 7720, 13]	14	ok
+950	Mantis visit signals change or re-evaluation of life circumstances.	[44, 38966, 4034, 17738, 2349, 477, 312, 5773, 24756, 315, 2324, 13463, 13]	13	ok
+951	Mantises are insects with distinctive triangular heads and flexible necks.	[44, 519, 5014, 527, 41911, 449, 35947, 66594, 14971, 323, 19303, 13272, 82, 13]	14	ok
+952	Symbolic Praying Mantis represents good fortune and spiritual growth.	[15440, 292, 2394, 17718, 386, 38966, 11105, 1695, 33415, 323, 18330, 6650, 13]	13	ok
+953	Mantis brings inner peace amidst chaotic external circumstances suddenly.	[44, 38966, 12716, 9358, 9096, 65904, 53087, 9434, 13463, 15187, 13]	11	ok
+954	Praying mantis symbolizes inner peace and calm in turmoil.	[3617, 17718, 26976, 285, 7891, 4861, 9358, 9096, 323, 19858, 304, 63355, 13]	13	ok
+955	Common animal and symbol meanings are widely inquired about daily.	[11076, 10065, 323, 7891, 50800, 527, 13882, 304, 3004, 922, 7446, 13]	12	ok
+956	The Praying Mantis is a formidable and agile hunter.	[791, 2394, 17718, 386, 38966, 374, 264, 54829, 323, 62565, 40827, 13]	12	ok
+957	Gore-Tex laminate combines ePTFE and polyurethane for waterproof protection.	[38, 461, 9469, 327, 85934, 33511, 384, 2898, 11673, 323, 10062, 554, 86185, 369, 47519, 9313, 13]	17	ok
+958	Nobletex PU Coated Fabrics offer rugged, durable, and waterproof protection.	[45, 677, 1169, 327, 53188, 3623, 660, 19797, 6329, 3085, 55883, 11, 27220, 11, 323, 47519, 9313, 13]	18	ok
+959	Rainwear faces are treated with a water-repellent finish naturally.	[60139, 23581, 12580, 527, 12020, 449, 264, 3090, 5621, 38622, 306, 6381, 18182, 13]	14	ok
+960	Polyurethane is versatile plastic material used in multiple applications.	[39264, 554, 86185, 374, 33045, 12466, 3769, 1511, 304, 5361, 8522, 13]	12	ok
+961	Polyurethane is a highly resilient, flexible, and durable polymer material.	[39264, 554, 86185, 374, 264, 7701, 59780, 11, 19303, 11, 323, 27220, 47393, 3769, 13]	15	ok
+962	Waterproof fabrics are laminated with various waterproofing materials.	[29353, 16157, 53054, 527, 79533, 660, 449, 5370, 47519, 287, 7384, 13]	12	ok
+963	Waterproof fabrics resist water penetration and wetting naturally or artificially.	[29353, 16157, 53054, 22884, 3090, 44596, 323, 14739, 1303, 18182, 477, 78220, 13]	13	ok
+964	Coated fabrics offer enhanced properties through surface or bulk treatment.	[7489, 660, 53054, 3085, 24872, 6012, 1555, 7479, 477, 20155, 6514, 13]	12	ok
+965	Coated fabrics offer enhanced properties for various industrial uses worldwide.	[7489, 660, 53054, 3085, 24872, 6012, 369, 5370, 13076, 5829, 15603, 13]	12	ok
+966	Hydrotuff and Hydrolite offer durable, abrasion-resistant fabrics.	[31916, 67, 4744, 1386, 323, 10320, 67, 1098, 635, 3085, 27220, 11, 59681, 290, 47056, 53054, 13]	17	ok
+967	Car owners can upgrade their vehicles with various options.	[9028, 7980, 649, 14234, 872, 11731, 449, 5370, 2671, 13]	10	ok
+968	Premium marine vinyl and foam core materials are used.	[67567, 29691, 34549, 323, 32183, 6332, 7384, 527, 1511, 13]	10	ok
+969	DIY car seat reupholstery using affordable materials and tutorials.	[18091, 56, 1841, 10954, 312, 455, 8619, 77070, 1701, 17049, 7384, 323, 44912, 13]	14	ok
+970	Kent Auto Upholstery offers affordable reupholstery services in Indianapolis.	[85856, 9156, 100005, 337, 77070, 6209, 17049, 312, 455, 8619, 77070, 3600, 304, 42451, 13]	15	ok
+971	Ebay uses machine learning for pricing and trend analysis.	[36, 47364, 5829, 5780, 6975, 369, 21913, 323, 9327, 6492, 13]	11	ok
+972	Upgrading to a new layback seat greatly enhances interior aesthetics.	[2378, 33359, 311, 264, 502, 11203, 1445, 10954, 19407, 57924, 15135, 67323, 13]	13	ok
+973	Replacing old carpet with new alternatives has varying costs.	[82260, 2362, 28954, 449, 502, 27548, 706, 29865, 7194, 13]	10	ok
+974	Professional installation adds significant costs to custom slip cover projects.	[58613, 14028, 11621, 5199, 7194, 311, 2587, 21818, 3504, 7224, 13]	11	ok
+975	Custom car upholstery costs vary greatly depending on materials and complexity.	[10480, 1841, 96788, 7194, 13592, 19407, 11911, 389, 7384, 323, 23965, 13]	12	ok
+976	Follow jeep upholstery to get eBay updates instantly now.	[12763, 86276, 96788, 311, 636, 31006, 9013, 22571, 1457, 13]	10	ok
+977	Education Specialist at Southern Illinois Center for Workforce Development.	[40234, 40420, 520, 16642, 19174, 5955, 369, 5664, 9009, 11050, 13]	11	ok
+978	Citi Exec cards offer 24k AA miles after 12 months.	[34, 12583, 10502, 7563, 3085, 220, 1187, 74, 29334, 8931, 1306, 220, 717, 4038, 13]	15	ok
+979	Create digital memorials for ancestors and loved ones online.	[4110, 7528, 16420, 10522, 369, 38618, 323, 10456, 6305, 2930, 13]	11	ok
+980	UK People Finder reunites families with loved ones through compassionate searches.	[25554, 9029, 58270, 35740, 3695, 8689, 449, 10456, 6305, 1555, 60961, 27573, 13]	13	ok
+981	Lindsay Wagner is a multifaceted American actress and model.	[43, 55077, 52475, 374, 264, 62387, 582, 25489, 3778, 24577, 323, 1646, 13]	13	ok
+982	Citi credit card retention offers received and discussed with customer service.	[34, 12583, 6807, 3786, 38231, 6209, 4036, 323, 14407, 449, 6130, 2532, 13]	13	ok
+983	Michigan education leaders unite under various union affiliations.	[82657, 6873, 6164, 52696, 1234, 5370, 11552, 12204, 811, 13]	10	ok
+984	Lynda Carter is an American actress and former model.	[48412, 28996, 25581, 374, 459, 3778, 24577, 323, 4846, 1646, 13]	11	ok
+985	Turn onto Patapsco Avenue, proceed 2.5 miles to courthouse.	[19952, 8800, 7281, 2690, 1030, 17569, 11, 10570, 220, 17, 13, 20, 8931, 311, 82132, 13]	16	ok
+986	Christina Gallagher was Russo's executive assistant and former love interest.	[19875, 2259, 79087, 574, 93991, 596, 11145, 18328, 323, 4846, 3021, 2802, 13]	13	ok
+987	Researchers continue to investigate arrhythmias, making steady progress slowly.	[60210, 3136, 311, 19874, 2961, 61254, 3557, 11, 3339, 24981, 5208, 14297, 13]	13	ok
+988	Beta blockers for various conditions are available in multiple forms.	[65911, 84235, 369, 5370, 4787, 527, 2561, 304, 5361, 7739, 13]	11	ok
+989	Calcium channel blockers and beta-blockers regulate heart function effectively.	[48268, 2411, 5613, 84235, 323, 13746, 9612, 388, 37377, 4851, 734, 13750, 13]	13	ok
+990	Cardiovascular medications prevent heart attacks and stroke complications effectively.	[5889, 822, 33945, 31010, 5471, 4851, 8951, 323, 12943, 36505, 13750, 13]	12	ok
+991	Thiazide diuretics treat hypertension with varying efficacy gradually.	[1016, 28073, 579, 1891, 554, 13024, 4322, 63308, 449, 29865, 41265, 27115, 13]	13	ok
+992	Take your pulse regularly, especially with an artificial pacemaker.	[18293, 701, 28334, 15870, 11, 5423, 449, 459, 21075, 23744, 59775, 13]	12	ok
+993	Medications for arrhythmias often come with significant potential risks.	[13613, 124085, 369, 2961, 61254, 3557, 3629, 2586, 449, 5199, 4754, 15635, 13]	13	ok
+994	Discuss medications with your doctor to minimize cardiovascular risks.	[97654, 31010, 449, 701, 10896, 311, 30437, 41713, 15635, 13]	10	ok
+995	Ethacrinic acid treats edema and hypertension in specific cases.	[66490, 582, 26355, 292, 13935, 32839, 1608, 9355, 323, 63308, 304, 3230, 5157, 13]	14	ok
+996	Check your pulse regularly with your fingers or neck.	[4061, 701, 28334, 15870, 449, 701, 19779, 477, 13272, 13]	10	ok
+997	Data sources include various US government surveys and estimates.	[1061, 8336, 2997, 5370, 2326, 3109, 32313, 323, 17989, 13]	10	ok
+998	Matanuska-Susitna Borough, Alaska, is a US statistical area.	[11836, 59063, 4657, 6354, 355, 275, 3458, 85303, 11, 28366, 11, 374, 264, 2326, 29564, 3158, 13]	17	ok
+999	Matanuska-Susitna Valley is a region in Southcentral Alaska.	[11836, 59063, 4657, 6354, 355, 275, 3458, 13345, 374, 264, 5654, 304, 4987, 52911, 28366, 13]	16	ok

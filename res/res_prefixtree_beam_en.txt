@@ -1,0 +1,61 @@
+Exécution de ./Test_Generation_Tree_Beam.py sans argument d'entrée avec torchrun...
+ModelArgs with use_scaled_rope loaded!
+Chargement du Trie depuis Llama-3.2-3B/original/tokenized_trie.json
+Loading Tokenized_Trie from file
+Tokenized_Trie loaded successfully
+Trie chargé en 230.04s.
+Total GPUs available: 1
+> initializing model parallel with size 1
+> initializing ddp with size 1
+> initializing pipeline with size 1
+Modèle chargé en 9.82s.
+	 - 1, Beams len: 1, Max_cum_logprob: 0.0
+	 - 2, Beams len: 5, Max_cum_logprob: -2.045086145401001
+	 - 3, Beams len: 9, Max_cum_logprob: -2.0679219998419285
+	 - 4, Beams len: 13, Max_cum_logprob: -2.0679353511932277
+	 - 5, Beams len: 13, Max_cum_logprob: -2.0679353511932277
+	 - 6, Beams len: 13, Max_cum_logprob: -2.0679353511932277
+	 - 7, Beams len: 13, Max_cum_logprob: -2.0679353511932277
+	 - 8, Beams len: 13, Max_cum_logprob: -2.0679353511932277
+	 - 9, Beams len: 13, Max_cum_logprob: -2.0679353511932277
+	 - 10, Beams len: 13, Max_cum_logprob: -2.0679353511932277
+Réponse complète trouvée : The Eiffel Tower and Other Mythologies en 5.36s.
+	 - 11, Beams len: 12, Max_cum_logprob: -2.170086145401001
+	 - 12, Beams len: 16, Max_cum_logprob: -2.482586145401001
+	 - 13, Beams len: 20, Max_cum_logprob: -2.670086145401001
+	 - 14, Beams len: 24, Max_cum_logprob: -2.7128308564424515
+	 - 15, Beams len: 26, Max_cum_logprob: -2.7159354873001575
+	 - 16, Beams len: 26, Max_cum_logprob: -2.7159354873001575
+	 - 17, Beams len: 26, Max_cum_logprob: -2.7159354873001575
+Réponse complète trouvée : OK, I'm Sick en 5.47s.
+	 - 18, Beams len: 25, Max_cum_logprob: -2.860497772693634
+	 - 19, Beams len: 26, Max_cum_logprob: -2.8625505939126015
+	 - 20, Beams len: 26, Max_cum_logprob: -2.8625505939126015
+Réponse complète trouvée : Here is one hand en 5.52s.
+	 - 21, Beams len: 25, Max_cum_logprob: -2.9554459750652313
+	 - 22, Beams len: 28, Max_cum_logprob: -2.982586145401001
+	 - 23, Beams len: 32, Max_cum_logprob: -3.0248264893889427
+	 - 24, Beams len: 32, Max_cum_logprob: -3.0248264893889427
+	 - 25, Beams len: 32, Max_cum_logprob: -3.0248264893889427
+	 - 26, Beams len: 32, Max_cum_logprob: -3.0248264893889427
+	 - 27, Beams len: 32, Max_cum_logprob: -3.0248264893889427
+	 - 28, Beams len: 32, Max_cum_logprob: -3.0248264893889427
+	 - 29, Beams len: 32, Max_cum_logprob: -3.0248264893889427
+Réponse complète trouvée : ...The Dandy Warhols Come Down en 5.67s.
+	 - 30, Beams len: 31, Max_cum_logprob: -3.0619377121329308
+	 - 31, Beams len: 35, Max_cum_logprob: -3.1808637604117393
+	 - 32, Beams len: 37, Max_cum_logprob: -3.1874037268571556
+	 - 33, Beams len: 39, Max_cum_logprob: -3.187598495860584
+	 - 34, Beams len: 39, Max_cum_logprob: -3.187598495860584
+Réponse complète trouvée : Yes, I'm a Witch en 5.75s.
+Génération terminée en 5.75s.
+
+
+	Input: System: The assistant is an expert in the field(s) raised by the user. It must respond in a precise, concise and useful way, providing relevant information and following the instructions given. There is only one request from the user and the assistant must respond to this request without asking further questions.
+	User: Give me information about the Eiffel Tower.
+	Assistant:
+	Response 1: ('The Eiffel Tower and Other Mythologies<|end_of_text|>', -2.0679353511932277)
+	Response 2: ("OK, I'm Sick<|end_of_text|>", -2.7159354873001575)
+	Response 3: ('Here is one hand<|end_of_text|>', -2.8625505939126015)
+	Response 4: ('...The Dandy Warhols Come Down<|end_of_text|>', -3.0248264893889427)
+	Response 5: ("Yes, I'm a Witch<|end_of_text|>", -3.2688933602767065)

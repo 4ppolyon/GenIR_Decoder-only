@@ -1,0 +1,54 @@
+Obtaining file:///lustre/fswork/projects/rech/dsv/ufy16sp/Stage_M2/llama3
+Installing collected packages: llama3
+  Attempting uninstall: llama3
+    Found existing installation: llama3 0.0.1
+    Uninstalling llama3-0.0.1:
+      Successfully uninstalled llama3-0.0.1
+  Running setup.py develop for llama3
+Successfully installed llama3-0.0.1
+Exécution de ./example_text_completion.py sans argument d'entrée avec torchrun...
+ModelArgs with use_scaled_rope loaded!
+> initializing model parallel with size 1
+> initializing ddp with size 1
+> initializing pipeline with size 1
+Loaded in 1.63 seconds
+Je pense que le sens de la vie est
+>  de vivre au mieux et de ne pas avoir peur de mourir. Je pense que la vie est une épreuve qui doit être vécue avec fermeté. Je pense que la vie est une épreuve qui doit être vécue avec fermeté.
+Je pense que la vie est
+
+==================================
+
+Pour faire simple, la théorie de la relativité affirme que 
+> 1) l’espace-temps est une dimension de l’espace, 2) l’espace-temps est une dimension de l’espace, 3) l’espace-temps est une dimension de l’espace, 4) l’espace-temps est une dimension de l’espace, 
+
+==================================
+
+Message de félicitations à l'équipe pour le lancement :
+
+        Bonjour à tous,
+
+        Je voulais juste 
+>  vous féliciter pour l'acquisition de cette nouvelle machine.  Je suis heureux que vous ayez trouvé une solution qui vous a permis d'atteindre un niveau de performance qui vous permettra de travailler avec de meilleurs outils et de faire des travaux plus productifs.
+
+        Je
+
+==================================
+
+Traduire de l'anglais au français :
+
+        sea otter => loutre de mer
+        peppermint => menthe poivrée
+        plush giraffe => girafe en peluche
+        cheese =>
+>  fromage
+        copper => cuivre
+        periwinkle => pélican
+        minnow => minou
+        tiger => tigre
+        seagull => gosier
+        walrus => rhinocéros
+        herring => hérissé
+        salmon => sa
+
+==================================
+

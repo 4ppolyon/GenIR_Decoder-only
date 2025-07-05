@@ -1,0 +1,17 @@
+pandas
+numpy
+torch
+transformers
+rank_bm25
+scikit-learn
+seaborn
+matplotlib
+tqdm
+sentencepiece
+fairscale
+tiktoken==0.4.0
+blobfile
+fire
+setuptools
+importlib-metadata
+vllm

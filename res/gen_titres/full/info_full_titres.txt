@@ -1,0 +1,37 @@
+Générés et enregistrés en 50238 (14h)
+add data 219s (3min)
+stats_titres 39s
+
+Total summaries: 8841823
+Average size: 13.59
+Variance: 22.87
+Median size: 13
+Min size: 2 (id: 4082130)
+Max size: 154 (id: 2721643)
+
+Category counts:
+ok: 8603025 (97.30%)
+problèmes de génération: 134669 (1.52%)
+autre: 103521 (1.17%)
+problèmes instruction: 608 (0.01%)
+___________________________________________________
+correction titres 589 secondes (9min)
+[Fallback résumé] id=268291 : aucune ligne utile après filtrage.
+[Fallback résumé] id=3858792 : aucune ligne utile après filtrage.
+[Fallback résumé] id=1042545 : aucune ligne utile après filtrage.
+
+add data 237 (4min)
+stats_titres 38s
+
+Total summaries: 8841823
+Average size: 13.37
+Variance: 3.92
+Median size: 13
+Min size: 6 (id: 7141428)
+Max size: 22 (id: 1476847)
+
+Category counts:
+ok: 8841802 (100.00%)
+autre: 15 (0.00%)
+problèmes de génération: 4 (0.00%)
+problèmes instruction: 2 (0.00%)
